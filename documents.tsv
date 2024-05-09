@@ -1,0 +1,577 @@
+doc_id	snt_id	snt_source
+15	M1_15_1	Upon completion, subjects rested on the bike for 2 min before undertaking 10×30 s high intensity intervals at ∼110% of PPO, with 30 s active recovery (∼50% PPO) between each work bout.
+1533716782	G01.1_1533716782_1	With network and small screen device improvements, such as wireless abilities, increased memory and CPU speeds, users are no longer limited by location when accessing on-line information.
+1533716782	G01.1_1533716782_2	We are interested in studying the effect of users switching from a large screen device, such as a desktop or laptop to use the same web page on a small device, in this case a PDA (Personal Digital Assistant).
+1533716782	G01.1_1533716782_3	We discuss three common transformation approaches for display of web pages on the small screen: Direct Migration, Linear and Overview.
+1533716782	G01.1_1533716782_4	We introduce a new Overview method, called the Gateway, for use on the small screen that exploits a user’s familiarity of a web page.
+1533716782	G01.1_1533716782_5	The users in an initial study prefer using the Gateway and Direct Migration approach for web pages previously used on the large screen, despite the common Linear approach used by many web sites.
+2093013061	G10.1_2093013061_1	In this paper, we present an integrated navigation system that allows humanoid robots to autonomously navigate in unknown, cluttered environments.
+2093013061	G10.1_2093013061_2	From the data of an onboard consumer-grade depth camera, our system estimates the robot's pose to compensate for drift of odometry and maintains a heightmap representation of the environment.
+2093013061	G10.1_2093013061_3	Based on this model, our system iteratively computes sequences of safe actions including footsteps and whole-body motions, leading the robot to target locations.
+2093013061	G10.1_2093013061_4	To efficiently check for collisions during planning, we developed a new approach that takes into account the shape of the robot and the obstacles.
+2093013061	G10.1_2093013061_5	As we demonstrate in experiments with a Nao humanoid, our system leads to robust navigation in cluttered environments and the robot is able to traverse highly challenging passages.
+2339209416	G04.1_2339209416_1	Annotation of bioassay protocols using semantic web vocabulary is a way to make experiment descriptions machine-readable.
+2339209416	G04.1_2339209416_2	Protocols are communicated using concise scientific English, which precludes most kinds of analysis by software algorithms.
+2339209416	G04.1_2339209416_3	Given the availability of a sufficiently expressive ontology, some or all of the pertinent information can be captured by asserting a series of facts, expressed as semantic web triples (subject, predicate, object).
+2339209416	G04.1_2339209416_4	With appropriate annotation, assays can be searched, clustered, tagged and evaluated in a multitude of ways, analogous to other segments of drug discovery informatics.
+2339209416	G04.1_2339209416_5	The BioAssay Ontology (BAO) has been previously designed for this express purpose, and provides a layered hierarchy of meaningful terms which can be linked to.
+2757079914	G05.1_2757079914_1	CRISPR-Cas is a tool that is widely used for gene editing.
+2757079914	G05.1_2757079914_2	However, unexpected off-target effects may occur as a result of long-term nuclease activity.
+2757079914	G05.1_2757079914_3	Anti-CRISPR proteins, which are powerful molecules that inhibit the CRISPR-Cas system, may have the potential to promote better utilization of the CRISPR-Cas system in gene editing, especially for gene therapy.
+2757079914	G05.1_2757079914_4	Additionally, more in-depth research on these proteins would help researchers to better understand the co-evolution of bacteria and phages.
+2757079914	G05.1_2757079914_5	Therefore, it is necessary to collect and integrate data on various types of anti-CRISPRs.
+2889349357	G08.1_2889349357_1	With the introduction of memory-bound cryptocurrencies, such as Monero, the implementation of mining code in browser-based JavaScript has become a worthwhile alternative to dedicated mining rigs.
+2889349357	G08.1_2889349357_2	Based on this technology, a new form of parasitic computing, widely called cryptojacking or drive-by mining, has gained momentum in the web. A cryptojacking site abuses the computing resources of its visitors to covertly mine for cryptocurrencies.
+2889349357	G08.1_2889349357_3	In this paper, we systematically explore this phenomenon. For this, we propose a 3-phase analysis approach, which enables us to identify mining scripts and conduct a large-scale study on the prevalence of cryptojacking in the Alexa 1 million websites.
+2889349357	G08.1_2889349357_4	We find that cryptojacking is common, with currently 1 out of 500 sites hosting a mining script.
+2889349357	G08.1_2889349357_5	Moreover, we perform several secondary analyses to gain insight into the cryptojacking landscape, including a measurement of code characteristics, an estimate of expected mining revenue, and an evaluation of current blacklist-based countermeasures.
+2889740235	G08.1_2889740235_1	Vandal is both fast and robust, successfully analysing over 95\% of all 141k unique contracts with an average runtime of 4.15 seconds; outperforming the current state of the art tools---Oyente, EthIR, Mythril, and Rattle---under equivalent conditions.
+2941964798	G04.3_2941964798_1	Identifying antimicrobial resistant (AMR) bacteria in metagenomics samples is essential for public health and food safety.
+2941964798	G04.3_2941964798_2	Next-generation sequencing (NGS) technology has provided a powerful tool in identifying the genetic variation and constructing the correlations between genotype and phenotype in humans and other species.
+2941964798	G04.3_2941964798_3	a Bayesian framework for genotype estimation for mixtures of multiple bacteria, named as Genetic Polymorphisms Assignments (GPA) has reduced the false discovery rate (FDR) and mean absolute error (MAE) in single nucleotide variant (SNV) identification.
+2968176166	G06.2_2968176166_1	In recent years self-driving vehicles have become more commonplace on public roads, with the promise of bringing safety and efficiency to modern transportation systems.
+2968176166	G06.2_2968176166_2	Increasing the reliability of these vehicles on the road requires an extensive suite of software tests, ideally performed on highfidelity simulators, where multiple vehicles and pedestrians interact with the self-driving vehicle.
+2968176166	G06.2_2968176166_3	It is therefore of critical importance to ensure that self-driving software is assessed against a wide range of challenging simulated driving scenarios.
+2968176166	G06.2_2968176166_4	The state of the art in driving scenario generation, as adopted by some of the front-runners of the self-driving car industry, still relies on human input [1].
+2968176166	G06.2_2968176166_5	In this paper we propose to automate the process using Bayesian optimization to generate adversarial self-driving scenarios that expose poorly-engineered or poorly-trained self-driving policies, and increase the risk of collision with simulated pedestrians and vehicles.
+2968176166	G06.2_2968176166_6	We show that by incorporating the generated scenarios into the training set of the self-driving policy, and by fine-tuning the policy using vision-based imitation learning we obtain safer self-driving behavior.
+1019677957	G01.1_1019677957_1	In recent years, mobile technologies have developed and applied in education fields, and some mobile emerging carriers with mobile technologies include a personal digital assistant (PDA), smart phone, and e-book.
+1019677957	G01.1_1019677957_2	Some of the mobile carriers combines context-aware technologies or involve into wireless network environments to make effective use through the combination of learning scenarios and technologies, and then provide students new learning experiences differed from the past learning.
+1019677957	G01.1_1019677957_3	In view of the application of mobile technology in education, some previous studies have addressed that mobile learning is a meaningful learning that can improve the interaction between students and the situations and reach the purposes of learning.
+1019677957	G01.1_1019677957_4	In the main stream of mobile learning, using mobile carriers with suitable learning methods or strategies in mobile learning activities for different students to enhance learning have gradually become a important and concern issue.
+1019677957	G01.1_1019677957_5	The purpose of this study is to investigate the learning achievement and learning attitude of elementary school students on a campus plant learning activity when they use mobile carriers and competitive learning strategies.
+1019677957	G01.1_1019677957_6	The experimental results show that the competitive learning group of students have better learning performance than non-competitive learning group of students.
+1019677957	G01.1_1019677957_7	After completing the learning activity, the two groups of students presented high positive attitudes towards learning.
+131359426	G01.1_131359426_1	A significative percentage of the human population suffer from impairments in their capacity to distinguish or even see colours.
+131359426	G01.1_131359426_2	For them, everyday tasks like navigating through a train or metro network map becomes demanding.
+131359426	G01.1_131359426_3	We present a novel technique for extracting colour information from everyday natural stimuli and presenting it to visually impaired users as pleasant, non-invasive sound.
+131359426	G01.1_131359426_4	This technique was implemented inside a Personal Digital Assistant (PDA) portable device.
+131359426	G01.1_131359426_5	In this implementation, colour information is extracted from the input image and categorised according to how human observers segment the colour space.
+131359426	G01.1_131359426_6	This information is subsequently converted into sound and sent to the user via speakers or headphones.
+131359426	G01.1_131359426_7	In the original implementation, it is possible for the user to send its feedback to reconfigure the system, however several features such as these were not implemented because the current technology is limited.We are confident that the full implementation will be possible in the near future as PDA technology improves.
+151188962	G01.1_151188962_1	Recently pedestrian navigation has been studied by many researchers, which provides pedestrians with a similar function of car navigation.
+151188962	G01.1_151188962_2	On the other hand, a 3dimensional (3D) map, which is one of major themes in machine vision research, has been utilized as a simulation tool in city and landscape planning, and other engineering fields.
+151188962	G01.1_151188962_3	The 3D maps will give more intuitive information compared to conventional 2-dimensional (2D) ones.
+151188962	G01.1_151188962_4	In this paper we first propose pedestrian navigation based on 3D maps, and describe technologies required and its use situations.
+151188962	G01.1_151188962_5	Secondly we compare effectiveness of 2D and 3D maps for navigation by object search experiments under conditions: 3D maps with and without texture; display sizes corresponding to a mobile phone and PDA (Personal Digital Assistant).
+151188962	G01.1_151188962_6	The experimental results show that 3D maps with texture on mobile phone display size, and 3D maps without texture on PDA display size are superior to 2D maps in search time and error rate.
+151188962	G01.1_151188962_7	From these results, we can say the effectiveness of 3D maps in pedestrian navigation.
+1527694686	G01.1_1527694686_1	In the ubiquitous environment, mobile terminals like personal digital assistant or cellular phone are used to access the Web.
+1527694686	G01.1_1527694686_10	We implemented the procedures in a ubiquitous/universal passive viewer (u-PaV) system that transforms Web content into passive viewing content that is especially useful for mobile terminals.
+1527694686	G01.1_1527694686_11	Extracting images and text from Web content, u-PaV generates a Macromedia Flash file, which is a popular multimedia format.
+1527694686	G01.1_1527694686_2	Although the presentation of Web content depends on the terminal type, the Web interface of mobile terminals is designed almost the same as that of personal computers.
+1527694686	G01.1_1527694686_3	However, comparing mobile and desktop terminals, some difference in device characteristics, such as screen resolution or sound faithfulness, affect the presentation on the terminal.
+1527694686	G01.1_1527694686_4	Moreover, when changing the access style between interactive and passive, the presentation should be adjusted for the terminal type because the lacking information is usually not perceived after transformation.
+1527694686	G01.1_1527694686_5	To adjust the play style of Web content to the terminal type, we developed a method for visual presentation.
+1527694686	G01.1_1527694686_6	First, using keyword analysis, we represent the emotional aspect of a Web page by adjusting the background color of the screen.
+1527694686	G01.1_1527694686_7	Second, we emphasize the subject of the content by the logotype of the keyword.
+1527694686	G01.1_1527694686_8	Third, we segment the picture of the content into pieces and present one after another using visual effects.
+1527694686	G01.1_1527694686_9	These procedures can be applied to any type of terminal.
+19	M1_19_1	The alcohol ingestion protocol (1.5 g·kg−1 BM; 12±2 standard drinks) began 1 h post-exercise and was consumed in 6 equal volumes of 1 part vodka (∼60 mL) to four parts orange juice (∼240 mL, 1.8 g CHO·kg−1 BM) during a 3 h period.
+2810968146	G06.2_2810968146_1	We introduce Ignition: an end-to-end neural network architecture for training unconstrained self-driving vehicles in simulated environments.
+2810968146	G06.2_2810968146_2	The model is a ResNet-18 variant, which is fed in images from the front of a simulated F1 car, and outputs optimal labels for steering, throttle, braking.
+2810968146	G06.2_2810968146_3	Importantly, we never explicitly train the model to detect road features like the outline of a track or distance to other cars; instead, we illustrate that these latent features can be automatically encapsulated by the network.
+2895247503	G08.1_2895247503_1	As Bitcoin's popularity has grown over the decade since its creation, it has become an increasingly attractive target for adversaries of all kinds.
+150012053	G01.1_150012053_1	Advancement of wireless and mobile technology has enabled additional platforms to support learning in a single learning space.
+150012053	G01.1_150012053_2	Current trend integrates usage of mobile terminals such as smart PDA (personal digital assistant) in a learning system.
+150012053	G01.1_150012053_3	Such devices can communicate with wireless mobile terminal and realize the intelligence exchange with its surroundings [1].
+150012053	G01.1_150012053_4	A LOCH (Language Learning Outside the Classroom) system named One Day Trip is developed to assist overseas students to learn Japanese in real life situations with the help of a PDA.
+150012053	G01.1_150012053_5	This paper proposes the implementation with Knowledge Management (KM) concepts in the system to aid the teacher and learners in the learning environment.
+1530854586	G01.1_1530854586_1	This study explored the potential of the application of wireless and mobile computing technologies to be used in improving the efficiency of patient care and education and future developments in information and communication technologies to support healthcare professionals and medical students in healthcare research, medical education and training.
+1530854586	G01.1_1530854586_2	The design used for this study was a systematic review of published materials obtained from EMBASE and MEDLINE online databases, and the Cochrane Library database, including personal observations.
+1530854586	G01.1_1530854586_3	Today, more than 50% of healthcare professionals and medical students are using Personal Digital Assistant with expected growth of more than 75% by year-end 2007.
+1530854586	G01.1_1530854586_4	In addition, wireless and mobile computing technologies allows Personal Digital Assistant to connect directly to networks or the Internet.
+1530854586	G01.1_1530854586_5	Studies relating to processes of patient care and should evaluate mobile computing technologies as a potential timesaving tool.
+1530854586	G01.1_1530854586_6	Wireless and mobile computing technologies is only beginning to take its first step in improving patient care and education.
+1530854586	G01.1_1530854586_7	They have shown a positive impact on patient safety, health care efficiency, and ultimately patient satisfaction.
+1532553277	G01.1_1532553277_1	Take 8-bit microcontroller (C8051F005) as the nucleus and study a kind of voltage harmonic monitor device that satisfies the long-range monitor.
+1532553277	G01.1_1532553277_2	The harmonic analysis algorithm adopts Fast Fourier Transform (FFT).
+1532553277	G01.1_1532553277_3	This device has two work modes: ”native” and ”remote”.
+1532553277	G01.1_1532553277_4	It also can communicate with monitor center through telephone line, serial port, IC card, PDA (Personal Digital Assistant), etc.
+2892036907	G11.1_2892036907_1	In the modern era of automation and robotics, autonomous vehicles are currently the focus of academic and industrial research.
+2892036907	G11.1_2892036907_2	With the ever increasing number of unmanned aerial vehicles getting involved in activities in the civilian and commercial domain, there is an increased need for autonomy in these systems too.
+2892036907	G11.1_2892036907_3	Due to guidelines set by the governments regarding the operation ceiling of civil drones, road-tracking based navigation is garnering interest.
+2892036907	G11.1_2892036907_4	In an attempt to achieve the above mentioned tasks, we propose an imitation learning based, data-driven solution to UAV autonomy for navigating through city streets by learning to fly by imitating an expert pilot.
+2892036907	G11.1_2892036907_5	Derived from the classic image classification algorithms, our classifier has been constructed in the form of a fast 39-layered Inception model, that evaluates the presence of roads using the tomographic reconstructions of the input frames.
+2892036907	G11.1_2892036907_6	Based on the Inception-v3 architecture, our system performs better in terms of processing complexity and accuracy than many existing models for imitation learning.
+2892036907	G11.1_2892036907_7	The data used for training the system has been captured from the drone, by flying it in and around urban and semi-urban streets, by experts having at least 6-8 years of flying experience.
+2892036907	G11.1_2892036907_8	Permissions were taken from required authorities who made sure that minimal risk (to pedestrians) is involved in the data collection process.
+2892036907	G11.1_2892036907_9	With the extensive amount of drone data that we collected, we have been able to navigate successfully through roads without crashing or overshooting, with an accuracy of 98.44%.
+2892036907	G11.1_2892036907_10	The computational efficiency of MAVNet enables the drone to fly at high speeds of up to 6m/sec.
+2892036907	G11.1_2892036907_11	We present the same results in this research and compare them with other state-of-the-art methods of vision and learning based navigation.
+1448624402	G01.2_1448624402_1	As extensive experimental research has shown individuals suffer from diverse biases in decision-making.
+1448624402	G01.2_1448624402_2	In our paper we analyze the effects of decision-making biases of managers in collaborative decision processes on organizational performance.
+1448624402	G01.2_1448624402_3	In the simulations, managerial decisions which are based on different levels of organizational complexity and different incentive systems suffer from biases known from descriptive decision theory.
+1448624402	G01.2_1448624402_4	The results illustrate how biases in combination with each other and in different organizational contexts affect organizational performance.
+1448624402	G01.2_1448624402_5	We find that, contrary to intuition, some combinations of biases significantly improve organizational performance while these biases negatively affect organizational performance when they occur separately.
+1448624402	G01.2_1448624402_6	This might evoke considerations whether decision-making should be as rational as possible.
+1500084159	G01.1_1500084159_1	In monitoring a patientu0027s real-time vital signs through Body Area Networks (BAN), rich data sources are communicated to medical practitioners.
+1500084159	G01.1_1500084159_2	It is essential that data is delivered in timely-context aware manner.
+1500084159	G01.1_1500084159_3	In this paper a system is designed for patients with cardiac disorders, with an emphasis on the design of the sensing device and communication scheme chosen.
+1500084159	G01.1_1500084159_4	Several existing wearable physiological devices (Patient Sensing Device — PSD) used in the Healthcare systems are bulky in design and are not flexible and comfortable for the elderly patients.
+1500084159	G01.1_1500084159_5	Presented is a unique flexible, as well as detachable PSD for the comfort of patients.
+1500084159	G01.1_1500084159_6	Also discussed is a model for transmission, storage and processing of patient related data, which ensures periodic logging of patient data without saturating communication networks.
+1500084159	G01.1_1500084159_7	A proof of concept prototype has been developed and implemented to enable transmission of Electrocardiogram (ECG) signal and body temperature of a patient, which can be expanded to include other vital signs.
+1500084159	G01.1_1500084159_8	Communication between a mobile smart-phone and the ECG and temperature acquisition apparatus is implemented Bluetooth.
+1500084159	G01.1_1500084159_9	The presented Data Management System — Periodic Model (DMS — PM) is designed to manage wireless interface of sensor units with the patient database at a Medical Service Provider (MSP) through a Personal Digital Assistant (PDA) or a Smart phone making use of the existing GSM network.
+1511670876	G01.1_1511670876_1	"Objective: To evaluate the effectiveness of a personal digital assistant (PDA)–based clinical decision support system (CDSS) on nonsteroidal anti-inflammatory drug (NSAID) prescribing safety in the outpatient  :[26],""The design was a randomized, controlled trial conducted in a university-based resident clinic."
+1511670876	G01.1_1511670876_2	Internal medicine residents received a PDA-based CDSS suite.
+1511670876	G01.1_1511670876_3	For intervention residents, the CDSS included a prediction rule for NSAID-related gastrointestinal risk assessment and treatment recommendations.
+1511670876	G01.1_1511670876_4	Unannounced standardized patients (SPs) trained to portray musculoskeletal symptoms presented to study physicians.
+1511670876	G01.1_1511670876_5	Safety outcomes were assessed from the prescriptions given to the SPs.
+1511670876	G01.1_1511670876_6	"Each prescription was reviewed by a committee of clinicians blinded to participant, intervention group assignment, and baseline or follow-up  :[108],""Prescriptions were judged as safe or unsafe."
+1511670876	G01.1_1511670876_7	":[26],""The main outcome measure was the differential change in unsafe prescribing of NSAIDs for the intervention versus the control  :[135],""At baseline, the mean proportion of cases per physician with unsafe prescriptions for the two groups was similar (0.27 vs. 0.29, p u003e 0.05)."
+1511670876	G01.1_1511670876_8	Controlling for baseline performance, intervention participants prescribed more safely than controls after receiving the CDSS (0.23 vs. 0.45 [F = 4.24, p u003c 0.05]).
+1511670876	G01.1_1511670876_9	"With the CDSS, intervention participants documented more complete assessment of patient gastrointestinal risk from  :[198],""Participants provided with a PDA-based CDSS for NSAID prescribing made fewer unsafe treatment decisions than participants without the CDSS."
+27	M1_27_1	In conclusion, the current data provide the novel observation that alcohol impairs the response of MPS in exercise recovery in human skeletal muscle despite optimal nutrient provision.
+2949291273	G03.1_2949291273_1	the smart speakers cannot distinguish human voice from machine voice.
+2949291273	G03.1_2949291273_2	a method to identify which of human or machine is sending voice commands to a smart speaker is desired.
+2949291273	G03.1_2949291273_3	to prevent such machine-voice based attacks to a smart speaker in absence of residents, we propose a system consisting of a speaker and a microphone array to detect the existence of a human nearby, supposing it can be incorporated in a smart speaker in the future.
+57	M25_57_1	In Japan, there were an estimated 43 million patients with hypertension in 2010.
+57	M25_57_2	The management of this condition is given the highest priority in disease control, and the importance of lifestyle changes for the prevention and treatment of hypertension has been recognized in Japan.
+57	M25_57_3	In particular, emphasis has been placed on increasing the levels of activities of daily living and physical exercise (sports).
+57	M25_57_4	In this literature review, we examined appropriate exercise prescriptions (e.g., type, intensity, duration per session, and frequency) for the prevention and treatment of hypertension as described in Japanese and foreign articles.
+57	M25_57_5	This review recommends safe and effective whole-body aerobic exercise at moderate intensity (i.e., 50-65% of maximum oxygen intake, 30-60 min per session, 3-4 times a week) that primarily focuses on the major muscle groups for the prevention and treatment of hypertension.
+57	M25_57_6	Resistance exercise should be performed at low-intensity without breath-holding and should be used as supplementary exercise, but resistance exercise is contraindicated in patients with hypertension who have chest symptoms such as chest pain.
+1493916683	G01.1_1493916683_1	This paper presents M-CALL, a mobile computer-assisted language learning courseware for Korean language learners.
+1493916683	G01.1_1493916683_2	Since conventional computer-assisted language learning is often boring, it exploits a cyber pet game to increase the learner’s interest.
+1493916683	G01.1_1493916683_3	M-CALL runs on a personal digital assistant with public wireless LAN for mobile learning.
+1493916683	G01.1_1493916683_4	It grows a cyber pet by solving problems of Korean language learning.
+1493916683	G01.1_1493916683_5	Korean Proficiency Test (KPT), a nationally certified Korean language test, was used as problem sets.
+1493916683	G01.1_1493916683_6	It consists of cyber pet game, mobile learning courseware, mobile learning system, and mobile tutoring.
+1493916683	G01.1_1493916683_7	It provides various functions for Korean language learning.
+1493916683	G01.1_1493916683_8	Currently, the prototype M-CALL was designed and partly implemented between mobile PDA and personal computer.
+1504856008	G01.1_1504856008_1	Unlike many other classes of hardware, smartcards do not have the ability to communicate securely with the user.
+1504856008	G01.1_1504856008_2	Deprived of means to keep the owner informed, the positive properties of smartcards are difficult to utilize.
+1504856008	G01.1_1504856008_3	We explore the area at the border between smartcards and other, more powerful (and thus more useful), machines.
+1504856008	G01.1_1504856008_4	"On the other side of this border we find the Personal Digital Assistant  :[66],""our view, to be useful as an extension of the usersu0027 private sphere, a machine must at least have enough functionality and resources to create trustworthy digital signatures (to speak for the user, as it were)."
+1504856008	G01.1_1504856008_5	"A less resourceful machine can merely act as a memory prothesis, helping the owner remembering addresses and phone  are :[121],""designed to be tamper resistant, and as such they seem ideal as a minimal machine."
+1504856008	G01.1_1504856008_6	"However, trustworthy digital signatures can not be created by smartcards alone, simply because the user does not know what is given to the card for  :[163],""order to be trusted--that is, being able to make trustworthy digital signatures--a smartcard must be supported by some infrastructure outside the card proper."
+1504856008	G01.1_1504856008_7	"We explore what must be included in such an infrastructure, and demonstrate that trustworthy digital signatures can in fact be made using a standard  :[211],""argue that based on this fact, nontrivial distributed systems can be constructed by utilizing smartcards; a nontrivial system is one where holders of smartcards are ""first class citizens""."
+1504856008	G01.1_1504856008_8	"Asserting that a smartcard can act as a trusted machine gives new opportunities for designers of user-centric  that smartcards are :[257],""here to stay, finding ways to apply them in constructive manners is prudent."
+1516508996	G01.1_1516508996_1	Summary form only given, as follows.
+1516508996	G01.1_1516508996_2	We present a design for a low cost but powerful and high speed communications device powered by IDTu0027s RV4640 as its processing engine.
+1516508996	G01.1_1516508996_3	The device can achieve very high speed, thanks to the PCI bus compatible IDT ATM NIC.
+1516508996	G01.1_1516508996_4	The device could be used as a two way pager, a set-top box, an Internet terminal, a personal digital assistant or as a video phone.
+1516508996	G01.1_1516508996_5	The RV4640 is a very affordable 64 bit RISC processor that executes 175 dhrystone MIPS at 133 MHz.
+1516508996	G01.1_1516508996_6	The RV4640 can be connected to a System Interface Chip which will provide I/O and memory control.
+1516508996	G01.1_1516508996_7	The IDT77903 ATM card is a full duplexed 25 Mbps NIC with a PCI bus interface and it costs less than $100 (US).
+1516508996	G01.1_1516508996_8	Integrating this card into our device as a network interface will make highspeed videoconferencing and multimedia applications easily implementable.
+2749521565	G07.2_2749521565_1	Yet contemporary work in Philosophy argues provisional belief in conspiracy theories is—at the very—least understandable (because conspiracies occur) and if we take an evidential approach—judging individual conspiracy theories on their particular merits—belief in such theories turns out to be warranted in a range of cases.
+2749521565	G07.2_2749521565_2	Drawing on this work, I examine the kinds of evidence typically associated with conspiracy theories, showing that the evidential problems typically associated with conspiracy theories are not unique to such theories.
+2749521565	G07.2_2749521565_3	As such, if there is a problem with the conspiracy theorist’s use of evidence, it is one of principle: is the principle which guides their use of evidence somehow in error? I argue that whatever we might think about conspiracy theories generally, there is no prima facie case for a scepticism of conspiracy theories based purely on their use of evidence.
+2888100547	G07.1_2888100547_1	Online social media provide users with unprecedented opportunities to engage with diverse opinions.
+2888100547	G07.1_2888100547_2	Simultaneously, they allow the spread of misinformation by empowering individuals to self-select the narratives they want to be exposed to, both through active (confirmation bias) and passive (personalized news algorithms) self-reinforcing mechanisms.
+2888100547	G07.1_2888100547_3	A precise theoretical understanding of such trade-offs is still largely missing.
+2888100547	G07.1_2888100547_4	We introduce a stylized social learning model where most participants in a network update their beliefs unbiasedly based on the arrival of new information, while a fraction of participants display confirmation bias, enabling them to reject news that are incongruent with their pre-existing beliefs.
+2888100547	G07.1_2888100547_5	We show that this simple confirmation bias mechanism can generate permanent opinion polarisation.
+2888100547	G07.1_2888100547_6	"Furthermore, the model results in states where unbiased agents behave ""as if"" they were biased, due to their biased neighbours effectively functioning as gatekeepers, restricting their access to free and diverse information."
+2888100547	G07.1_2888100547_7	We derive analytic results for the distribution of individual agents’ beliefs, explicitly demonstrating the aforementioned trade-off between confirmation bias and social connectivity, which we further validate against US county-level data on the impact of Internet access on the formation of beliefs about global warming.
+2888100547	G07.1_2888100547_8	Our findings indicate that confirmation bias in small doses may actually result in improved accuracy across individuals by preserving information diversity in a social network.
+2888100547	G07.1_2888100547_9	However, results also indicate that when confirmation bias grows past an optimal value, accuracy declines as biased agents restrict information flow to subgroups.
+2888100547	G07.1_2888100547_10	We discuss the policy implications of our model, highlighting the downside of debunking strategies and suggesting alternative strategies to contrast misinformation.
+7	M1_7_1	The outcomes of binge drinking after exercise are likely to include the direct effect of alcohol on physiological processes as well as the indirect effect on the athlete's recovery due to not eating or resting adequately as a result of intoxication.
+54	M22_54_1	Recovery from exercise refers to the time period between the end of a bout of exercise and the subsequent return to a resting or recovered state.
+54	M22_54_2	It also refers to specific physiological processes or states occurring after exercise that are distinct from the physiology of either the exercising or the resting states.
+54	M22_54_3	In this context, recovery of the cardiovascular system after exercise occurs across a period of minutes to hours, during which many characteristics of the system, even how it is controlled, change over time.
+54	M22_54_4	Some of these changes may be necessary for long-term adaptation to exercise training, yet some can lead to cardiovascular instability during recovery.
+54	M22_54_5	Furthermore, some of these changes may provide insight into when the cardiovascular system has recovered from prior training and is physiologically ready for additional training stress.
+54	M22_54_6	This review focuses on the most consistently observed hemodynamic adjustments and the underlying causes that drive cardiovascular recovery and will highlight how they differ following resistance and aerobic exercise.
+54	M22_54_7	Primary emphasis will be placed on the hypotensive effect of aerobic and resistance exercise and associated mechanisms that have clinical relevance, but if left unchecked, can progress to symptomatic hypotension and syncope.
+54	M22_54_8	Finally, we focus on the practical application of this information to strategies to maximize the benefits of cardiovascular recovery, or minimize the vulnerabilities of this state.
+54	M22_54_9	We will explore appropriate field measures, and discuss to what extent these can guide an athlete's training.
+55	M23_55_1	"Exercise and physical activity are increasingly becoming key tools in the treatment and prevention of several medical conditions including arthritis and diabetes; this notion has been termed ""exercise as medicine""."
+55	M23_55_2	Exercise has favorable effects on reducing cardiovascular risk, inflammation, cachexia, and hypertension, in addition to increasing physical functioning, strength, and cardio-respiratory capacity.
+55	M23_55_3	Chronic kidney disease, a condition that affects around 10% of the population, is often overlooked as a target for exercise-based therapy.
+55	M23_55_4	Despite the vast range of severity in kidney disease (e.g., pre-dialysis, dialysis, transplant), exercise has a potential role in all patients suffering from the condition.
+55	M23_55_5	In this review, we summarise the important role exercise may have in the clinical management of kidney disease and how this form of 'medicine' should be best administered and 'prescribed'.
+56	M24_56_1	Blood flow restriction (BFR) is an effective clinical intervention used to increase strength in healthy individuals.
+56	M24_56_2	However, its effects on pain and function in individuals with knee pain are unknown.
+56	M24_56_3	Objective: To determine the effectiveness of adding BFR to resistance exercise for pain relief and improvement of function in patients with knee pain.
+56	M24_56_4	Methods: Systematic review with meta-analysis of randomized clinical trials.
+56	M24_56_5	Randomized clinical trials that compared resistance exercise with or without BFR to treat knee pain and function in individuals older than 18 years of age with knee pain were included.
+56	M24_56_6	The pooled standardized mean difference (SMD) estimate showed that resistance exercises with BFR was not more effective than resistance exercises for reducing pain (SMD: -0.37cm, 95% CI=-0.93, 0.19) and improving knee function (SMD=-0.23 points, 95% CI=-0.71, 0.26) in patients with knee pain.
+754200012	G09.1_754200012_1	Image tampering, being readily facilitated and proliferated by today’s digital techniques, is increasingly causing problems regarding the authenticity of images.
+754200012	G09.1_754200012_2	As the most popular multimedia data, JPEG images can be easily tampered without leaving any clues; therefore, JPEG-based forensics , including the detection of double compression, interpolation, rotation, etc., has become an active research topic in multimedia forensics.
+754200012	G09.1_754200012_3	Nevertheless, the interesting issue of detecting image tampering and its related operations by using the same quantization matrix has not been fully investigated.
+754200012	G09.1_754200012_4	Aiming to detect such forgery manipulations under the same quantization matrix, we propose a detection method by using shift-recompression -based reshuffle characteristic features.
+754200012	G09.1_754200012_5	The learning classifiers are applied for classification.
+754200012	G09.1_754200012_6	Our experimental results indicate that the approach is indeed highly effective in detecting image tampering and relevant manipulations with the same quantization matrix.
+17	M1_17_1	Furthermore, a CHO-based meal (1.5 g·kg−1 BM) was consumed ∼2 h post-exercise, immediately after the muscle biopsy, according to recommendations for post-exercise glycogen recovery [24].
+2894304194	G07.1_2894304194_1	Superintelligence is a potential type of future artificial intelligence (AI) that is significantly more intelligent than humans in all major respects.
+2894304194	G07.1_2894304194_2	If built, superintelligence could be a transformative event, with potential consequences that are massively beneficial or catastrophic.
+2894304194	G07.1_2894304194_3	Meanwhile, the prospect of superintelligence is the subject of major ongoing debate, which includes a significant amount of misinformation.
+2894304194	G07.1_2894304194_4	Superintelligence misinformation is potentially dangerous, ultimately leading bad decisions by the would-be developers of superintelligence and those who influence them.
+2894304194	G07.1_2894304194_5	This paper surveys strategies to counter superintelligence misinformation.
+2894304194	G07.1_2894304194_6	Two types of strategies are examined: strategies to prevent the spread of superintelligence misinformation and strategies to correct it after it has spread.
+2894304194	G07.1_2894304194_7	In general, misinformation can be difficult to correct, suggesting a high value of strategies to prevent it.
+2894304194	G07.1_2894304194_8	The strategies proposed can be applied to lay public attention to superintelligence, AI education programs, and efforts to build expert consensus.
+2950010073	G07.1_2950010073_1	The widespread online misinformation could cause public panic and serious economic damages.
+2950010073	G07.1_2950010073_2	The misinformation containment problem aims at limiting the spread of misinformation in online social networks by launching competing campaigns.
+2950010073	G07.1_2950010073_3	Motivated by realistic scenarios, we present the first analysis of the misinformation containment problem for the case when an arbitrary number of cascades are allowed.
+2950010073	G07.1_2950010073_4	First, we provide a formal model for multi-cascade diffusion and introduce an important concept called as cascade priority.
+2950010073	G07.1_2950010073_5	Second, we show that the misinformation containment problem cannot be approximated within a factor of $\\Omega(2^{\\log^{1-\\epsilon}n^4})$ in polynomial time unless $NP \\subseteq DTIME(n^{\\polylog{n}})$.
+2950010073	G07.1_2950010073_6	Third, we introduce several types of cascade priority that are frequently seen in real social networks.
+2950010073	G07.1_2950010073_7	Finally, we design novel algorithms for solving the misinformation containment problem.
+2950010073	G07.1_2950010073_8	The effectiveness of the proposed algorithm is supported by encouraging experimental results.
+2954032282	G06.2_2954032282_1	Ensuring the safety of self-driving cars is important, but neither industry nor authorities have settled on a standard way to test them.
+2954032282	G06.2_2954032282_2	Deploying self-driving cars for testing in regular traffic is a common, but costly and risky method, which has already caused fatalities.
+2954032282	G06.2_2954032282_3	As a safer alternative, virtual tests, in which self-driving car software is tested in computer simulations, have been proposed.
+2954032282	G06.2_2954032282_4	One cannot hope to sufficiently cover the huge number of possible driving situations self-driving cars must be tested for by manually creating such tests.
+2954032282	G06.2_2954032282_5	Therefore, we developed AsFault, a tool for automatically generating virtual tests for systematically testing self-driving car software.
+2954032282	G06.2_2954032282_6	We demonstrate AsFault by testing the lane keeping feature of an artificial intelligence-based self-driving car software, for which AsFault generates scenarios that cause it to drive off the road.
+2954032282	G06.2_2954032282_7	A video illustrating AsFault in action is available at: https://youtu.be/lJ1sa42VLDw
+2968701259	G10.1_2968701259_1	Perception of the local environment is a precondition for mobile robots to navigate safely in dynamic environments.
+2968701259	G10.1_2968701259_2	Most robots, i.e., humanoids and smaller wheeled robots rely on planar regions.
+2968701259	G10.1_2968701259_3	For humanoids, a simple 2D occupancy map as environment representation on which a path is planned is hereby not sufficient since they can step over and onto objects and therefore need height information.
+2968701259	G10.1_2968701259_4	Considering dynamic obstacles introduces another level of complexity, since they can lead to necessary replanning or collisions at later stages.
+2968701259	G10.1_2968701259_5	In this paper, we present a framework that first extracts planar regions in height maps and detects dynamic obstacles.
+2968701259	G10.1_2968701259_6	Our system then uses this information to create a set of prediction maps, in which paths can be efficiently planned in real time at low CPU cost.
+2968701259	G10.1_2968701259_7	We show in simulation and real-world experiments that our framework keeps run times well under 10ms for one computation cycle and allows for foresighted real-time 3D footstep planning.
+147704292	G01.1_147704292_1	Partners In Health (PIH) and its sister organization in Lima, Peru, Socios En Salud (SES), treat a majority of multidrug-resistant tuberculosis (MDR-TB) patients in Peru, in conjunction with the Peruvian National TB Program (NTP).
+147704292	G01.1_147704292_2	Monthly bacteriology tests, which must be collected from health establishments located across this major city, are an integral part of this treatment.
+147704292	G01.1_147704292_3	"Currently, a SES employee visits each health establishment to collect this information by hand, process it and type it into an electronic medical record system  this :[81],""paper, we describe the development and implementation of a personal digital assistant (PDA)-based electronic system to collect, verify and upload monthly bacteriology data into the PIH-EMR."
+147704292	G01.1_147704292_4	After an initial implementation period, we performed a pilot study to test the use of this system.
+147704292	G01.1_147704292_5	We completed a baseline assessment in two health districts and then implemented the electronic system in one of the districts while the control site continued to use the paper-based system during the same period.
+147704292	G01.1_147704292_6	The PDA-based system had a processing time of 6.2 days, significantly lower than measurements for both the baseline [54.8] and control sites [64.4] (both pu003c0.0001).
+147704292	G01.1_147704292_7	It was also able to reduce the frequency of discrepancy from 10.1% to 2.8% (pu003c0.0001) and receive positive feedback from the users.
+147704292	G01.1_147704292_8	Finally, the system’s cost would be recuperated in three months from time savings due to increased work efficiency.
+147704292	G01.1_147704292_9	This system will be the subject of a larger study to determine its impact on delays, errors and costs.
+21	M1_21_1	Subjects ingested the beverages within 5 min every 30 min.
+49	M17_49_1	Memory is a process in which information is encoded, stored, and retrieved.
+49	M17_49_2	For vertebrates, the modern view has been that it occurs only in the brain.
+49	M17_49_3	This review describes a cellular memory in skeletal muscle in which hypertrophy is 'remembered' such that a fibre that has previously been large, but subsequently lost its mass, can regain mass faster than naive fibres.
+49	M17_49_4	A new cell biological model based on the literature, with the most reliable methods for identifying myonuclei, can explain this phenomenon.
+49	M17_49_5	According to this model, previously untrained fibres recruit myonuclei from activated satellite cells before hypertrophic growth.
+49	M17_49_6	Even if subsequently subjected to grave atrophy, the higher number of myonuclei is retained, and the myonuclei seem to be protected against the elevated apoptotic activity observed in atrophying muscle tissue.
+49	M17_49_7	Fibres that have acquired a higher number of myonuclei grow faster when subjected to overload exercise, thus the nuclei represent a functionally important 'memory' of previous strength.
+49	M17_49_8	This memory might be very long lasting in humans, as myonuclei are stable for at least 15 years and might even be permanent.
+49	M17_49_9	However, myonuclei are harder to recruit in the elderly, and if the long-lasting muscle memory also exists in humans, one should consider early strength training as a public health advice.
+52	M20_52_1	Human aging results in a variety of changes to skeletal muscle.
+52	M20_52_2	Sarcopenia is the age-associated loss of muscle mass and is one of the main contributors to musculoskeletal impairments in the elderly.
+52	M20_52_3	Previous research has demonstrated that resistance training can attenuate skeletal muscle function deficits in older adults, however few articles have focused on the effects of resistance training on functional mobility.
+52	M20_52_4	The purpose of this systematic review was to 1) present the current state of literature regarding the effects of resistance training on functional mobility outcomes for older adults with skeletal muscle function deficits and 2) provide clinicians with practical guidelines that can be used with seniors during resistance training, or to encourage exercise.
+52	M20_52_5	We set forth evidence that resistance training can attenuate age-related changes in functional mobility, including improvements in gait speed, static and dynamic balance, and fall risk reduction.
+52	M20_52_6	Older adults should be encouraged to participate in progressive resistance training activities, and should be admonished to move along a continuum of exercise from immobility, toward the recommended daily amounts of activity.
+2415325177	G04.2_2415325177_1	Next generation sequencing (NGS) produces massive datasets consisting of billions of reads and up to thousands of samples.
+2415325177	G04.2_2415325177_2	Subsequent bioinformatic analysis is typically done with the help of open source tools, where each application performs a single step towards the final result.
+2415325177	G04.2_2415325177_3	This situation leaves the bioinformaticians with the tasks to combine the tools, manage the data files and meta-information, document the analysis, and ensure reproducibility.
+2794850674	G11.1_2794850674_1	In this paper, a lab automation drone notional concept is introduced.
+2794850674	G11.1_2794850674_2	Here, a robotic limb is attached to a robotic rotorcraft.
+2794850674	G11.1_2794850674_3	The limb's gripper allows the unmanned aerial vehicle to dexterously manipulate objects such as micro-arrays and test tubes often used in high throughput systems (HTS).
+2794850674	G11.1_2794850674_4	The resulting drone could augment existing HTS operations.
+2794850674	G11.1_2794850674_5	The 6 degree-of-freedom (DOF) arm and gripper design are presented.
+2794850674	G11.1_2794850674_6	Test-and-evaluation approach and results are also given.
+2797641221	G01.1_2797641221_1	Digital assistants are emerging to become more prevalent in our daily lives. In interacting with these assistants, users may engage in multiple tasks within a short period of time.
+2805209921	G06.2_2805209921_1	A significant problem of using deep learning techniques is the limited amount of data available for training.
+2805209921	G06.2_2805209921_2	There are some datasets available for the popular problems like item recognition and classification for self-driving cars, however, it is very limited for the industrial robotics field.
+2805209921	G06.2_2805209921_3	In previous work, we have trained a multi-objective Convolutional Neural Network (CNN) to identify the robot body in the image and estimate 3D positions of the joints by using just a 2D image, but it was limited to a range of robots produced by Universal Robots (UR).
+2805209921	G06.2_2805209921_4	In this work, we extend our method to work with a new robot arm - Kuka LBR iiwa, which has a significantly different appearance and an additional joint.
+2805209921	G06.2_2805209921_5	However, instead of collecting large datasets once again, we collect a number of smaller datasets containing a few hundred frames each and use transfer learning techniques on the CNN trained on UR robots to adapt it to a new robot having different shapes and visual features.
+2805209921	G06.2_2805209921_6	We have proven that transfer learning is not only applicable in this field, but it requires smaller well-prepared training datasets, trains significantly faster and reaches similar accuracy compared to the original method, even improving it on some aspects.
+2806518684	G08.1_2806518684_1	Blockchain technology is the underlying enabling technology developed for Bitcoin, the most common cryptocurrency.
+2806518684	G08.1_2806518684_2	Blockchain technologies have become increasingly popular with the potential to become a powerful disruptive force.
+2806518684	G08.1_2806518684_3	Individuals and organizations may benefit from blockchain with its ability to increase secure data exchange and to make that transaction simpler and easier between entities.
+2806518684	G08.1_2806518684_4	We investigate factors that influence an individualu0027s intention to use a blockchain cryptocurrency.
+2806518684	G08.1_2806518684_5	We develop a model of cryptocurrency adoption grounded in the theory of planned behavior (TPB) to: identify the determinants for the acceptance of cryptocurrency and explore the relative importance of each construct.
+2806518684	G08.1_2806518684_6	We offer empirical evidence for a better theoretical understanding of cryptocurrency adoption with practical implications in an e-government context.
+40	M8_40_1	A variety of specialized training techniques have been advocated as a means to heighten muscle growth.
+40	M8_40_2	Forced repetitions/drop sets, supersets, and heavy negatives, in particular, have been purported to enhance the hypertrophic response to resistance exercise.
+40	M8_40_3	This article will explore the potential role of these techniques in promoting muscle hypertrophy and provide an insight into possible applications to resistance training programs.
+44	M12_44_1	Current dogma suggests aerobic exercise training has minimal effect on skeletal muscle size.
+44	M12_44_2	We and others have demonstrated that aerobic exercise acutely and chronically alters protein metabolism and induces skeletal muscle hypertrophy.
+44	M12_44_3	These findings promote an antithesis to the status quo by providing novel perspective on skeletal muscle mass regulation and insight into exercise-countermeasures for populations prone to muscle loss.
+835365303	G06.2_835365303_1	This paper addresses the financial markets problem space with particular emphasis on trading systems seen in banking today.
+835365303	G06.2_835365303_2	With the advent of modern computing, cross-regional trading transactions can now be executed within milliseconds, a reality that is impossible without the advancements of software systems technology.
+835365303	G06.2_835365303_3	We then move on and discuss the anatomy of a trading system and how it fits in with the banks ecosystem of vital inter-working components.
+89451762	G06.2_89451762_1	Many model based techniques have been proposed in the literature for applying domestic service tasks on humanoid robots, such as teleoperation, learning from demonstration and imitation.
+89451762	G06.2_89451762_2	However sensor based robot control overcomes many of the difficulties of uncertain models and unknown environments which limit the domain of application of the previous methods.
+89451762	G06.2_89451762_3	Furthermore, for service and manipulation tasks, it is more suitable to study the interaction between the robot and its environment at the contact point using the sensor based control, rather than specifying the joint positions and velocities required to achieve them.
+18	M1_18_1	The 8 h time frame represents an important phase of post-exercise recovery [1] as well as the period during which blood alcohol concentrations are likely to be elevated by a post-event drinking binge [14].
+2040043577	G04.3_2040043577_1	SPSS Clementinel2.0 statistical software was used to mine the association rules between Etiology and traditional Chinese medicine (TCM), Syndromes and TCM, Symptoms and TCM.
+2040043577	G04.3_2040043577_2	The classic Apriori algorithm is useful to mine cases of influenza treated by contemporary famous old Chinese medicine.
+2888477402	G06.2_2888477402_1	As for the humanoid robots, the internal noise, which is generated by motors, fans and mechanical components when the robot is moving or shaking its body, severely degrades the performance of the speech recognition accuracy.
+2888477402	G06.2_2888477402_2	In this paper, a novel speech recognition system robust to ego-noise for humanoid robots is proposed, in which on/off state of the motor is employed as auxiliary information for finding the relevant input features.
+2888477402	G06.2_2888477402_3	For this, we consider the bottleneck features, which have been successfully applied to deep neural network (DNN) based automatic speech recognition (ASR) system.
+2888477402	G06.2_2888477402_4	When learning the bottleneck features to catch, we first exploit the motor on/off state data as supplementary information in addition to the acoustic features as the input of the first deep neural network (DNN) for preliminary acoustic modeling.
+2888477402	G06.2_2888477402_5	Then, the second DNN for primary acoustic modeling employs both the bottleneck features tossed from the first DNN and the acoustics features.
+2888477402	G06.2_2888477402_6	When the proposed method is evaluated in terms of phoneme error rate (PER) on TIMIT database, the experimental results show that achieve obvious improvement (11% relative) is achieved by our algorithm over the conventional systems.
+2906808597	G10.1_2906808597_1	An autonomous service robot often first has to search for a user to carry out a desired task.
+2906808597	G10.1_2906808597_2	This is a challenging problem, especially when this person moves around since the robot’s field of view is constrained and the environment structure typically poses further visibility constraints that influence the perception of the user.
+2906808597	G10.1_2906808597_3	In this paper, we propose a novel method that computes the likelihood of the user’s observability at each possible location in the environment based on Monte Carlo simulations.
+2906808597	G10.1_2906808597_4	As the robot needs time to reach the possible search locations, we take this time as well as the visibility constraints into account when computing effective search locations.
+2906808597	G10.1_2906808597_5	In this way, the robot can choose the next search location that has the maximum expected observability of the user.
+2906808597	G10.1_2906808597_6	Our experiments in various simulated environments demonstrate that our approach leads to a significantly shorter search time compared to a greedy approach with background information.
+42	M10_42_1	In this paper we revisit a topic originally discussed in 1955, namely the lack of direct evidence that muscle hypertrophy from exercise plays an important role in increasing strength.
+42	M10_42_2	To this day, long-term adaptations in strength are thought to be primarily contingent on changes in muscle size.
+42	M10_42_3	Given this assumption, there has been considerable attention placed on programs designed to allow for maximization of both muscle size and strength.
+42	M10_42_4	However, the conclusion that a change in muscle size affects a change in strength is surprisingly based on little evidence.
+42	M10_42_5	We suggest that these changes may be completely separate phenomena based on: (1) the weak correlation between the change in muscle size and the change in muscle strength after training; (2) the loss of muscle mass with detraining, yet a maintenance of muscle strength; and (3) the similar muscle growth between low-load and high-load resistance training, yet divergent results in strength.
+43	M11_43_1	Low-intensity occlusion (50-100 mm hg) training provides a unique beneficial training mode for promoting muscle hypertrophy.
+43	M11_43_2	Training at intensities as low as 20% 1 repetition maximum with moderate vascular occlusion results in muscle hypertrophy in as little as 3 weeks.
+43	M11_43_3	A typical exercise prescription calls for 3 to 5 sets to volitional fatigue with short rest periods.
+43	M11_43_4	The metabolic buildup causes positive physiologic reactions, specifically a rise in growth hormone that is higher than levels found with higher intensities.
+43	M11_43_5	Occlusion training is applicable for those who are unable to sustain high loads due to joint pain, postoperative patients, cardiac rehabilitation, athletes who are unloading, and astronauts.
+2047319275	G09.1_2047319275_1	Phishers continue to alter the source code of the web pages used in their attacks to mimic changes to legitimate websites of spoofed organizations and to avoid detection by phishing countermeasures.
+2047319275	G09.1_2047319275_2	Manipulations can be as subtle as source code changes or as apparent as adding or removing significant content.
+2047319275	G09.1_2047319275_3	To appropriately respond to these changes to phishing campaigns, a cadre of file matching algorithms is implemented to detect phishing websites based on their content, employing a custom data set consisting of 17,992 phishing attacks targeting 159 different brands.
+2047319275	G09.1_2047319275_4	The results of the experiments using a variety of different content-based approaches demonstrate that some can achieve a detection rate of greater than 90% while maintaining a low false positive rate.
+2100028027	G07.1_2100028027_1	Inaccurate information, in the field of library and information science, is often regarded as a problem that needs to be corrected or simply understood as either misinformation or disinformation without further consideration.
+2100028027	G07.1_2100028027_2	Misinformation and disinformation, however, may cause significant problems for users in online environments, where they are constantly exposed to an abundance of inaccurate and/or misleading information.
+2100028027	G07.1_2100028027_3	This paper aims to establish conceptual groundwork for future empirical research by examining the relationships among information, misinformation, and disinformation.
+2100028027	G07.1_2100028027_4	Our analysis extends to a discussion of cues to deception, as means for detecting misinformation and disinformation.
+2100028027	G07.1_2100028027_5	We argue that misinformation and disinformation are related yet distinct sub-categories of information.
+2100028027	G07.1_2100028027_6	Misinformation is a multifaceted concept, more complex than simply being inaccurate or incomplete, and disinformation does not always entail misinformation.
+2117924928	G05.1_2117924928_1	The CRISPR/Cas9 system was recently developed as a powerful and flexible technology for targeted genome engineering, including genome editing (altering the genetic sequence) and gene regulation (without altering the genetic sequence).
+2117924928	G05.1_2117924928_2	These applications require the design of single guide RNAs (sgRNAs) that are efficient and specific.
+2117924928	G05.1_2117924928_3	However, this remains challenging, as it requires the consideration of many criteria.
+2124690797	G07.1_2124690797_1	The importance of research on misinformation has received wide recognition.
+2124690797	G07.1_2124690797_2	Two major challenges faced by this research community are the lack of theoretical models and the scarcity of misinformation in support of such research.
+2124690797	G07.1_2124690797_3	This paper aims to address the aforementioned challenges by conceptualizing misinformation and enabling the interoperability of misinformation.
+2124690797	G07.1_2124690797_4	In particular, a representation and a model of misinformation are proposed through surveying, synthesizing, and explicating existing work in the field.
+2124690797	G07.1_2124690797_5	The ontology-supported misinformation model can not only guide future misinformation research but also lay the foundation for building a digital misinformation library by advancing our knowledge on misinformation and by improving its sharing, management, and reuse.
+2124690797	G07.1_2124690797_6	In addition, we present a formal methodology for managing misinformation in a digital library, and suggest future research directions related to the misinformation model.
+25	M1_25_1	However, a second finding was that even when protein was consumed in amounts shown to be optimally effective to stimulate MPS [8] during post-exercise recovery, the intake of alcohol reduced MPS by ∼24%, representing only a partial ‘rescue’ of the anabolic response compared with protein alone.
+2562908749	G10.1_2562908749_1	In this paper, we introduce an approach to efficient robot navigation through cluttered indoor environments.
+2562908749	G10.1_2562908749_2	We propose to estimate local obstacle densities based on already detected objects and use them to predict traversal costs corresponding to potential obstacles in regions not yet observable by the robot's sensors.
+2562908749	G10.1_2562908749_3	By taking into account the predicted costs for path planning, the robot is then able to navigate in a more foresighted manner and reduces the risk of getting stuck in cluttered regions.
+2562908749	G10.1_2562908749_4	As the experimental results demonstrate, our method enables the robot to efficiently navigate through environments containing cluttered regions and achieves significantly shorter completion times compared to a standard approach not using any prediction.
+2570453702	G13.1_2570453702_1	This study focuses on the digital marketing capabilities of tourism SMEs.
+2570453702	G13.1_2570453702_2	The study addresses the question of how the use of ICT-based tools benefit the organisational capabilities of a company.
+2570453702	G13.1_2570453702_3	By adopting marketing as a set-of-skills approach, the study provides new insights into the existing tourism literature on e-marketing.
+2570453702	G13.1_2570453702_4	Initial findings indicate that the digital marketing capabilities of companies are transformed through ICT-based uptake.
+2570453702	G13.1_2570453702_5	Four major capabilities were identified, each of which evolves as a result of using the tools.
+2570453702	G13.1_2570453702_6	A key finding of the study is that the use of ICT-based tools transforms digital marketing capabilities from a set of abilities that enables tourism SMEs not only to float in a web-marketing stream, but also to lead such a stream.
+2796443924	G05.2_2796443924_1	The CRISPR-Cpf1 system has been successfully applied in genome editing.
+2796443924	G05.2_2796443924_2	However, target efficiency of the CRISPR-Cpf1 system varies among different gRNA sequences.
+2796443924	G05.2_2796443924_3	Using machine learning technology, a SVM model was created to predict target efficiency for any given gRNAs.
+2796443924	G05.2_2796443924_4	the first web service application, CRISPR-DT (CRISPR DNA Targeting), to help users design optimal gRNAs for the CRISPR-Cpf1 system by considering both target efficiency and specificity is available.
+1494033132	G01.1_1494033132_1	This study compared text entry performance of two stylus-driven soft keyboards for use in hand-held computing devices: the QWERTY and the T9.
+1494033132	G01.1_1494033132_2	Participants transcribed text presented on a computer screen into a personal digital assistant (PDA) using a stylus and one of these two keyboards.
+1494033132	G01.1_1494033132_3	We introduced a new psychophysical technique for measuring transcription rate that provides a composite measure of speed and accuracy.
+1494033132	G01.1_1494033132_4	Using this technique, we calculated the maximum transcription rate for each keyboard.
+1494033132	G01.1_1494033132_5	The results show that transcription rates were higher for the QWERTY keyboard than for the T9, despite the T9 keyboard’s apparent superior physical characteristics.
+1494033132	G01.1_1494033132_6	An ancillary experiment demonstrated that the poorer performance of the T9 layout may have resulted from an increase in visual scanning time due to perceptual grouping of the letters on the keys.
+1494033132	G01.1_1494033132_7	Together these findings imply that the QWERTY keyboard layout remains the most effective of the currently available designs for stylus tapping on soft keyboards.
+1528342628	G01.1_1528342628_1	A truly personal machine, called a private machine and implemented as a Personal Digital Assistant (PDA), is fundamentally different from traditional machines.
+1528342628	G01.1_1528342628_2	It is personal and private in an unprecedented manner, and its modus operandi is such that network and power failures will not be rare.
+1528342628	G01.1_1528342628_3	"Designing distributed systems where PDAs are treated as ""first class citizens"" is a  private :[59],""assets (electronic money, keys for authentication and opening doors) will be stored in PDAs."
+1528342628	G01.1_1528342628_4	"Ownership and control of these :[59],""assets and the media that store and communicate them should remain with the user."
+1528342628	G01.1_1528342628_5	"This must be reflected in the design of systems for private  :[105],""introduce the ""open-ended argument"" to describe the design strategy we used for designing a system that is designed to reveal information to the user (as opposed to hide it)."
+1528342628	G01.1_1528342628_6	We argue and show that when systems are designed this way, the user (a human) is better able to control the system and his personal data, as he can make better decisions than the system itself based on qualitative assessment of the provided information.
+1528342628	G01.1_1528342628_7	The system we have designed and implemented under this design guidelines is presented and discussed.
+1529793248	G01.1_1529793248_1	Depression is under recognized in a variety of pediatric settings.
+1529793248	G01.1_1529793248_2	The purpose of this paper is to describe the development and initial evaluation of a personal digital assistant (PDA)-based decision support system (DSS) for pediatric depression screening in ages 8 to 18 years of age by pediatric advanced practice nurse (APN) students.
+1529793248	G01.1_1529793248_3	Three aspects are described: selection of depression screening instrument; integration of the instrument into the PDA; and quantitative (usage) and qualitative (focus group) evaluation.
+1529793248	G01.1_1529793248_4	Only one third of eligible patients were screened.
+1529793248	G01.1_1529793248_5	Twenty percent of those screened were identified as at risk for mood disorder.
+1529793248	G01.1_1529793248_6	The barriers to screening identified through focus groups included a lack of time, knowledge, intervention protocol, referral resources, PDA usability issues, preceptor motivation and comfort, as well as perceived or real cultural barriers.
+1529793248	G01.1_1529793248_7	Suggestions for educational, research, and interventions to integrate clinical based PDA-based screening are discussed.
+2463945949	G01.1_2463945949_1	DIANE is a digital assistant system that aims to fasten the doctor access to various informations at the hospital such as health care facility, medical records, and also human resource data. The fasten access could be achieved by implementing face recognition and live streaming as part of the digital assistant system.
+2899514909	G07.2_2899514909_1	Conspiracy theories are omnipresent in online discussions---whether to explain a late-breaking event that still lacks official report or to give voice to political dissent.
+2899514909	G07.2_2899514909_2	Conspiracy theories evolve, multiply, and interconnect, further complicating efforts to understand them and to limit their propagation.
+2899514909	G07.2_2899514909_3	It is therefore crucial to develop scalable methods to examine the nature of conspiratorial discussions in online communities.
+2899514909	G07.2_2899514909_4	What do users talk about when they discuss conspiracy theories online? What are the recurring elements in their discussions? What do these elements tell us about the way users think? This work answers these questions by analyzing over ten years of discussions in r/conspiracy---an online community on Reddit dedicated to conspiratorial discussions.
+2899514909	G07.2_2899514909_5	We focus on the key elements of a conspiracy theory: the conspiratorial agents, the actions they perform, and their targets.
+2899514909	G07.2_2899514909_6	"For example, a narrative-motif such as \""governmental agency-controls-communications\"" represents the various ways in which multiple conspiratorial statements denote how governmental agencies control information."
+2899514909	G07.2_2899514909_7	Thus, narrative-motifs expose commonalities between multiple conspiracy theories even when they refer to different events or circumstances.
+2899514909	G07.2_2899514909_8	In the process, these representations help us understand how users talk about conspiracy theories and offer us a means to interpret what they talk about.
+2899514909	G07.2_2899514909_9	Our approach enables a population-scale study of conspiracy theories in alternative news and social media with implications for understanding their adoption and combating their spread.
+111823101	G01.1_111823101_1	This paper proposes an electrophysiological wireless patient monitoring system which integrates a Wireless ECG signal transmitter, GPS device and a mobile phone to acquire physiological signals and transmit them to a local server via Bluetooth wireless technology.
+111823101	G01.1_111823101_2	Four kinds of monitor units were specially designed for a wireless communication, including a control center , a local monitor unit, mobile devices (personal digital assistant; PDA), and a Web page (for both patient and doctor).
+111823101	G01.1_111823101_3	The use of various monitor units is created to fulfill different medical personnel requirements and wishes.
+111823101	G01.1_111823101_4	This application was developed to promote the mobility and flexibility for the patients and also for the medical personnel, which further will improve both the quality of health care and lifestyle of the patient.
+12	M1_12_1	The study employed a randomized counter-balanced, cross-over design in which each subject completed bouts of consecutive resistance, continuous and intermittent high-intensity exercise with either post-exercise ingestion of alcohol-carbohydrate (ALC-CHO), alcohol-protein (ALC-PRO) or protein only (PRO) beverages on three separate occasions.
+1508161316	G01.1_1508161316_1	In this paper we present the main features of a system that we have developed and that provides a new kind of tele-assistance service to elderly people.apart from the functionalities offered by the current tele-assistance services, also provides a high quality, anywhere and at any time assistance.
+1508161316	G01.1_1508161316_2	We rate the assistance as high quality because allows the monitoring of vital signs and a local detection of anomalous situations by the device that the person carries in real time.
+1508161316	G01.1_1508161316_3	"Therefore, it sends alarms autonomously when  this paper we :[84],""explain the three main functionalities offered by AINGERU: universal assistance anywhere and at any time, monitoring of vital signs irrespective of location or time and remote monitoring by allowing authorized external persons to consult data about monitored persons using the Internet."
+1508161316	G01.1_1508161316_4	Moreover we show how those functionalities are achieved by making use of PDAs (Personal Digital Assistant), wireless communication, Semantic Web, Web services and agent technologies.
+1514623391	G01.1_1514623391_1	Digital Video Broadcasting — Handheld (DVB-H) is a technology developed as an extension of Digital Video Broadcasting — Terrestrial (DVB-T) with additional features that make it suitable for delivery to mobile devices such as phones and Personal Digital Assistant (PDAs).
+1514623391	G01.1_1514623391_2	This paper deals with the conditions of receiving digital video broadcast type services in mobile handheld devices.
+1514623391	G01.1_1514623391_3	The DVB-H standard is introduced and the key technology elements on data link layer and physical layer are discussed in some details.
+1514623391	G01.1_1514623391_4	Finally the DVB-H terminal and network design is described.
+2898599358	G08.1_2898599358_1	For decentralised P2P networks, it is very important to have a mechanism in place that allows the nodes to control resource usage and prevent flooding and denial-of-service attacks with spam.
+2898599358	G08.1_2898599358_2	In this paper, we discuss and compare the different approaches to fully decentralised resource control that are used by projects in the cryptocurrency space.
+2898599358	G08.1_2898599358_3	The introduced methods are then applied to design a decentralised exchange for Namecoin names (or more generally, crypto assets) as an example.
+3004077497	G08.1_3004077497_1	The smart device owning rate such as smart phone and smart watch is higher than ever before and mobile payment has become one of the major payment methods in many different areas.
+3004077497	G08.1_3004077497_2	At the same time, blockchain-based cryptocurrency is becoming a nonnegligible type of currency and the total value of all types of cryptocurrency has reached USD 200 billion.
+3004077497	G08.1_3004077497_3	Therefore, it is a natural demand to support cryptocurrency payment on mobile devices.
+3004077497	G08.1_3004077497_4	Considering the poor infrastructure and low penetration of financial service in developing countries, this combination is especially attractive.
+3004077497	G08.1_3004077497_5	The high storage cost and payment processing latency are the two main obstacles for mobile payment using cryptocurrency.
+3004077497	G08.1_3004077497_6	We propose two different schemes for cryptocurrency mobile payment, one involves a centralized bank and the other one does not require any centralized party.
+3004077497	G08.1_3004077497_7	We also provide a solution for the bank to meet KYC (know your customer)/AML (antimoney laundering) compliance requirements when it is involved in cryptocurrency mobile payment processing.
+3004169763	G13.1_3004169763_1	The prevalence and rapid development of the Internet and mobile technology in recent decades has revamped our living styles and daily habits.
+3004169763	G13.1_3004169763_2	To ride on the digital trend, more business activities have been engaged in the digital world.
+3004169763	G13.1_3004169763_3	Marketing and advertising is one of typical business areas that is transformed digitally.
+3004169763	G13.1_3004169763_4	The rise of Key Opinion Leaders (KOLs), social media platforms, and Omni-channel retailing have attracted countless business entities to consider the adoption of digital marketing tools for promoting and advertising their brands and products.
+3004169763	G13.1_3004169763_5	However, with the increasing diversity of the types of digital marketing tools, they must be carefully selected based on a multiple number of criterion.
+3004169763	G13.1_3004169763_6	In this paper, a fuzzy-AHP method is proposed and developed for assisting industry practitioners in systematically and effectively evaluate and select proper digital marketing tool(s) for adoption.
+3004169763	G13.1_3004169763_7	The developed method not only streamlines the internal business process of digital marketing tool selection, but it also increases the practitioner's effectiveness of achieving the pre-defined strategic marketing objectives.
+48	M16_48_1	Although the effects of short versus long inter-set rest intervals in resistance training on measures of muscle hypertrophy have been investigated in several studies, the findings are equivocal and the practical implications remain unclear.
+48	M16_48_2	Current evidence indicates that both short and long inter-set rest intervals may be useful when training for achieving gains in muscle hypertrophy.
+48	M16_48_3	Novel findings involving trained participants using measures sensitive to detect changes in muscle hypertrophy suggest a possible advantage for the use of long rest intervals to elicit hypertrophic effects.
+48	M16_48_4	However, due to the paucity of studies with similar designs, further research is needed to provide a clear differentiation between these two approaches.
+23	M1_23_1	The first novel finding of this study was that mTOR signaling and rates of myofibrillar protein synthesis (MPS) following concurrent resistance, continuous and intermittent high-intensity exercise, designed to mimic the metabolic profile of many team sports, were impaired during the early (8 h) recovery phase by the ingestion of large amounts (1.5 g•kg−1 BM) of alcohol.
+36	M4_36_1	Nearly every physically active person encounters periods in which the time available for exercise is limited (e.g., personal, family, or business conflicts).
+36	M4_36_2	During such periods, the goal of physical training may be to simply maintain (rather than improve) physical performance.
+36	M4_36_3	Similarly, certain special populations may desire to maintain performance for prolonged periods, namely athletes (during the competitive season and off-season) and military personnel (during deployment).
+36	M4_36_4	In general populations, endurance performance can be maintained for up to 15 weeks when training frequency is reduced to as little as 2 sessions per week or when exercise volume is reduced by 33–66% (as low as 13–26 minutes per session), as long as exercise intensity (exercising heart rate) is maintained.
+36	M4_36_5	Strength and muscle size (at least in younger populations) can be maintained for up to 32 weeks with as little as 1 session of strength training per week and 1 set per exercise, as long as exercise intensity (relative load) is maintained; whereas, in older populations, maintaining muscle size may require up to 2 sessions per week and 2–3 sets per exercise, while maintaining exercise intensity.
+36	M4_36_6	Our primary conclusion is that exercise intensity seems to be the key variable for maintaining physical performance over time, despite relatively large reductions in exercise frequency and volume.
+39	M7_39_1	Training frequency is considered an important variable in the hypertrophic response to regimented resistance exercise.
+39	M7_39_2	The purpose of this paper was to conduct a systematic review and meta-analysis of experimental studies designed to investigate the effects of weekly training frequency on hypertrophic adaptations.
+39	M7_39_3	Results showed no significant difference between higher and lower frequency on a volume-equated basis.
+39	M7_39_4	Meta-regression analysis of non-volume-equated studies showed a significant effect favoring higher frequencies, although the overall difference in magnitude of effect between frequencies of 1 and 3+ days per week was modest.
+39	M7_39_5	In conclusion, there is strong evidence that resistance training frequency does not significantly or meaningfully impact muscle hypertrophy when volume is equated.
+39	M7_39_6	Thus, for a given training volume, individuals can choose a weekly frequency per muscle groups based on personal preference.
+4	M1_4_1	The ingestion of ∼20–25 g of high quality protein soon after exercise [7], repeated every 4 h [8] has been shown to maximise the anabolic response in skeletal muscle.
+50	M18_50_1	It has been hypothesized that eating small, frequent meals enhances fat loss and helps to achieve better weight maintenance.
+50	M18_50_2	Several observational studies lend support to this hypothesis, with an inverse relationship noted between the frequency of eating and adiposity.
+50	M18_50_3	The purpose of this narrative review is to present and discuss a meta-analysis with regression that evaluated experimental research on meal frequency with respect to changes in fat mass and lean mass.
+50	M18_50_4	Feeding frequency was positively associated with reductions in fat mass and body fat percentage as well as an increase in fat-free mass.
+50	M18_50_5	However, sensitivity analysis of the data showed that the positive findings were the product of a single study, casting doubt as to whether more frequent meals confer beneficial effects on body composition.
+50	M18_50_6	In conclusion, although the initial results of this meta-analysis suggest a potential benefit of increased feeding frequencies for enhancing body composition, these findings need to be interpreted with circumspection.
+567125047	G09.1_567125047_1	The malicious alteration of machine time is a big challenge in computer forensics.
+567125047	G09.1_567125047_2	Detecting such changes and reconstructing the actual timeline of events is of paramount importance.
+567125047	G09.1_567125047_3	However, this can be difficult since the attacker has many opportunities and means to hide such changes.
+567125047	G09.1_567125047_4	In particular, cloud computing, host and guest machine time can be manipulated in various ways by an attacker.
+567125047	G09.1_567125047_5	Guest virtual machines are especially vulnerable to attacks coming from their (more privileged) host.
+567125047	G09.1_567125047_6	As such, it is important to guarantee the timeline integrity of both hosts and guests in a cloud, or at least to ensure that the alteration of such timeline does not go undetected.
+567125047	G09.1_567125047_7	In this paper we survey the issues related to host and guest machine time integrity in the cloud.
+567125047	G09.1_567125047_8	Further, we describe a novel architecture for host and guest time alteration detection and correction/resilience with respect to compromised hosts and guests.
+567125047	G09.1_567125047_9	The proposed framework has been implemented on an especially built simulator.
+567125047	G09.1_567125047_10	Performance figures show the feasibility of our proposal.
+6	M1_6_1	The cultural environment surrounding some sports often involves the intake of large amounts of alcohol after training and competition, with athletes in several team sports being particularly at risk of “binge drinking” practices [9]–[11].
+602340265	G06.2_602340265_1	In the wake of the on-going digital revolution, we will see a dramatic transformation of our economy and most of our societal institutions.
+602340265	G06.2_602340265_2	While the benefits of this transformation can be massive, there are also tremendous risks to our society.
+602340265	G06.2_602340265_3	After the automation of many production processes and the creation of self-driving vehicles, the automation of society is next.
+602340265	G06.2_602340265_4	This is moving us to a tipping point and to a crossroads: we must decide between a society in which the actions are determined in a top-down way and then implemented by coercion or manipulative technologies (such as personalized ads and nudging) or a society, in which decisions are taken in a free and participatory way and mutually coordinated.
+602340265	G06.2_602340265_5	Modern information and communication systems (ICT) enable both, but the latter has economic and strategic benefits.
+602340265	G06.2_602340265_6	The fundaments of human dignity, autonomous decision-making, and democracies are shaking, but I believe that they need to be vigorously defended, as they are not only core principles of livable societies, but also the basis of greater efficiency and success.
+8	M1_8_1	Although the concurrent consumption of carbohydrate can partially offset the deleterious effects of alcohol intake on post-exercise glycogen resynthesis [14], the effect of alcohol consumption on muscle protein synthesis is unknown.
+855132903	G06.2_855132903_1	In this paper we present queueing-theoretical methods for the modeling, analysis, and control of autonomous mobility-on-demand MOD systems wherein robotic, self-driving vehicles transport customers within an urban environment and rebalance themselves to ensure acceptable quality of service throughout the network.
+855132903	G06.2_855132903_2	We first cast an autonomous MOD system within a closed Jackson network model with passenger loss.
+855132903	G06.2_855132903_3	The theoretical insights are used to design a robust, real-time rebalancing algorithm, which is applied to a case study of New York City and implemented on an eight-vehicle mobile robot testbed.
+855132903	G06.2_855132903_4	The case study of New York shows that the current taxi demand in Manhattan can be met with about 8,000 robotic vehicles roughly 70% of the size of the current taxi fleet operating in Manhattan.
+855132903	G06.2_855132903_5	Finally, we extend our queueing-theoretical setup to include congestion effects, and study the impact of autonomously rebalancing vehicles on overall congestion.
+855132903	G06.2_855132903_6	Collectively, this paper provides a rigorous approach to the problem of system-wide coordination of autonomously driving vehicles, and provides one of the first characterizations of the sustainability benefits of robotic transportation networks.
+9	M1_9_1	The aim of the current study was to determine the effect of alcohol intake on anabolic cell signaling and rates of myofibrillar protein synthesis (MPS) in humans during recovery from a bout of strenuous exercise approximating stresses an athlete may experience in training and performance for various team sports such as various football and rugby codes, and court sports.
+1491527877	G01.1_1491527877_1	In order to facilitate knowledge transfer between specialists and generalists and between experts and novices, and to promote interdisciplinary communication, there is a need to provide methods and tools for doing so.
+1491527877	G01.1_1491527877_2	This interdisciplinary research team developed and evaluated a decision support tool (DST) on a personal digital assistant (PDA) for cardiac tele-triage/tele-consultation when the presenting problem was chest pain.
+1491527877	G01.1_1491527877_3	The combined human factors methods of cognitive work analysis during the requirements-gathering phase and ecological interface design during the design phase were used to develop the DST.
+1491527877	G01.1_1491527877_4	A pilot clinical trial was conducted at a quaternary cardiac care hospital over a 3-month period.
+1491527877	G01.1_1491527877_5	During this time, the DST was used by the nine nursing coordinators who provide tele-triage/tele-consultation 24/7.
+1491527877	G01.1_1491527877_6	This clinical trial validated the design and demonstrated its usefulness to advanced cardiac care nurses, its potential for use by nurses less experienced in cardiac care, and for its potential use in an interdisciplinary team environment.
+1497796471	G01.1_1497796471_1	The proliferation of mobile devices such as smart phones and Personal Digital Assistant (PDA) opens new ways for developing mobile E-commerce systems (so called Mobile-commerce or M-commerce system).
+1497796471	G01.1_1497796471_2	In Mcommerce systems, we still see many common components that we have in standard E-commerce applications, such as web servers and database servers.
+1497796471	G01.1_1497796471_3	However, these new applications raise some unique challenges.
+1497796471	G01.1_1497796471_4	For example, the limitations of mobile devices (e.g., small screen size and reduced CPU performance) implies that software development is partly different from desktop applications.
+1497796471	G01.1_1497796471_5	Questions which are posed when designing M-commerce system include: “What kind of information do the users want to access via mobile devices?”, “How can we provide useful applications with limited user input facility?”, “How can we test a distributed M-commerce system?” In this paper, we discuss about some software development issues for mobile commerce systems from our experiences while developing an M-commerce system for tourists.
+1497796471	G01.1_1497796471_6	Our prototype, easyHotel, is an useful software that allows booking hotel rooms via mobile phones.
+1534162055	G01.1_1534162055_1	The limitations and constraints of mobile systems need to be adequately addressed in software development.
+1534162055	G01.1_1534162055_2	We have been developing a taxonomy of risks based on SEIu0027s risk questionnaire and applied it during the development of a negotiation support system for a Personal Digital Assistant (PDA).
+1534162055	G01.1_1534162055_3	In our planned research, we will explore how we can better integrate existing risk management strategies and Agile Methods (AM).
+28	M1_28_1	The quantity of alcohol consumed in the current study was based on amounts reported during binge drinking by athletes.
+2885025643	G09.1_2885025643_1	Detection of different types of image editing operations carried out on an image is an important problem in image forensics.
+2885025643	G09.1_2885025643_2	It gives the information about the processing history of an image, and also can expose forgeries present in an image.
+2885025643	G09.1_2885025643_3	There have been a few methods proposed to detect different types of image editing operations in a single framework.
+2885025643	G09.1_2885025643_4	However, all the operations have to be known a priori in the training phase.
+2885025643	G09.1_2885025643_5	But, in real-forensics scenarios it may not be possible to know about the editing operations carried out on an image.
+2885025643	G09.1_2885025643_6	To solve this problem, we propose a novel deep learning-based method which can differentiate between different types of image editing operations.
+2885025643	G09.1_2885025643_7	The proposed method classifies image patches in a pair-wise fashion as either similarly or differently processed using a deep siamese neural network.
+2885025643	G09.1_2885025643_8	Once the network learns feature that can discriminate between different image editing operations, it can differentiate between different image editing operations not present in the training stage.
+2885025643	G09.1_2885025643_9	The experimental results show the efficacy of the proposed method in detecting/discriminating different image editing operations.
+2889740224	G08.1_2889740224_1	The rise of modern blockchains has facilitated the emergence of smart contracts: autonomous programs that live and run on the blockchain.
+2889740224	G08.1_2889740224_2	"Smart contracts have seen a rapid climb to prominence, with applications predicted in law, business, commerce, and governance.  contracts :[39],""are commonly written in a high-level language such as Ethereumu0027s Solidity, and translated to compact low-level bytecode for deployment on the blockchain."
+2889740224	G08.1_2889740224_3	Once deployed, the bytecode is autonomously executed, usually by a %Turing-complete virtual machine.
+2889740224	G08.1_2889740224_4	As with all programs, smart contracts can be highly vulnerable to malicious attacks due to deficient programming methodologies, languages, and toolchains, including buggy compilers.
+2889740224	G08.1_2889740224_5	"At the same time, smart contracts :[39],""are also high-value targets, often commanding large amounts of cryptocurrency."
+2889740224	G08.1_2889740224_6	Hence, developers and auditors need security frameworks capable of analysing low-level bytecode to detect potential security vulnerabilities.
+2889740224	G08.1_2889740224_7	In this paper, we present Vandal: a security analysis framework for Ethereum smart contracts.
+2889740224	G08.1_2889740224_8	Vandal consists of an analysis pipeline that converts low-level Ethereum Virtual Machine (EVM) bytecode to semantic logic relations.
+2889740224	G08.1_2889740224_9	Users of the framework can express security analyses in a declarative fashion: a security analysis is expressed in a logic specification written in the \souffle language.
+1524829466	G01.1_1524829466_1	Little is known about how viable new mobile applications emerge in complex commercial environments.
+1524829466	G01.1_1524829466_2	Research in the sociology of technology suggests that the evolution of new applications is a process of social interaction between multiple constituencies, aiming to create a common definition of mobile technology problems and solutions that is obvious only in retrospect.
+1524829466	G01.1_1524829466_3	This theory is illustrated by the early evolution of the personal digital assistant (PDA).
+1524829466	G01.1_1524829466_4	"According to this view, established technological communities attempt to impose their own definitions of key problems and solutions on new mobile technology, thereby forcing newer players to provide a ""total system"" that completely redefines a new application area."
+1527980854	G01.1_1527980854_1	We have developed two-way location aware system, named as “The Beijing Explorer”, which exchanged positioning information and users’ situation to one another using a PDA (Personal Digital Assistant) with built-in wireless LAN and a GPS (Global Positioning System) receiver in real time.
+1527980854	G01.1_1527980854_2	Users can see their position and their chats on the screen of a PDA using the system real-timely.
+1527980854	G01.1_1527980854_3	The system was used for the guidance of the Palace Museum (Forbidden City) in Beijing, China.
+1527980854	G01.1_1527980854_4	We carried on experiments two times using the system.
+1527980854	G01.1_1527980854_5	The results of experiments show that the service using positioning data and sharing contents were valuable and interesting.
+1527980854	G01.1_1527980854_6	The correct positioning information is important for the guidance system.
+1535824984	G01.1_1535824984_1	Expansions of mobile services and private data have required increased level of protection.
+1535824984	G01.1_1535824984_2	Speaker recognition, one of the biometric technologies, arises lots of research interests for its simple, cheap and convenient characteristics.
+1535824984	G01.1_1535824984_3	In this paper, a robust speaker recognition system which facilitates reliable authentication with multi-channel voices is presented.
+1535824984	G01.1_1535824984_4	A large multi-channel corpus, including mobile phone, personal digital assistant (PDA), telephone and microphone, is collected to evaluate the system performance.
+1549686097	G01.1_1549686097_1	In todayu0027s mobile information society, location-based services play an increasingly important role.
+1549686097	G01.1_1549686097_2	These services are to be accessed by users with a mobile end device for the use of city maps, route planning, navigation, or traffic information.
+1549686097	G01.1_1549686097_3	Mobile end devices, however, do not have computing power or storage capacity comparable to that of a personal computer or laptop.
+1549686097	G01.1_1549686097_4	These deficits can be bypassed by employing special methods in development of the respective applications.
+1549686097	G01.1_1549686097_5	This paper outlines the experience gained in the development of a prototype for route computation in public transport networks to be used on a personal digital assistant.
+1549686097	G01.1_1549686097_6	Subdivision of the route computation process into various steps for minimizing the computation expenditure on the mobile end device plays a significant role.
+1593729956	G10.1_1593729956_1	In this paper, we present a novel approach to accurately calibrate the kinematic model of a humanoid based on observations of its monocular camera.
+1593729956	G10.1_1593729956_2	Our technique estimates the parameters of the complete model, consisting of the joint angle offsets of the whole body including the legs, as well as the camera extrinsic and intrinsic parameters.
+1593729956	G10.1_1593729956_3	Furthermore, we developed an approach to automatically select a subset of configurations for the calibration process that yields a good trade-off between the number of observations and accuracy.
+1593729956	G10.1_1593729956_4	Further, our approach to configuration selection yields substantially better optimization results compared to randomly chosen viable configurations.
+1593729956	G10.1_1593729956_5	Hence, our system only requires a reduced number of configurations to achieve accurate results.
+1593729956	G10.1_1593729956_6	Our optimization is general and the implementation, which is available online, can easily be applied to different humanoids.
+24	M1_24_1	These outcomes were most evident (37% reduction in rates of MPS) when alcohol was consumed in the absence of post-exercise protein intake, as is likely to occur when intoxication reduces the athlete's compliance to sound recovery practices.
+1	M1_1_1	The focus of the early post-exercise period (i.e., 1–8 h) is to enhance physiological processes that are critical for reversing the exercise-induced disturbances to homeostasis and physiological function and for promoting adaptations to training [1].
+10	M1_10_1	We hypothesized that compared to post-exercise protein intake, co-ingestion of alcohol would down-regulate translation initiation signaling and decrease rates of MPS.
+41	M9_41_1	The quest to increase lean body mass is widely pursued by those who lift weights.
+41	M9_41_2	Research is lacking, however, as to the best approach for maximizing exercise-induced muscle growth.
+41	M9_41_3	Bodybuilders generally train with moderate loads and fairly short rest intervals that induce high amounts of metabolic stress.
+41	M9_41_4	Powerlifters, on the other hand, routinely train with high-intensity loads and lengthy rest periods between sets.
+41	M9_41_5	Although both groups are known to display impressive muscularity, it is not clear which method is superior for hypertrophic gains.
+41	M9_41_6	It has been shown that many factors mediate the hypertrophic process and that mechanical tension, muscle damage, and metabolic stress all can play a role in exercise-induced muscle growth.
+41	M9_41_7	Therefore, the purpose of this paper is twofold: (a) to extensively review the literature as to the mechanisms of muscle hypertrophy and their application to exercise training and (b) to draw conclusions from the research as to the optimal protocol for maximizing muscle growth.
+45	M13_45_1	Stretch training is widely used in a variety of fitness-related capacities such as increasing joint range of motion, preventing contractures and alleviating injuries.
+45	M13_45_2	Moreover, some researches indicate that stretch training may induce muscle hypertrophy; however, studies on the topic have been primarily relegated to animal and in vitro models.
+45	M13_45_3	The purpose of this brief review was to evaluate whether stretch training is a viable strategy to induce muscle hypertrophy in humans.
+45	M13_45_4	Of the 10 studies identified, 3 observed some significantly positive effects of stretch training on muscle structure.
+45	M13_45_5	Intriguingly, in these studies, the stretching was carried out with an apparatus that aided in its performance, or with an external overload.
+45	M13_45_6	Of the 5 available studies that integrated stretching into a resistance training programme, 2 applied the stretching in the interset rest period and were the ones that showed enhanced muscle growth.
+45	M13_45_7	In conclusion, passive, low-intensity stretch does not appear to confer beneficial changes in muscle size and architecture; alternatively, albeit limited evidence suggests that when stretching is done with a certain degree of tensile strain (particularly when loaded, or added between active muscle contractions) may elicit muscle hypertrophy.
+46	M14_46_1	Cycle training is widely performed as a major part of any exercise program seeking to improve aerobic capacity and cardiovascular health.
+46	M14_46_2	However, the effect of cycle training on muscle size and strength gain still requires further insight, even though it is known that professional cyclists display larger muscle size compared to controls.
+46	M14_46_3	Therefore, the purpose of this review is to discuss the effects of cycle training on muscle size and strength of the lower extremity and the possible mechanisms for increasing muscle size with cycle training.
+46	M14_46_4	It is plausible that cycle training requires a longer period to significantly increase muscle size compared to typical resistance training due to a much slower hypertrophy rate.
+46	M14_46_5	Cycle training induces muscle hypertrophy similarly between young and older age groups, while strength gain seems to favor older adults, which suggests that the probability for improving in muscle quality appears to be higher in older adults compared to young adults.
+46	M14_46_6	For young adults, higher-intensity intermittent cycling may be required to achieve strength gains.
+46	M14_46_7	It also appears that muscle hypertrophy induced by cycle training results from the positive changes in muscle protein net balance.
+2111507945	G07.1_2111507945_1	The growth of social media provides a convenient communication scheme for people, but at the same time it becomes a hotbed of misinformation.
+2111507945	G07.1_2111507945_2	The wide spread of misinformation over social media is injurious to public interest.
+2111507945	G07.1_2111507945_3	We design a framework, which integrates collective intelligence and machine intelligence, to help identify misinformation.
+2111507945	G07.1_2111507945_4	The basic idea is: (1) automatically index the expertise of users according to their microblog contents; and (2) match the experts with given suspected misinformation.
+2111507945	G07.1_2111507945_5	By sending the suspected misinformation to appropriate experts, we can collect the assessments of experts to judge the credibility of information, and help refute misinformation.
+2111507945	G07.1_2111507945_6	In this paper, we focus on expert finding for misinformation identification.
+2111507945	G07.1_2111507945_7	We propose a tag-based method to index the expertise of microblog users with social tags.
+2111507945	G07.1_2111507945_8	Experiments on a real world dataset demonstrate the effectiveness of our method for expert finding with respect to misinformation identification in microblogs.
+2202800066	G09.1_2202800066_1	Mobile devices are very common in everyone’s day-to- day life.
+2202800066	G09.1_2202800066_2	Nowadays such devices come with many features of desktop or laptop.
+2202800066	G09.1_2202800066_3	Hence people can use these devices for diverse applications.
+2202800066	G09.1_2202800066_4	As the acceptability and usability of such devices are very high, there are chances that these devices can be used for illegal activities.
+2202800066	G09.1_2202800066_5	The percentage of mobile phones or smart phones involved in cyber crimes is in hike.
+2202800066	G09.1_2202800066_6	So it becomes necessary to digitally analyze such devices requiring cyber forensics tools.
+2202800066	G09.1_2202800066_7	This paper discusses different types of digital evidence present in Microsoft’s Windows Mobile smart phones and an agent based approach for logically acquiring such devices.
+2202800066	G09.1_2202800066_8	Also it describes a tool developed for forensically acquiring and analyzing Windows Mobile devices and WinCE PDAs.
+2584932255	G05.1_2584932255_1	The hidden connection between these reports is that gene editing could be used to solve issues related to health care allocation.
+2584932255	G05.1_2584932255_2	Improving the health of future generations might coincide with public health goals; it might improve the health of individuals and communities, and, if successful, might be seen as a public good.
+2584932255	G05.1_2584932255_3	However, enhancing future generations will require In Vitro Fertilisation and Pre-implantation Genetic Diagnosis.
+2584932255	G05.1_2584932255_4	Remarkably, the necessary involvement of women in an enhancing scenario has not been discussed by its proponents.
+2584932255	G05.1_2584932255_5	The present discourse on moral obligations of future generations, although not referring to women, seems to imply that women might be required, morally, if not legally, to reproduce with IVF.
+2584932255	G05.1_2584932255_6	Enhancing future generations will be gendered, unless the artificial womb is developed.
+2584932255	G05.1_2584932255_7	These are challenging issues that require a wider perspective, of both women and men.
+2584932255	G05.1_2584932255_8	Despite the lack of a unified feminist conclusion in the discussions about the merits and risks of human genome modification, there is an urgent need to clarify the role of women in this scenario.
+2803622358	G07.1_2803622358_1	The advent of WWW changed the way we can produce and access information.
+2803622358	G07.1_2803622358_2	Recent studies showed that users tend to select information that is consistent with their system of beliefs, forming polarized groups of like-minded people around shared narratives where dissenting information is ignored.
+2803622358	G07.1_2803622358_3	In this environment, users cooperate to frame and reinforce their shared narrative making any attempt at debunking inefficient.
+2803622358	G07.1_2803622358_4	Such a configuration occurs even in the consumption of news online, and considering that 63% of users access news directly form social media, one hypothesis is that more polarization allows for further spreading of misinformation.
+2803622358	G07.1_2803622358_5	Along this path, we focus on the polarization of users around news outlets on Facebook in different European countries (Italy, France, Spain and Germany).
+2803622358	G07.1_2803622358_6	First, we compare the page posting behavior and the users interacting patterns across countries and observe different posting, liking and commenting rates.
+2803622358	G07.1_2803622358_7	Second, we explore the tendency of users to interact with different pages (i.e., selective exposure) and the emergence of polarized communities generated around specific pages.
+2803622367	G07.1_2803622367_1	We find that Italy is the most polarized country, followed by France, Germany and lastly Spain.
+2803622367	G07.1_2803622367_2	Finally, we present a variation of the Bounded Confidence Model to simulate the emergence of these communities by considering the usersu0027 engagement and trust on the news.
+2803622367	G07.1_2803622367_3	Our findings suggest that trust in information broadcaster plays a pivotal role against polarization of users online.
+30	M1_30_1	Regrettably, there has been difficulty in finding an educational message with alcohol consumption related to sports performance that has resonance with athletes.
