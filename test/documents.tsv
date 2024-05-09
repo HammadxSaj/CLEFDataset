@@ -1,0 +1,502 @@
+doc_id	snt_id	source_snt
+1000902583	G01.1_1000902583_1	Abstract   Novel technological advances in mobile devices and applications can be exploited in wildfire confrontation, enabling end-users to easily conduct several everyday tasks, such as access to data and information, sharing of intelligence and coordination of personnel and vehicles.
+1000902583	G01.1_1000902583_2	This work describes an innovative mobile application for wildfire information management that operates on Windows Phone devices and acts as a complementary tool to the web-based version of the AEGIS platform for wildfire prevention and management.
+1000902583	G01.1_1000902583_3	Several tasks can be accomplished from the AEGIS App, such as routing, spatial search for closest facilities and firefighting support infrastructures, access to weather data and visualization of fire management data (water sources, gas refill stations, evacuation sites etc.).
+1000902583	G01.1_1000902583_4	An innovative feature of AEGIS App is the support of these tasks by a digital assistant for artificial intelligence named Cortana (developed by Microsoft for Windows Phone devices), that allows information utilization through voice commands.
+1000902583	G01.1_1000902583_5	The application is to be used by firefighting personnel in Greece and is potentially expected to contribute towards a more sophisticated transferring of information and knowledge between wildfire confrontation operation centers and firefighting units in the field.
+11	M1_11_1	Eight healthy physically active male subjects (age 21.4±4.8 yr, body mass (BM) 79.3±11.9 kg, peak oxygen uptake (VO2peak) 48.1±4.8 mL·kg−1·min−1, leg extension one repetition maximum (1RM) 104±20 kg; values are mean ± SD) who had been participating in regular exercise (3 times wk−1 for >6 months) volunteered for this study.
+13	M1_13_1	Resistance exercise consisted of eight sets of five repetitions at ∼80% of 1RM.
+130055196	G01.1_130055196_1	As various kinds of output devices emerged, such as highresolution printers or a display of PDA(Personal Digital Assistant), the importance of high-quality resolution conversion has been increasing.
+130055196	G01.1_130055196_2	This paper proposes a new method for enlarging image with high quality.
+130055196	G01.1_130055196_3	One of the largest problems on image enlargement is the exaggeration of the jaggy edges.
+130055196	G01.1_130055196_4	To remedy this problem, we propose a new interpolation method, which uses artificial neural network to determine the optimal values of interpolated pixels.
+130055196	G01.1_130055196_5	The experimental results are shown and evaluated.
+130055196	G01.1_130055196_6	The effectiveness of our methods is discussed by comparing with the conventional methods.
+135571562	G01.1_135571562_1	Inappropriate use of medicines increases the risk of hospital admissions for the elderly.
+135571562	G01.1_135571562_2	Not only does this lead to unnecessary suffering for the patients but also incurs a great financial cost to the society.
+135571562	G01.1_135571562_3	A medicine decision support system in a Personal Digital Assistant (PDA), with a barcode reader, can provide an overview of the patientsu0027 complete medicine use, and detect unsuitable drugs and drug combinations.
+135571562	G01.1_135571562_4	Focusing on the elderly, our aim was to evaluate if a mobile medicine decision support system with a barcode reader is useful and user-friendly for nurses in home care.
+135571562	G01.1_135571562_5	The participants received a comprehensive overview from the patientsu0027 medicine use and noted drug-drug interactions, therapeutic duplications and warnings for drugs unsuitable for elderly people.
+135571562	G01.1_135571562_6	The nurses regarded that the decision support system increased prevention and safety, was useful and user-friendly.
+135571562	G01.1_135571562_7	Our findings suggest that most of the content and functions were regarded as important.
+135571562	G01.1_135571562_8	Therefore, this decision support system might be a useful tool for district nurses.
+14	M1_14_1	After completion of the final set, subjects rested for 5 min before commencing 30 min of continuous cycling at ∼63% PPO (∼70% VO2peak).
+1462481249	G01.1_1462481249_1	:[0],""access to patient appointment schedules can help clinicians manage time and problems better.
+1462481249	G01.1_1462481249_2	Many large health care organizations manage clinical appointment scheduling via enterprise resource scheduling systems which are poorly accessible by clinicians.
+1462481249	G01.1_1462481249_3	Also, staff other than the clinicianu0027s personal assistant(s) may manage scheduling, making it difficult for clinicians to stay informed of changes.
+1462481249	G01.1_1462481249_4	Many a clinician today uses a personal digital assistant (PDA) containing basic calendaring functionality.
+1462481249	G01.1_1462481249_5	Our “PalmOversite” project demonstrates the feasibility of integrating enterprise appointment schedule information into a PDA calendar, making schedule information much more readily available to the clinician.
+1498424448	G01.1_1498424448_1	It is widely acknowledged that information such as web content should be adapted for mobile platforms to account for restrictions in mobile environments.
+1498424448	G01.1_1498424448_2	As emerging mobile platforms such as different kinds of Personal Digital Assistant (PDA) tend to vary largely in their capabilities, we suggest that adaptation should be platform-specific.
+1498424448	G01.1_1498424448_3	Common approaches for content adaptation are automated conversion and explicit specification of adapted content, with a trade-off between quality and development/maintenance effort.
+1498424448	G01.1_1498424448_4	As alternative avoiding this trade-off, we propose a simple object-oriented framework for content adaptation.
+1498424448	G01.1_1498424448_5	To facilitate the use of this framework in the Web, we base our approach on the object-oriented WebComposition model and its XML-based implementation WCML.
+1498424448	G01.1_1498424448_6	We apply our object-oriented approach to an example application to demonstrate how object-oriented specification of platform-adapted content reduces development/maintenance effort.
+1500538608	G01.1_1500538608_1	In recent years, we have developed applications for teaching both wired and wireless networking.
+1500538608	G01.1_1500538608_2	These applications have been written for the Cybiko personal digital assistant, an inexpensive alternative to other hardware.
+1500538608	G01.1_1500538608_3	Unfortunately, the Cybiko PDA was recently discontinued.
+1500538608	G01.1_1500538608_4	As a result, these applications had to be ported to other platforms to remain useful.
+1500538608	G01.1_1500538608_5	Instead of porting each application to individual platforms, which would prove to be extremely time consuming because of other APIu0027s and networking protocols, we created the Vassar College Messaging Layer.
+1500538608	G01.1_1500538608_6	This layer abstracts the Cybiko networking structure and interface, allowing Cybiko applications to be ported to other platforms with minimal code alteration.
+1512574235	G01.1_1512574235_1	Mobile agents are a competitive concept of client-server computing and are especially suitable in mobile environments, that are characterized by low bandwidth communication facilities and ad hoc connection/disconnection to stationary systems.
+1512574235	G01.1_1512574235_2	They can be used for information retrieval and information filtering, in which case they evaluate replies and return only the relevant data.
+1512574235	G01.1_1512574235_3	Mobile agents as a metaphor of active objects are created on a mobile device such as a Personal Digital Assistant (PDA), will be launched into the information galaxy and are fulfilling the mobile user ‘s task on the services available on networked stationary systems.
+1512574235	G01.1_1512574235_4	One transmission channel for these itinerant agents is email.
+1512574235	G01.1_1512574235_5	This paper introduces Active M 3 as an example of an active mail framework, which can be regarded as a first approach in authoring mobile agents in a graphical interactive manner.
+1512574235	G01.1_1512574235_6	Active M 3 integrates two known concepts: active mail and multimedia mail.
+1522515958	G01.1_1522515958_1	Dr. Who is a Microsoft research project aiming at creating a speech-centric multimodal interaction framework, which serves as the foundation for the NET natural user interface.
+1522515958	G01.1_1522515958_10	The paper discusses MiPadu0027s design, implementation work in progress, and preliminary user study in comparison to the existing pen-based PDA interface.
+1522515958	G01.1_1522515958_2	MiPad is the application prototype that demonstrates compelling user advantages for wireless personal digital assistant (PDA) devices, MiPad fully integrates continuous speech recognition (CSR) and spoken language understanding (SLU) to enable users to accomplish many common tasks using a multimodal interface and wireless technologies.
+1522515958	G01.1_1522515958_3	It tries to solve the problem of pecking with tiny styluses or typing on minuscule keyboards in todayu0027s PDAs.
+1522515958	G01.1_1522515958_4	Unlike a cellular phone, MiPad avoids speech-only interaction.
+1522515958	G01.1_1522515958_5	It incorporates a built-in microphone that activates whenever a field is selected.
+1522515958	G01.1_1522515958_6	As a user taps the screen or uses a built in roller to navigate, the tapping action narrows the number of possible instructions for spoken word understanding.
+1522515958	G01.1_1522515958_7	MiPad currently runs on a Windows CE Pocket PC with a Windows 2000 machine where speech recognition is performed.
+1522515958	G01.1_1522515958_8	The Dr Who CSR engine uses a unified CFG and n-gram language model.
+1522515958	G01.1_1522515958_9	The Dr Who SLU engine is based on a robust chart parser and a plan-based dialog manager.
+153108038	G01.1_153108038_1	Nursing students can learn many things through practical training by experiencing actual medical practice and by coming in contact with patients.
+153108038	G01.1_153108038_2	Therefore practical training is an effective learning opportunity for developing the practical nursing care ability of nursing students.
+153108038	G01.1_153108038_3	Moreover, at hospitals, which are important training facilities, with regard to medical safety, the use of learning tools that produce electrical waves is not possible.
+153108038	G01.1_153108038_4	So, we created a learning support environment that facilitates the imagination of nursing techniques, and enables effective preparation, review, and learning at anytime and anywhere using a portable digital assistant (PDA) device for practical training.
+153108038	G01.1_153108038_5	As described in this paper, we report on the outline of the educational materials named ""digital nursing dictionary"" that we developed and the evaluation of the practices using it.
+1531910924	G01.1_1531910924_1	Limitation in display size and resolution on mobile devices is one of the main obstacles for wide-spread use of web applications in a wireless environment.
+1531910924	G01.1_1531910924_2	Web pages are often too large for a PDA (Personal Digital Assistant) screen to present.
+1531910924	G01.1_1531910924_3	The same problem exists for devices with low resolution such as WebTV.
+1531910924	G01.1_1531910924_4	Manual reconstruction of web pages for these devices would ease the problem; however, the large variation of display capabilities will greatly increase the burden of web page designers since they have to customize a web page for each possible display device.
+1531910924	G01.1_1531910924_5	In this paper, we propose a document segmentation and presentation system.
+1531910924	G01.1_1531910924_6	The system automatically divides a web document into a number of logical segments based on the screen size and the structure and content of the document.
+1531910924	G01.1_1531910924_7	Additional information such as overviews and summaries is also extracted to facilitate navigation.
+1531910924	G01.1_1531910924_8	The system presents the segments and structural information of a web document to make full use of the screen for information finding.
+1542845548	G01.1_1542845548_1	This paper presents a method to generate unique and nevertheless highly random pseudonyms in a distributed environment.
+1542845548	G01.1_1542845548_2	More precisely, each user can now generate his pseudonym locally in his personal security environment, e.g.
+1542845548	G01.1_1542845548_3	in his smart card or his personal digital assistant.
+1542845548	G01.1_1542845548_4	There is no need for any information interchange between issuing parties or global data (especially keys), except unique identifiers for each user and each device of the system.
+1542845548	G01.1_1542845548_5	Additionally the holder can prove, that he generated a specific pseudonym without revealing his identity and he can reveal his identity by disclosing the pseudonym.
+1542845548	G01.1_1542845548_6	Whereas the verifier of a disclosed pseudonym can be sure, that the presenter of the pseudonym is the holder of the pseudonym (i.e.
+1542845548	G01.1_1542845548_7	the person which originally generated it).
+1542845548	G01.1_1542845548_8	The identifier of the user and the identifier of the useru0027s device will be used to generate unique pseudonyms, but to ensure pseudonymity, both components will be stored in the pseudonym in encrypted form.
+16	M1_16_1	Immediately following exercise and after 4 h recovery, subjects ingested a 500 mL solution of either protein (PRO, 25 g whey protein powder; ISO8, Musashi, Melbourne, VIC Australia) or an energy-match in the form of CHO (25 g maltodextrin, International Health Investments, Helensvale, QLD Australia).
+1607424157	G08.2_1607424157_1	Motivated by recent financial crises significant research efforts have been put into studying contagion effects and herding behaviour in financial markets.
+1607424157	G08.2_1607424157_1	Motivated by recent financial crises significant research efforts have been put into studying contagion effects and herding behaviour in financial markets.
+1607424157	G08.2_1607424157_2	Much less has been said about influence of financial news on financial markets.
+1607424157	G08.2_1607424157_2	Much less has been said about influence of financial news on financial markets.
+1607424157	G08.2_1607424157_3	We propose a novel measure of collective behaviour in financial news on the Web, News Cohesiveness Index (NCI), and show that it can be used as a systemic risk indicator.
+1607424157	G08.2_1607424157_3	We propose a novel measure of collective behaviour in financial news on the Web, News Cohesiveness Index (NCI), and show that it can be used as a systemic risk indicator.
+1607424157	G08.2_1607424157_4	We evaluate the NCI on financial documents from large Web news sources on a daily basis from October 2011 to July 2013 and analyse the interplay between financial markets and financially related news.
+1607424157	G08.2_1607424157_4	We evaluate the NCI on financial documents from large Web news sources on a daily basis from October 2011 to July 2013 and analyse the interplay between financial markets and financially related news.
+1607424157	G08.2_1607424157_5	We hypothesized that strong cohesion in financial news reflects movements in the financial markets.
+1607424157	G08.2_1607424157_5	We hypothesized that strong cohesion in financial news reflects movements in the financial markets.
+1607424157	G08.2_1607424157_6	Cohesiveness is more general and robust measure of systemic risk expressed in news, than measures based on simple occurrences of specific terms.
+1607424157	G08.2_1607424157_6	Cohesiveness is more general and robust measure of systemic risk expressed in news, than measures based on simple occurrences of specific terms.
+1607424157	G08.2_1607424157_7	Our results indicate that cohesiveness in the financial news is highly correlated with and driven by volatility on the financial markets.
+1607424157	G08.2_1607424157_7	Our results indicate that cohesiveness in the financial news is highly correlated with and driven by volatility on the financial markets.
+1965213295	G09.1_1965213295_1	The use of mobile phone forensics to investigate fraudulent activity is nothing new.
+1965213295	G09.1_1965213295_1	The use of mobile phone forensics to investigate fraudulent activity is nothing new.
+1965213295	G09.1_1965213295_2	But mobile phones have evolved into smartphones, and fraudsters have evolved with them.
+1965213295	G09.1_1965213295_2	But mobile phones have evolved into smartphones, and fraudsters have evolved with them.
+1965213295	G09.1_1965213295_3	Smartphones are packed with functionality that can easily be used for data theft or inappropriate contact with other parties - none of which passes through company-owned systems, and is to all intents and purposes 'off the grid'.
+1965213295	G09.1_1965213295_3	Smartphones are packed with functionality that can easily be used for data theft or inappropriate contact with other parties - none of which passes through company-owned systems, and is to all intents and purposes 'off the grid'.
+1965213295	G09.1_1965213295_4	Employers need to be aware of these risks when devices are issued, along with ensuring that processes are in place when suspicions are raised, explains Philip Ridley of CCL-Forensics.
+1965213295	G09.1_1965213295_4	Employers need to be aware of these risks when devices are issued, along with ensuring that processes are in place when suspicions are raised, explains Philip Ridley of CCL-Forensics.
+1965213295	G09.1_1965213295_5	Detecting 'tech-savvy' corporate fraudsters is a constant game of catch-up.
+1965213295	G09.1_1965213295_5	Detecting 'tech-savvy' corporate fraudsters is a constant game of catch-up.
+1965213295	G09.1_1965213295_6	It's not only about playing catch-up with the intellect, motives and awareness of the e-fraudster, but also the technologies that can be misused.
+1965213295	G09.1_1965213295_6	It's not only about playing catch-up with the intellect, motives and awareness of the e-fraudster, but also the technologies that can be misused.
+1965213295	G09.1_1965213295_7	What's more, the methods through which the technology can be manipulated to secrete, disguise and protect fraudulent activities - all while staying away from corporate networks where they can readily be monitored and detected - are constantly evolving.
+1965213295	G09.1_1965213295_7	What's more, the methods through which the technology can be manipulated to secrete, disguise and protect fraudulent activities - all while staying away from corporate networks where they can readily be monitored and detected - are constantly evolving.
+1965213295	G09.1_1965213295_8	This means a company's intellectual property and sensitive data is at risk of sabotage or just good old-fashioned theft.
+1965213295	G09.1_1965213295_8	This means a company's intellectual property and sensitive data is at risk of sabotage or just good old-fashioned theft.
+2	M1_2_1	Recommended nutritional strategies to maximize recovery in skeletal muscle include protein for enhancing rates of protein synthesis and carbohydrate for replenishing glycogen stores [2],[3].
+20	M1_20_1	For the PRO condition, orange juice was consumed with a matched volume of water in place of the alcohol.
+2134216589	G02.2_2134216589_1	Big data, the enhanced ability to collect, store and analyze previously unimaginable quantities of data in tremendous speed and with negligible costs, delivers immense benefits in marketing efficiency, healthcare, environmental protection, national security and more.
+2134216589	G02.2_2134216589_1	Big data, the enhanced ability to collect, store and analyze previously unimaginable quantities of data in tremendous speed and with negligible costs, delivers immense benefits in marketing efficiency, healthcare, environmental protection, national security and more.
+2134216589	G02.2_2134216589_2	The central tenets of the current privacy framework, the principles of data minimization and purpose limitation, are severely strained by the big data technological and business reality.
+2134216589	G02.2_2134216589_2	The central tenets of the current privacy framework, the principles of data minimization and purpose limitation, are severely strained by the big data technological and business reality.
+2134216589	G02.2_2134216589_3	As we increasingly interact with these artificial agents in unsupervised settings, with no human mediators, their seeming autonomy and increasingly sophisticated functionality and behavior, raises legal and philosophical questions.
+2134216589	G02.2_2134216589_3	As we increasingly interact with these artificial agents in unsupervised settings, with no human mediators, their seeming autonomy and increasingly sophisticated functionality and behavior, raises legal and philosophical questions.
+2134216589	G02.2_2134216589_4	The focus on the machine is a distraction from the debate surrounding data driven ethical dilemmas, such as privacy, fairness and discrimination.
+2134216589	G02.2_2134216589_4	The focus on the machine is a distraction from the debate surrounding data driven ethical dilemmas, such as privacy, fairness and discrimination.
+2134216589	G02.2_2134216589_5	The machine may exacerbate, enable, or simply draw attention to the ethical challenges, but it is humans who must be held accountable.
+2134216589	G02.2_2134216589_5	The machine may exacerbate, enable, or simply draw attention to the ethical challenges, but it is humans who must be held accountable.
+2134216589	G02.2_2134216589_6	Policymakers should seek to devise agreed-upon guidelines for ethical data analysis and profiling.
+2134216589	G02.2_2134216589_6	Policymakers should seek to devise agreed-upon guidelines for ethical data analysis and profiling.
+2134216589	G02.2_2134216589_7	Such guidelines would address the use of legal and technical mechanisms to obfuscate data; criteria for calling out unethical, if not illegal, behavior; categories of privacy and non-privacy harms; and strategies for empowering individuals through access to data in intelligible form.
+2134216589	G02.2_2134216589_7	Such guidelines would address the use of legal and technical mechanisms to obfuscate data; criteria for calling out unethical, if not illegal, behavior; categories of privacy and non-privacy harms; and strategies for empowering individuals through access to data in intelligible form.
+22	M1_22_1	Blood, cell signaling and mRNA data were analyzed by two-way ANOVA (two factor: time × treatment) with repeated measures and myofibrillar protein synthesis was analyzed by one-way ANOVA with repeated measures.
+2214798411	G04.1_2214798411_1	A pharmacophore analysis approach was used to investigate and compare different classes of compounds relevant to the drug discovery process (specifically, drug molecules, compounds in high throughput screening libraries, combinatorial chemistry building blocks and nondrug molecules).
+2214798411	G04.1_2214798411_1	A pharmacophore analysis approach was used to investigate and compare different classes of compounds relevant to the drug discovery process (specifically, drug molecules, compounds in high throughput screening libraries, combinatorial chemistry building blocks and nondrug molecules).
+2214798411	G04.1_2214798411_2	Significant differences were observed between the pharmacophore profiles obtained for the drug molecules and those obtained for the high-throughput screening compounds, which appear to be closely related to the nondrug pharmacophore distribution.
+2214798411	G04.1_2214798411_2	Significant differences were observed between the pharmacophore profiles obtained for the drug molecules and those obtained for the high-throughput screening compounds, which appear to be closely related to the nondrug pharmacophore distribution.
+2214798411	G04.1_2214798411_3	It is suggested that the analysis of pharmacophore profiles could be used as an additional tool for the property-based optimization of compound selection and library design processes, thus improving the odds of success in lead discovery projects.
+2214798411	G04.1_2214798411_3	It is suggested that the analysis of pharmacophore profiles could be used as an additional tool for the property-based optimization of compound selection and library design processes, thus improving the odds of success in lead discovery projects.
+2239526842	G07.1_2239526842_1	Online Social Networks OSNs have become increasingly popular means of information sharing among users.
+2239526842	G07.1_2239526842_1	Online Social Networks OSNs have become increasingly popular means of information sharing among users.
+2239526842	G07.1_2239526842_2	The spread of news regarding emergency events is common in OSNs and so is the spread of misinformation related to the event.
+2239526842	G07.1_2239526842_2	The spread of news regarding emergency events is common in OSNs and so is the spread of misinformation related to the event.
+2239526842	G07.1_2239526842_3	We define as misinformation any false or inaccurate information that is spread either intentionally or unintentionally.
+2239526842	G07.1_2239526842_3	We define as misinformation any false or inaccurate information that is spread either intentionally or unintentionally.
+2239526842	G07.1_2239526842_4	In this paper we study the problem of misinformation identification in OSNs, and we focus in particular on the Twitter social network.
+2239526842	G07.1_2239526842_4	In this paper we study the problem of misinformation identification in OSNs, and we focus in particular on the Twitter social network.
+2239526842	G07.1_2239526842_5	Based on user and tweets characteristics, we build a misinformation detection model that identifies suspicious behavioral patterns and exploits supervised learning techniques to detect misinformation.
+2239526842	G07.1_2239526842_5	Based on user and tweets characteristics, we build a misinformation detection model that identifies suspicious behavioral patterns and exploits supervised learning techniques to detect misinformation.
+2239526842	G07.1_2239526842_6	Our extensive experimental results on 80294 unique tweets and 59660 users illustrate that our approach effectively identifies misinformation during emergencies.
+2239526842	G07.1_2239526842_6	Our extensive experimental results on 80294 unique tweets and 59660 users illustrate that our approach effectively identifies misinformation during emergencies.
+2239526842	G07.1_2239526842_7	Furthermore, our model manages to timely identify misinformation, a feature that can be used to limit the spread of the misinformation.
+2239526842	G07.1_2239526842_7	Furthermore, our model manages to timely identify misinformation, a feature that can be used to limit the spread of the misinformation.
+2548923997	G06.2_2548923997_1	Emerging self-driving vehicles are vulnerable to different attacks due to the principle and the type of communication systems that are used in these vehicles.
+2548923997	G06.2_2548923997_1	Emerging self-driving vehicles are vulnerable to different attacks due to the principle and the type of communication systems that are used in these vehicles.
+2548923997	G06.2_2548923997_2	These vehicles are increasingly relying on external communication via vehicular ad hoc networks (VANETs).
+2548923997	G06.2_2548923997_2	These vehicles are increasingly relying on external communication via vehicular ad hoc networks (VANETs).
+2548923997	G06.2_2548923997_3	VANETs add new threats to self-driving vehicles that contribute to substantial challenges in autonomous systems.
+2548923997	G06.2_2548923997_3	VANETs add new threats to self-driving vehicles that contribute to substantial challenges in autonomous systems.
+2548923997	G06.2_2548923997_4	These communication systems render self-driving vehicles vulnerable to many types of malicious attacks, such as Sybil attacks, Denial of Service (DoS), black hole, grey hole and wormhole attacks.
+2548923997	G06.2_2548923997_4	These communication systems render self-driving vehicles vulnerable to many types of malicious attacks, such as Sybil attacks, Denial of Service (DoS), black hole, grey hole and wormhole attacks.
+2548923997	G06.2_2548923997_5	In this paper, we propose an intelligent security system designed to secure external communications for self-driving and semi self-driving cars.
+2548923997	G06.2_2548923997_5	In this paper, we propose an intelligent security system designed to secure external communications for self-driving and semi self-driving cars.
+2548923997	G06.2_2548923997_6	The hybrid detection system relies on the Back Propagation neural networks (BP), to detect a common type of attack in VANETs: Denial-of-Service (DoS).
+2548923997	G06.2_2548923997_6	The hybrid detection system relies on the Back Propagation neural networks (BP), to detect a common type of attack in VANETs: Denial-of-Service (DoS).
+2548923997	G06.2_2548923997_7	The experimental results show that the proposed BP-IDS is capable of identifying malicious vehicles in self-driving and semi self-driving vehicles.
+2548923997	G06.2_2548923997_7	The experimental results show that the proposed BP-IDS is capable of identifying malicious vehicles in self-driving and semi self-driving vehicles.
+26	M1_26_1	The mechanistic target of rapamycin complex 1 (mTORC1) is a central node for integrating nutrient (i.e. amino acid) and exercise/contraction signal transduction [31], [32].
+2606555570	G06.2_2606555570_1	Self-driving vehicle technologies are progressing rapidly and are expected to play a significant role in the future of transportation.
+2606555570	G06.2_2606555570_1	Self-driving vehicle technologies are progressing rapidly and are expected to play a significant role in the future of transportation.
+2606555570	G06.2_2606555570_2	One of the main challenges for self-driving vehicles on public roads is the safe cooperation and collaboration among multiple vehicles using sensor-based perception and inter-vehicle communications.
+2606555570	G06.2_2606555570_2	One of the main challenges for self-driving vehicles on public roads is the safe cooperation and collaboration among multiple vehicles using sensor-based perception and inter-vehicle communications.
+2606555570	G06.2_2606555570_3	When self-driving vehicles try to occupy the same spatial area simultaneously, they might collide with one another, might become deadlocked, or might slam on the brakes making it uncomfortable or unsafe for passengers in a self-driving vehicle.
+2606555570	G06.2_2606555570_3	When self-driving vehicles try to occupy the same spatial area simultaneously, they might collide with one another, might become deadlocked, or might slam on the brakes making it uncomfortable or unsafe for passengers in a self-driving vehicle.
+2606555570	G06.2_2606555570_4	In this paper, we study how a self-driving vehicle can safely navigate merge points, where two lanes with different priorities meet.
+2606555570	G06.2_2606555570_4	In this paper, we study how a self-driving vehicle can safely navigate merge points, where two lanes with different priorities meet.
+2606555570	G06.2_2606555570_5	We present a safe protocol for merge points named Autonomous Vehicle Protocol for Merge Points, where self-driving vehicles use both vehicular communications and their own perception systems for cooperating with other self-driving and/or human-driven vehicles.
+2606555570	G06.2_2606555570_5	We present a safe protocol for merge points named Autonomous Vehicle Protocol for Merge Points, where self-driving vehicles use both vehicular communications and their own perception systems for cooperating with other self-driving and/or human-driven vehicles.
+2606555570	G06.2_2606555570_6	Our simulation results show that our traffic protocol has higher traffic throughput, compared to simple traffic protocols, while ensuring safety.
+2606555570	G06.2_2606555570_6	Our simulation results show that our traffic protocol has higher traffic throughput, compared to simple traffic protocols, while ensuring safety.
+2773680786	G07.2_2773680786_1	Conspiracy theories have gained much academic and media attention recently, due to their large impact on public events.
+2773680786	G07.2_2773680786_1	Conspiracy theories have gained much academic and media attention recently, due to their large impact on public events.
+2773680786	G07.2_2773680786_2	However, little is known about how conspiracy theories are produced and developed on social media.
+2773680786	G07.2_2773680786_2	However, little is known about how conspiracy theories are produced and developed on social media.
+2773680786	G07.2_2773680786_3	We present a qualitative study of conspiracy theorizing on Reddit during a public health crisis--the Zika virus outbreak.
+2773680786	G07.2_2773680786_3	We present a qualitative study of conspiracy theorizing on Reddit during a public health crisis--the Zika virus outbreak.
+2773680786	G07.2_2773680786_4	Using a mixed-methods approach including content analysis and discourse analysis, we identified types of conspiracy theories that appeared on Reddit in response to the Zika crisis, the conditions under which Zika conspiracy theories emerge, and the particular discursive strategies through which Zika conspiracy theories developed in online forums.
+2773680786	G07.2_2773680786_4	Using a mixed-methods approach including content analysis and discourse analysis, we identified types of conspiracy theories that appeared on Reddit in response to the Zika crisis, the conditions under which Zika conspiracy theories emerge, and the particular discursive strategies through which Zika conspiracy theories developed in online forums.
+2773680786	G07.2_2773680786_5	Our analysis shows that conspiracy talk emerged as people attempted to make sense of a public health crisis, reflecting their emergent information needs and their pervasive distrust in formal sources of Zika information.
+2773680786	G07.2_2773680786_5	Our analysis shows that conspiracy talk emerged as people attempted to make sense of a public health crisis, reflecting their emergent information needs and their pervasive distrust in formal sources of Zika information.
+2773680786	G07.2_2773680786_6	Practical implications for social computing researchers, health practitioners, and policymakers are discussed.
+2773680786	G07.2_2773680786_6	Practical implications for social computing researchers, health practitioners, and policymakers are discussed.
+2773777794	G10.1_2773777794_1	In many situations, users walk on typical paths between specific destinations at which the service of a mobile robot is needed.
+2773777794	G10.1_2773777794_1	In many situations, users walk on typical paths between specific destinations at which the service of a mobile robot is needed.
+2773777794	G10.1_2773777794_2	Depending on the environment and the paths, step-by-step following of the human might not be the optimal solution since better paths for the robot exist.
+2773777794	G10.1_2773777794_2	Depending on the environment and the paths, step-by-step following of the human might not be the optimal solution since better paths for the robot exist.
+2773777794	G10.1_2773777794_3	We propose to perform a prediction about the human's future movements and use this information in a reinforcement learning framework to generate foresighted navigation actions for the robot.
+2773777794	G10.1_2773777794_3	We propose to perform a prediction about the human's future movements and use this information in a reinforcement learning framework to generate foresighted navigation actions for the robot.
+2773777794	G10.1_2773777794_4	Since frequent occlusions of the human will occur due to obstacles and the robot's constrained field of view, the estimate about the humans's position and the prediction of the next destination are affected by uncertainty.
+2773777794	G10.1_2773777794_4	Since frequent occlusions of the human will occur due to obstacles and the robot's constrained field of view, the estimate about the humans's position and the prediction of the next destination are affected by uncertainty.
+2773777794	G10.1_2773777794_5	Our approach deals with such situations by explicitly considering occlusions in the reward function such that the robot automatically considers to execute actions to get the human in its field of view.
+2773777794	G10.1_2773777794_5	Our approach deals with such situations by explicitly considering occlusions in the reward function such that the robot automatically considers to execute actions to get the human in its field of view.
+2773777794	G10.1_2773777794_6	We show in simulated and real-world experiments that our technique leads to significantly shorter paths compared to an approach in which the robot always tries to closely follow the user and, additionally, can handle occlusions.
+2773777794	G10.1_2773777794_6	We show in simulated and real-world experiments that our technique leads to significantly shorter paths compared to an approach in which the robot always tries to closely follow the user and, additionally, can handle occlusions.
+2795365350	G11.1_2795365350_1	Robot companionship has become more popular in past years.
+2795365350	G11.1_2795365350_1	Robot companionship has become more popular in past years.
+2795365350	G11.1_2795365350_2	However, humanoid gait might be somewhat unstable for these applications.
+2795365350	G11.1_2795365350_2	However, humanoid gait might be somewhat unstable for these applications.
+2795365350	G11.1_2795365350_3	Even with miniature humanoids, falls occur frequently.
+2795365350	G11.1_2795365350_3	Even with miniature humanoids, falls occur frequently.
+2795365350	G11.1_2795365350_4	Thus, wheel attachments have been added onto a miniature humanoid, so it can move faster and with more stability than walking.
+2795365350	G11.1_2795365350_4	Thus, wheel attachments have been added onto a miniature humanoid, so it can move faster and with more stability than walking.
+2795365350	G11.1_2795365350_5	In addition, with such attachments a robot can switch from walking to rolling when necessary.
+2795365350	G11.1_2795365350_5	In addition, with such attachments a robot can switch from walking to rolling when necessary.
+2795365350	G11.1_2795365350_6	DARwIn-OP is a humanoid robot that has been used as an experimentation and performance evaluation platform.
+2795365350	G11.1_2795365350_6	DARwIn-OP is a humanoid robot that has been used as an experimentation and performance evaluation platform.
+2795365350	G11.1_2795365350_7	This paper discusses preliminary work regarding robot companionship applications by using a miniature humanoid capable of fetching different toys based on voice command.
+2795365350	G11.1_2795365350_7	This paper discusses preliminary work regarding robot companionship applications by using a miniature humanoid capable of fetching different toys based on voice command.
+2801562232	G06.2_2801562232_1	This paper provides a holistic study of how stock prices vary in their response to financial disclosures across different topics.
+2801562232	G06.2_2801562232_1	This paper provides a holistic study of how stock prices vary in their response to financial disclosures across different topics.
+2801562232	G06.2_2801562232_2	Thereby, we specifically shed light into the extensive amount of filings for which no a priori categorization of their content exists.
+2801562232	G06.2_2801562232_2	Thereby, we specifically shed light into the extensive amount of filings for which no a priori categorization of their content exists.
+2801562232	G06.2_2801562232_3	For this purpose, we utilize an approach from data mining - namely, latent Dirichlet allocation - as a means of topic modeling.
+2801562232	G06.2_2801562232_3	For this purpose, we utilize an approach from data mining - namely, latent Dirichlet allocation - as a means of topic modeling.
+2801562232	G06.2_2801562232_4	This technique facilitates our task of automatically categorizing, ex ante, the content of more than 70,000 regulatory 8-K filings from U.S. companies.
+2801562232	G06.2_2801562232_4	This technique facilitates our task of automatically categorizing, ex ante, the content of more than 70,000 regulatory 8-K filings from U.S. companies.
+2801562232	G06.2_2801562232_5	We then evaluate the subsequent stock market reaction.
+2801562232	G06.2_2801562232_5	We then evaluate the subsequent stock market reaction.
+2801562232	G06.2_2801562232_6	Our empirical evidence suggests a considerable discrepancy among various types of news stories in terms of their relevance and impact on financial markets.
+2801562232	G06.2_2801562232_6	Our empirical evidence suggests a considerable discrepancy among various types of news stories in terms of their relevance and impact on financial markets.
+2801562232	G06.2_2801562232_7	For instance, we find a statistically significant abnormal return in response to earnings results and credit rating, but also for disclosures regarding business strategy, the health sector, as well as mergers and acquisitions.
+2801562232	G06.2_2801562232_7	For instance, we find a statistically significant abnormal return in response to earnings results and credit rating, but also for disclosures regarding business strategy, the health sector, as well as mergers and acquisitions.
+2801562232	G06.2_2801562232_8	Our results yield findings that benefit managers, investors and policy-makers by indicating how regulatory filings should be structured and the topics most likely to precede changes in stock valuations.
+2801562232	G06.2_2801562232_8	Our results yield findings that benefit managers, investors and policy-makers by indicating how regulatory filings should be structured and the topics most likely to precede changes in stock valuations.
+2807531787	G08.2_2807531787_1	In this paper, I propose a methodology to study the comovement between the entropy of different financial markets.
+2807531787	G08.2_2807531787_1	In this paper, I propose a methodology to study the comovement between the entropy of different financial markets.
+2807531787	G08.2_2807531787_2	The entropy is derived using singular value decomposition of the components of stock market indices in financial markets from selected developed economies, i.e., France, Germany, the United Kingdom, and the United States.
+2807531787	G08.2_2807531787_2	The entropy is derived using singular value decomposition of the components of stock market indices in financial markets from selected developed economies, i.e., France, Germany, the United Kingdom, and the United States.
+2807531787	G08.2_2807531787_3	I study how a shock in the entropy in the United States affects the entropy in the other financial markets.
+2807531787	G08.2_2807531787_3	I study how a shock in the entropy in the United States affects the entropy in the other financial markets.
+2807531787	G08.2_2807531787_4	I also model the entropy using a dynamic factor model and derive a common factor behind the entropy movements in these four markets.
+2807531787	G08.2_2807531787_4	I also model the entropy using a dynamic factor model and derive a common factor behind the entropy movements in these four markets.
+2889433965	G06.2_2889433965_1	Recognizing Traffic Signs using intelligent systems can drastically reduce the number of accidents happening world-wide.
+2889433965	G06.2_2889433965_1	Recognizing Traffic Signs using intelligent systems can drastically reduce the number of accidents happening world-wide.
+2889433965	G06.2_2889433965_2	With the arrival of Self-driving cars it has become a staple challenge to solve the automatic recognition of Traffic and Hand-held signs in the major streets.
+2889433965	G06.2_2889433965_2	With the arrival of Self-driving cars it has become a staple challenge to solve the automatic recognition of Traffic and Hand-held signs in the major streets.
+2889433965	G06.2_2889433965_3	Various machine learning techniques like Random Forest, SVM as well as deep learning models has been proposed for classifying traffic signs.
+2889433965	G06.2_2889433965_3	Various machine learning techniques like Random Forest, SVM as well as deep learning models has been proposed for classifying traffic signs.
+2889433965	G06.2_2889433965_4	Though they reach state-of-the-art performance on a particular data-set, but fall short of tackling multiple Traffic Sign Recognition benchmarks.
+2889433965	G06.2_2889433965_4	Though they reach state-of-the-art performance on a particular data-set, but fall short of tackling multiple Traffic Sign Recognition benchmarks.
+2889433965	G06.2_2889433965_5	In this paper, we propose a novel and one-for-all architecture that aces multiple benchmarks with better overall score than the state-of-the-art architectures.
+2889433965	G06.2_2889433965_5	In this paper, we propose a novel and one-for-all architecture that aces multiple benchmarks with better overall score than the state-of-the-art architectures.
+2889433965	G06.2_2889433965_6	Our model is made of residual convolutional blocks with hierarchical dilated skip connections joined in steps.
+2889433965	G06.2_2889433965_6	Our model is made of residual convolutional blocks with hierarchical dilated skip connections joined in steps.
+2889433965	G06.2_2889433965_7	With this we score 99.33% Accuracy in German sign recognition benchmark and 99.17% Accuracy in Belgian traffic sign classification benchmark.
+2889433965	G06.2_2889433965_7	With this we score 99.33% Accuracy in German sign recognition benchmark and 99.17% Accuracy in Belgian traffic sign classification benchmark.
+2889433965	G06.2_2889433965_8	Moreover, we propose a newly devised dilated residual learning representation technique which is very low in both memory and computational complexity.
+2889433965	G06.2_2889433965_8	Moreover, we propose a newly devised dilated residual learning representation technique which is very low in both memory and computational complexity.
+2890116921	G06.2_2890116921_1	In this paper, we present a transfer learning method for the end-to-end control of self-driving cars, which enables a convolutional neural network (CNN) trained on a source domain to be utilized for the same task in a different target domain.
+2890116921	G06.2_2890116921_1	In this paper, we present a transfer learning method for the end-to-end control of self-driving cars, which enables a convolutional neural network (CNN) trained on a source domain to be utilized for the same task in a different target domain.
+2890116921	G06.2_2890116921_2	A conventional CNN for the end-to-end control is designed to map a single front-facing camera image to a steering command.
+2890116921	G06.2_2890116921_2	A conventional CNN for the end-to-end control is designed to map a single front-facing camera image to a steering command.
+2890116921	G06.2_2890116921_3	To enable the transfer learning, we let the CNN produce not only a steering command but also a lane departure level (LDL) by adding a new task module, which takes the output of the last convolutional layer as input.
+2890116921	G06.2_2890116921_3	To enable the transfer learning, we let the CNN produce not only a steering command but also a lane departure level (LDL) by adding a new task module, which takes the output of the last convolutional layer as input.
+2890116921	G06.2_2890116921_4	The CNN trained on the source domain, called source network, is then utilized to train another task module called target network, which also takes the output of the last convolutional layer of the source network and is trained to produce a steering command for the target domain.
+2890116921	G06.2_2890116921_4	The CNN trained on the source domain, called source network, is then utilized to train another task module called target network, which also takes the output of the last convolutional layer of the source network and is trained to produce a steering command for the target domain.
+2890116921	G06.2_2890116921_5	The steering commands from the source and target network are finally merged according to the LDL and the merged command is utilized for controlling a car in the target domain.
+2890116921	G06.2_2890116921_5	The steering commands from the source and target network are finally merged according to the LDL and the merged command is utilized for controlling a car in the target domain.
+2890116921	G06.2_2890116921_6	To demonstrate the effectiveness of the proposed method, we utilized two simulators, TORCS and GTAV, for the source and the target domains, respectively.
+2890116921	G06.2_2890116921_6	To demonstrate the effectiveness of the proposed method, we utilized two simulators, TORCS and GTAV, for the source and the target domains, respectively.
+2890116921	G06.2_2890116921_7	Experimental results show that the proposed method outperforms other baseline methods in terms of stable and safe control of cars.
+2890116921	G06.2_2890116921_7	Experimental results show that the proposed method outperforms other baseline methods in terms of stable and safe control of cars.
+2891558151	G06.2_2891558151_1	This paper describes the design, implementation, and successful use of the Bristol Stock Exchange (BSE), a novel minimal simulation of a centralised financial market, based on a Limit Order Book (LOB) such as is common in major stock exchanges.
+2891558151	G06.2_2891558151_1	This paper describes the design, implementation, and successful use of the Bristol Stock Exchange (BSE), a novel minimal simulation of a centralised financial market, based on a Limit Order Book (LOB) such as is common in major stock exchanges.
+2891558151	G06.2_2891558151_2	Construction of BSE was motivated by the fact that most of the world’s major financial markets have automated, with trading activity that previously was the responsibility of human traders now being performed by high-speed autonomous automated trading systems.
+2891558151	G06.2_2891558151_2	Construction of BSE was motivated by the fact that most of the world’s major financial markets have automated, with trading activity that previously was the responsibility of human traders now being performed by high-speed autonomous automated trading systems.
+2891558151	G06.2_2891558151_3	Research aimed at understanding the dynamics of this new style of financial market is hampered by the fact that no operational real-world exchange is ever likely to allow experimental probing of that market while it is open and running live, forcing researchers to work primarily from time-series of past trading data.
+2891558151	G06.2_2891558151_3	Research aimed at understanding the dynamics of this new style of financial market is hampered by the fact that no operational real-world exchange is ever likely to allow experimental probing of that market while it is open and running live, forcing researchers to work primarily from time-series of past trading data.
+2891558151	G06.2_2891558151_4	Similarly, university-level education of the engineers who can create next-generation automated trading systems requires that they have hands-on learning experience in a sufficiently realistic teaching environment.
+2891558151	G06.2_2891558151_4	Similarly, university-level education of the engineers who can create next-generation automated trading systems requires that they have hands-on learning experience in a sufficiently realistic teaching environment.
+2891558151	G06.2_2891558151_5	BSE as described here addresses both those needs: it has been successfully used for teaching and research in a leading UK university since 2012, and the BSE program code is freely available as open-source on GitHuB.
+2891558151	G06.2_2891558151_5	BSE as described here addresses both those needs: it has been successfully used for teaching and research in a leading UK university since 2012, and the BSE program code is freely available as open-source on GitHuB.
+2895666646	G06.2_2895666646_1	Once self-driving car becomes a reality and passengers are no longer worry about it, they will need to find new ways of entertainment.
+2895666646	G06.2_2895666646_1	Once self-driving car becomes a reality and passengers are no longer worry about it, they will need to find new ways of entertainment.
+2895666646	G06.2_2895666646_10	The simulation results show that the accuracy of our prediction for the contents need to be cached in the areas of the self-driving car is achieved at 98.04% and our approach can minimize delay.
+2895666646	G06.2_2895666646_10	The simulation results show that the accuracy of our prediction for the contents need to be cached in the areas of the self-driving car is achieved at 98.04% and our approach can minimize delay.
+2895666646	G06.2_2895666646_2	However, retrieving entertainment contents at the Data Center (DC) can hinder content delivery service due to high delay of car-to-DC communication.
+2895666646	G06.2_2895666646_2	However, retrieving entertainment contents at the Data Center (DC) can hinder content delivery service due to high delay of car-to-DC communication.
+2895666646	G06.2_2895666646_3	To address these challenges, we propose a deep learning based caching for self-driving car, by using Deep Learning approaches deployed on the Multi-access Edge Computing (MEC) structure.
+2895666646	G06.2_2895666646_3	To address these challenges, we propose a deep learning based caching for self-driving car, by using Deep Learning approaches deployed on the Multi-access Edge Computing (MEC) structure.
+2895666646	G06.2_2895666646_4	First, at DC, Multi-Layer Perceptron (MLP) is used to predict the probabilities of contents to be requested in specific areas.
+2895666646	G06.2_2895666646_4	First, at DC, Multi-Layer Perceptron (MLP) is used to predict the probabilities of contents to be requested in specific areas.
+2895666646	G06.2_2895666646_5	To reduce the car-DC delay, MLP outputs are logged into MEC servers attached to roadside units.
+2895666646	G06.2_2895666646_5	To reduce the car-DC delay, MLP outputs are logged into MEC servers attached to roadside units.
+2895666646	G06.2_2895666646_6	Second, in order to cache entertainment contents stylized for car passengers’ features such as age and gender, Convolutional Neural Network (CNN) is used to predict age and gender of passengers.
+2895666646	G06.2_2895666646_6	Second, in order to cache entertainment contents stylized for car passengers’ features such as age and gender, Convolutional Neural Network (CNN) is used to predict age and gender of passengers.
+2895666646	G06.2_2895666646_7	Through this, the self-driving car can identify the contents need to be downloaded from the MEC server and cached.
+2895666646	G06.2_2895666646_7	Through this, the self-driving car can identify the contents need to be downloaded from the MEC server and cached.
+2895666646	G06.2_2895666646_8	Finally, we formulate deep learning based caching in the self-driving car that enhances entertainment services as an optimization problem whose goal is to minimize content downloading delay.
+2895666646	G06.2_2895666646_8	Finally, we formulate deep learning based caching in the self-driving car that enhances entertainment services as an optimization problem whose goal is to minimize content downloading delay.
+2895666646	G06.2_2895666646_9	To solve the formulated problem, a Block Successive Majorization-Minimization (BS-MM) technique is applied.
+2895666646	G06.2_2895666646_9	To solve the formulated problem, a Block Successive Majorization-Minimization (BS-MM) technique is applied.
+2897082611	G06.2_2897082611_1	Moral responsibility is a major concern in automated decision-making, with applications ranging from self-driving cars to kidney exchanges.
+2897082611	G06.2_2897082611_1	Moral responsibility is a major concern in automated decision-making, with applications ranging from self-driving cars to kidney exchanges.
+29	M1_29_1	However, published reports suggest intakes of some individuals can be significantly greater [9], [50], which is of concern for many reasons related to health and safety [13].
+2906897310	G06.2_2906897310_1	A key problem for autonomous car navigation is the understanding, at an object level, of the current driving situation.
+2906897310	G06.2_2906897310_1	A key problem for autonomous car navigation is the understanding, at an object level, of the current driving situation.
+2906897310	G06.2_2906897310_2	Addressing this issue requires the extraction of meaningful information from on-board stereo imagery by classifying the fundamental elements of urban scenes into semantic categories that can more easily be interpreted and be reflected upon (streets, buildings, pedestrians, vehicles, signs, etc.).
+2906897310	G06.2_2906897310_2	Addressing this issue requires the extraction of meaningful information from on-board stereo imagery by classifying the fundamental elements of urban scenes into semantic categories that can more easily be interpreted and be reflected upon (streets, buildings, pedestrians, vehicles, signs, etc.).
+2906897310	G06.2_2906897310_3	A probabilistic method is proposed to fuse a coarse prior 3D map data with stereo imagery classification.
+2906897310	G06.2_2906897310_3	A probabilistic method is proposed to fuse a coarse prior 3D map data with stereo imagery classification.
+2906897310	G06.2_2906897310_4	A novel fusion architecture based on the Stixel framework is presented for combining semantic pixel-wise segmentation from a convolutional neural network (CNN) with depth information obtained from stereo imagery while integrating coarse prior depth and label information.
+2906897310	G06.2_2906897310_4	A novel fusion architecture based on the Stixel framework is presented for combining semantic pixel-wise segmentation from a convolutional neural network (CNN) with depth information obtained from stereo imagery while integrating coarse prior depth and label information.
+2906897310	G06.2_2906897310_5	The proposed approach was tested on a manually labeled data set in urban environments.
+2906897310	G06.2_2906897310_5	The proposed approach was tested on a manually labeled data set in urban environments.
+2906897310	G06.2_2906897310_6	The results show that the classification accuracy of the fundamental elements composing the urban scene was significantly enhanced by this method compared to what is obtained from the semantic pixel-wise segmentation of a CNN alone.
+2906897310	G06.2_2906897310_6	The results show that the classification accuracy of the fundamental elements composing the urban scene was significantly enhanced by this method compared to what is obtained from the semantic pixel-wise segmentation of a CNN alone.
+2907181942	G08.1_2907181942_1	Cryptocurrency is a rapid developing financial technology innovation which has attracted a large number of people around the world.
+2907181942	G08.1_2907181942_1	Cryptocurrency is a rapid developing financial technology innovation which has attracted a large number of people around the world.
+2907181942	G08.1_2907181942_2	The high-speed evolution, radical price fluctuations of cryptocurrency, and the inconsistent attitudes of monetary authorities in different countries have triggered panic and chain reactions towards the application and adoption of cryptocurrency and have caused public security related events.
+2907181942	G08.1_2907181942_2	The high-speed evolution, radical price fluctuations of cryptocurrency, and the inconsistent attitudes of monetary authorities in different countries have triggered panic and chain reactions towards the application and adoption of cryptocurrency and have caused public security related events.
+2907181942	G08.1_2907181942_3	In this paper, we analyze the dynamics and systemic risk of the cryptocurrency market based on the public available price history.
+2907181942	G08.1_2907181942_3	In this paper, we analyze the dynamics and systemic risk of the cryptocurrency market based on the public available price history.
+2907181942	G08.1_2907181942_4	Furthermore, consistent with public perception, our quantitative analysis reveals that the cryptocurrency market is relatively fragile and unstable.
+2907181942	G08.1_2907181942_4	Furthermore, consistent with public perception, our quantitative analysis reveals that the cryptocurrency market is relatively fragile and unstable.
+2914002216	G05.1_2914002216_1	CRISPR has become a hot research area ever since its advent for its efficiency and specificity in editing almost every section of DNA sequences.
+2914002216	G05.1_2914002216_1	CRISPR has become a hot research area ever since its advent for its efficiency and specificity in editing almost every section of DNA sequences.
+2914002216	G05.1_2914002216_2	Based on its function of gene perturbation, a variety of gene editing techniques have been developed to achieve different aims.
+2914002216	G05.1_2914002216_2	Based on its function of gene perturbation, a variety of gene editing techniques have been developed to achieve different aims.
+2914002216	G05.1_2914002216_3	The target locations of a DNA strain can be precisely broken and repaired, during which the genes can be removed, repaired, silenced, or activated.
+2914002216	G05.1_2914002216_3	The target locations of a DNA strain can be precisely broken and repaired, during which the genes can be removed, repaired, silenced, or activated.
+2914002216	G05.1_2914002216_4	The high efficiency of CRISPR/Cas9 reagents preparation and the easiness of experiment conduction make it now a powerful tool of high-content screen.
+2914002216	G05.1_2914002216_4	The high efficiency of CRISPR/Cas9 reagents preparation and the easiness of experiment conduction make it now a powerful tool of high-content screen.
+2921035272	G09.1_2921035272_1	The increasing prevalence of Internet of Things (IoT) devices has made it inevitable that their pertinence to digital forensic investigations will increase into the foreseeable future.
+2921035272	G09.1_2921035272_1	The increasing prevalence of Internet of Things (IoT) devices has made it inevitable that their pertinence to digital forensic investigations will increase into the foreseeable future.
+2921035272	G09.1_2921035272_2	These devices produced by various vendors often posses limited standard interfaces for communication, such as USB ports or WiFi/Bluetooth wireless interfaces.
+2921035272	G09.1_2921035272_2	These devices produced by various vendors often posses limited standard interfaces for communication, such as USB ports or WiFi/Bluetooth wireless interfaces.
+2921035272	G09.1_2921035272_3	Meanwhile, with an increasing mainstream focus on the security and privacy of user data, built-in encryption is becoming commonplace in consumer-level computing devices, and IoT devices are no exception.
+2921035272	G09.1_2921035272_3	Meanwhile, with an increasing mainstream focus on the security and privacy of user data, built-in encryption is becoming commonplace in consumer-level computing devices, and IoT devices are no exception.
+2921035272	G09.1_2921035272_4	Under these circumstances, a significant challenge is presented to digital forensic investigations where data from IoT devices needs to be analysed.
+2921035272	G09.1_2921035272_4	Under these circumstances, a significant challenge is presented to digital forensic investigations where data from IoT devices needs to be analysed.
+2921035272	G09.1_2921035272_5	This work explores the electromagnetic (EM) side-channel analysis literature for the purpose of assisting digital forensic investigations on IoT devices.
+2921035272	G09.1_2921035272_5	This work explores the electromagnetic (EM) side-channel analysis literature for the purpose of assisting digital forensic investigations on IoT devices.
+2921035272	G09.1_2921035272_6	EM side-channel analysis is a technique where unintentional electromagnetic emissions are used for eavesdropping on the operations and data handling of computing devices.
+2921035272	G09.1_2921035272_6	EM side-channel analysis is a technique where unintentional electromagnetic emissions are used for eavesdropping on the operations and data handling of computing devices.
+2921035272	G09.1_2921035272_7	The non-intrusive nature of EM side-channel approaches makes it a viable option to assist digital forensic investigations as these attacks require, and must result in, no modification to the target device.
+2921035272	G09.1_2921035272_7	The non-intrusive nature of EM side-channel approaches makes it a viable option to assist digital forensic investigations as these attacks require, and must result in, no modification to the target device.
+2921035272	G09.1_2921035272_8	The literature on various EM side-channel analysis attack techniques are discussed – selected on the basis of their applicability in IoT device investigation scenarios.
+2921035272	G09.1_2921035272_8	The literature on various EM side-channel analysis attack techniques are discussed – selected on the basis of their applicability in IoT device investigation scenarios.
+2921035272	G09.1_2921035272_9	The insight gained from the background study is used to identify promising future applications of the technique for digital forensic analysis on IoT devices – potentially progressing a wide variety of currently hindered digital investigations.
+2921035272	G09.1_2921035272_9	The insight gained from the background study is used to identify promising future applications of the technique for digital forensic analysis on IoT devices – potentially progressing a wide variety of currently hindered digital investigations.
+2931522054	G06.2_2931522054_1	This paper proposes a MATLAB/Simulink benchmark suite for an open-source self-driving system based on Robot Operating System (ROS).
+2931522054	G06.2_2931522054_1	This paper proposes a MATLAB/Simulink benchmark suite for an open-source self-driving system based on Robot Operating System (ROS).
+2931522054	G06.2_2931522054_2	One approach to the development of self-driving systems is the utilization of ROS which is an open-source middleware framework used in the development of robot applications.
+2931522054	G06.2_2931522054_2	One approach to the development of self-driving systems is the utilization of ROS which is an open-source middleware framework used in the development of robot applications.
+2931522054	G06.2_2931522054_3	On the other hand, the popular approach in the automotive industry is the utilization of MATLAB/Simulink which is software for modeling, simulating, and analyzing.
+2931522054	G06.2_2931522054_3	On the other hand, the popular approach in the automotive industry is the utilization of MATLAB/Simulink which is software for modeling, simulating, and analyzing.
+2931522054	G06.2_2931522054_4	MATLAB/Simulink provides an interface between ROS and MATLAB/Simulink that enables to create functionalities of ROS-based robots in MATLAB/Simulink.
+2931522054	G06.2_2931522054_4	MATLAB/Simulink provides an interface between ROS and MATLAB/Simulink that enables to create functionalities of ROS-based robots in MATLAB/Simulink.
+2931522054	G06.2_2931522054_5	However, it is not been fully utilized in the development of self-driving systems yet because there are not enough samples for self-driving, and it is difficult for developers to adopt co-development.
+2931522054	G06.2_2931522054_5	However, it is not been fully utilized in the development of self-driving systems yet because there are not enough samples for self-driving, and it is difficult for developers to adopt co-development.
+2931522054	G06.2_2931522054_6	Therefore, we provide a MATLAB/Simulink benchmark suite for a ROS-based self-driving system called Autoware.
+2931522054	G06.2_2931522054_6	Therefore, we provide a MATLAB/Simulink benchmark suite for a ROS-based self-driving system called Autoware.
+2931522054	G06.2_2931522054_7	Autoware is popular open-source software that provides a complete set of self-driving modules.
+2931522054	G06.2_2931522054_7	Autoware is popular open-source software that provides a complete set of self-driving modules.
+2931522054	G06.2_2931522054_8	The provided benchmark contains MATLAB/Simulink samples available in Autoware.
+2931522054	G06.2_2931522054_8	The provided benchmark contains MATLAB/Simulink samples available in Autoware.
+2931522054	G06.2_2931522054_9	They help to design ROS-based self-driving systems using MATLAB/Simulink.
+2931522054	G06.2_2931522054_9	They help to design ROS-based self-driving systems using MATLAB/Simulink.
+2935172463	G06.2_2935172463_1	The management of self-driving systems is becoming more complex as the development of self-driving technology progresses.
+2935172463	G06.2_2935172463_1	The management of self-driving systems is becoming more complex as the development of self-driving technology progresses.
+2935172463	G06.2_2935172463_2	One approach to the development of self-driving systems is the use of ROS; however, the system used in the automotive industry is typically designed using MATLAB/Simulink, which can simulate and evaluate the models used for self-driving.
+2935172463	G06.2_2935172463_2	One approach to the development of self-driving systems is the use of ROS; however, the system used in the automotive industry is typically designed using MATLAB/Simulink, which can simulate and evaluate the models used for self-driving.
+2935172463	G06.2_2935172463_3	These models are incompatible with ROS-based systems.
+2935172463	G06.2_2935172463_3	These models are incompatible with ROS-based systems.
+2935172463	G06.2_2935172463_4	To allow the two to be used in tandem, it is necessary to rewrite the C++ code and incorporate them into the ROS-based system, which makes development inefficient.
+2935172463	G06.2_2935172463_4	To allow the two to be used in tandem, it is necessary to rewrite the C++ code and incorporate them into the ROS-based system, which makes development inefficient.
+2935172463	G06.2_2935172463_5	Therefore, the proposed framework allows models created using MATLAB/Simulink to be used in a ROS-based self-driving system, thereby improving development efficiency.
+2935172463	G06.2_2935172463_5	Therefore, the proposed framework allows models created using MATLAB/Simulink to be used in a ROS-based self-driving system, thereby improving development efficiency.
+2935172463	G06.2_2935172463_6	Furthermore, our evaluations of the proposed framework demonstrated its practical potential.
+2935172463	G06.2_2935172463_6	Furthermore, our evaluations of the proposed framework demonstrated its practical potential.
+2943753439	G03.1_2943753439_1	Amazon's Echo, and Apple's Siri have drawn attention from different user groups; however, these existing commercial VUIs support limited language options for users including native English speakers and non-native English speakers.
+2943753439	G03.1_2943753439_1	Amazon's Echo, and Apple's Siri have drawn attention from different user groups; however, these existing commercial VUIs support limited language options for users including native English speakers and non-native English speakers.
+2943753439	G03.1_2943753439_2	we conducted a usability study of the Google Home Smart Speaker with 20 participants including native English and non-native English speakers to understand their differences in using the Google Home Smart Speaker.
+2943753439	G03.1_2943753439_2	we conducted a usability study of the Google Home Smart Speaker with 20 participants including native English and non-native English speakers to understand their differences in using the Google Home Smart Speaker.
+2943753439	G03.1_2943753439_3	The findings show that compared with their counterparts, the native English speakers had better and more positive user experiences in interacting with the device.
+2943753439	G03.1_2943753439_3	The findings show that compared with their counterparts, the native English speakers had better and more positive user experiences in interacting with the device.
+2943753439	G03.1_2943753439_4	It also shows that users' English language proficiency plays an important role in interacting with VUIs.
+2943753439	G03.1_2943753439_4	It also shows that users' English language proficiency plays an important role in interacting with VUIs.
+2943753439	G03.1_2943753439_5	The findings from this study can create insights for VUI designers and developers for implementing multiple language options and better voice recognition algorithms in VUIs for different user groups across the world.
+2943753439	G03.1_2943753439_5	The findings from this study can create insights for VUI designers and developers for implementing multiple language options and better voice recognition algorithms in VUIs for different user groups across the world.
+2946157960	G11.1_2946157960_1	Advances in electronics and sensor technology have widened the scopes of networked drones to include applications as diverse as surveillance, video recording, operations, entertainment/advertising, signal emission, transportation, and delivery.
+2946157960	G11.1_2946157960_1	Advances in electronics and sensor technology have widened the scopes of networked drones to include applications as diverse as surveillance, video recording, operations, entertainment/advertising, signal emission, transportation, and delivery.
+2946157960	G11.1_2946157960_2	These applications and services require video recording for their operations.
+2946157960	G11.1_2946157960_2	These applications and services require video recording for their operations.
+2946157960	G11.1_2946157960_3	Large drones are used singly in missions while small ones are used in formations or swarms.
+2946157960	G11.1_2946157960_3	Large drones are used singly in missions while small ones are used in formations or swarms.
+2946157960	G11.1_2946157960_4	The small drones are proving to be useful in civilian applications.
+2946157960	G11.1_2946157960_4	The small drones are proving to be useful in civilian applications.
+2946157960	G11.1_2946157960_5	Consideration of small drones for the applications such as group flight, entertainment, and signal emission lead to deployment of networked drones.
+2946157960	G11.1_2946157960_5	Consideration of small drones for the applications such as group flight, entertainment, and signal emission lead to deployment of networked drones.
+2946157960	G11.1_2946157960_6	To develop group display applications, a real-time drone formation control for group display is proposed.
+2946157960	G11.1_2946157960_6	To develop group display applications, a real-time drone formation control for group display is proposed.
+2946157960	G11.1_2946157960_7	Simulation shows that drone formation can display messages effectively.
+2946157960	G11.1_2946157960_7	Simulation shows that drone formation can display messages effectively.
+2958092349	G06.2_2958092349_1	With the developing of the technology on self-driving, more and more L3 driverless vehicles are launched in market, people get opportunities to experience the self-driving cars in their daily life.
+2958092349	G06.2_2958092349_1	With the developing of the technology on self-driving, more and more L3 driverless vehicles are launched in market, people get opportunities to experience the self-driving cars in their daily life.
+2958092349	G06.2_2958092349_2	As a result, there is a growing demand for the autopilot experience.
+2958092349	G06.2_2958092349_2	As a result, there is a growing demand for the autopilot experience.
+2958092349	G06.2_2958092349_3	Natural and efficient human-computer interaction can not only improve the driving experience, but also accelerate the process of self-driving commercialization.
+2958092349	G06.2_2958092349_3	Natural and efficient human-computer interaction can not only improve the driving experience, but also accelerate the process of self-driving commercialization.
+2958092349	G06.2_2958092349_4	This paper discusses eye-movement interaction, voice interaction and gesture interaction in self-driving car, and analyzes the technology, advantages and disadvantages of the existing interaction modes, and prospect the future development trend of self-driving human-computer interaction.
+2958092349	G06.2_2958092349_4	This paper discusses eye-movement interaction, voice interaction and gesture interaction in self-driving car, and analyzes the technology, advantages and disadvantages of the existing interaction modes, and prospect the future development trend of self-driving human-computer interaction.
+2960901639	G03.1_2960901639_1	As smart speakers with voice interaction capability permeate continuously in the world, more and more people will gradually get used to the new interaction medium–voice.
+2960901639	G03.1_2960901639_1	As smart speakers with voice interaction capability permeate continuously in the world, more and more people will gradually get used to the new interaction medium–voice.
+2960901639	G03.1_2960901639_2	Although speech recognition, natural language processing (NLP) have been greatly improved over the past few years, users still may encounter errors from time to time like “cannot understand”, “no requested audio resource (such as music)”, which can frustrate users.
+2960901639	G03.1_2960901639_2	Although speech recognition, natural language processing (NLP) have been greatly improved over the past few years, users still may encounter errors from time to time like “cannot understand”, “no requested audio resource (such as music)”, which can frustrate users.
+2960901639	G03.1_2960901639_3	Therefore, when an error message is reported, it is vital that the smart speaker gives an effective and proper response.
+2960901639	G03.1_2960901639_3	Therefore, when an error message is reported, it is vital that the smart speaker gives an effective and proper response.
+2960901639	G03.1_2960901639_4	However, currently the response strategies adopted by leading smart speaker brands in China differed mainly on two dimensions: “apology or not” and “humor or neutral”.
+2960901639	G03.1_2960901639_4	However, currently the response strategies adopted by leading smart speaker brands in China differed mainly on two dimensions: “apology or not” and “humor or neutral”.
+2960901639	G03.1_2960901639_5	We explored user’s preference of response strategies under two error scenarios——“cannot understand” and “no requested audio resource”.
+2960901639	G03.1_2960901639_5	We explored user’s preference of response strategies under two error scenarios——“cannot understand” and “no requested audio resource”.
+2960901639	G03.1_2960901639_6	Two dependent variables (satisfaction and perceived sincerity of response) were measured.
+2960901639	G03.1_2960901639_6	Two dependent variables (satisfaction and perceived sincerity of response) were measured.
+2960901639	G03.1_2960901639_7	The results showed that participants were more satisfied and perceived higher sincerity when smart speaker apologized in both error scenarios.
+2960901639	G03.1_2960901639_7	The results showed that participants were more satisfied and perceived higher sincerity when smart speaker apologized in both error scenarios.
+2960901639	G03.1_2960901639_8	In the “no requested audio resource” scenario, humor had no significant impact on the perception of satisfaction and sincerity.
+2960901639	G03.1_2960901639_8	In the “no requested audio resource” scenario, humor had no significant impact on the perception of satisfaction and sincerity.
+2960901639	G03.1_2960901639_9	But in the “cannot understand” scenario, humorous expression decreased perceived sincerity.
+2960901639	G03.1_2960901639_9	But in the “cannot understand” scenario, humorous expression decreased perceived sincerity.
+2972302621	G08.1_2972302621_1	Cryptocurrency was built initially as a possible implementation of digital currency, then various derivatives were created in a variety of fields such as financial transactions, capital management, and even nonmonetary applications.
+2972302621	G08.1_2972302621_1	Cryptocurrency was built initially as a possible implementation of digital currency, then various derivatives were created in a variety of fields such as financial transactions, capital management, and even nonmonetary applications.
+2972302621	G08.1_2972302621_2	This paper aims to offer analytical insights to help understand cryptocurrency by treating it as a financial asset.
+2972302621	G08.1_2972302621_2	This paper aims to offer analytical insights to help understand cryptocurrency by treating it as a financial asset.
+2972302621	G08.1_2972302621_3	We position cryptocurrency by comparing its dynamic characteristics with two traditional and massively adopted financial assets: foreign exchange and stock.
+2972302621	G08.1_2972302621_3	We position cryptocurrency by comparing its dynamic characteristics with two traditional and massively adopted financial assets: foreign exchange and stock.
+2972302621	G08.1_2972302621_4	Our investigation suggests that the dynamics of cryptocurrency are more similar to stock.
+2972302621	G08.1_2972302621_4	Our investigation suggests that the dynamics of cryptocurrency are more similar to stock.
+2972302621	G08.1_2972302621_5	As to the robustness and clustering structure, our analysis shows cryptocurrency market is more fragile than stock market, thus it is currently a high-risk financial market.
+2972302621	G08.1_2972302621_5	As to the robustness and clustering structure, our analysis shows cryptocurrency market is more fragile than stock market, thus it is currently a high-risk financial market.
+2982382045	G06.2_2982382045_1	At the brink of the introduction of self-driving vehicles, only little is known about how potential users perceive them.
+2982382045	G06.2_2982382045_1	At the brink of the introduction of self-driving vehicles, only little is known about how potential users perceive them.
+2982382045	G06.2_2982382045_2	This is especially true for self-driving vehicles deployed in public transport services.
+2982382045	G06.2_2982382045_2	This is especially true for self-driving vehicles deployed in public transport services.
+2982382045	G06.2_2982382045_3	In this study, the relative preferences for a trip with a self-driving bus is assessed compared to a trip with a regular bus, based on a stated preference experiment.
+2982382045	G06.2_2982382045_3	In this study, the relative preferences for a trip with a self-driving bus is assessed compared to a trip with a regular bus, based on a stated preference experiment.
+2982382045	G06.2_2982382045_4	Based on the responses of 282 respondents from the Netherlands and Germany, a discrete choice model is estimated as a Mixed Logit model including attitudes towards trust in self-driving vehicles and interest in technology.
+2982382045	G06.2_2982382045_4	Based on the responses of 282 respondents from the Netherlands and Germany, a discrete choice model is estimated as a Mixed Logit model including attitudes towards trust in self-driving vehicles and interest in technology.
+2982382045	G06.2_2982382045_5	The results show that currently public transport passengers prefer the self-driving bus over the regular bus only for short trips.
+2982382045	G06.2_2982382045_5	The results show that currently public transport passengers prefer the self-driving bus over the regular bus only for short trips.
+2982382045	G06.2_2982382045_6	This is due to the finding that the value of travel time is about twice as high for the self-driving bus as for the regular bus for a short commuting trip.
+2982382045	G06.2_2982382045_6	This is due to the finding that the value of travel time is about twice as high for the self-driving bus as for the regular bus for a short commuting trip.
+2982382045	G06.2_2982382045_7	Findings from this study further suggest that the popularity of self-driving busses decreases with the presence of a human steward on-board, or if they are operated as a demand-responsive service with fixed routes.
+2982382045	G06.2_2982382045_7	Findings from this study further suggest that the popularity of self-driving busses decreases with the presence of a human steward on-board, or if they are operated as a demand-responsive service with fixed routes.
+2982382045	G06.2_2982382045_8	People who currently show a strong interest in technology or trust in automated vehicle technology perceive the self-driving busses better than others.
+2982382045	G06.2_2982382045_8	People who currently show a strong interest in technology or trust in automated vehicle technology perceive the self-driving busses better than others.
+2982382045	G06.2_2982382045_9	Preferences towards automated public transport services are expected to evolve along with the transition from demonstration pilots to their deployment in regular operations.
+2982382045	G06.2_2982382045_9	Preferences towards automated public transport services are expected to evolve along with the transition from demonstration pilots to their deployment in regular operations.
+3	M1_3_1	Muscle contraction and the intake of leucine-rich protein sources activate independent but complimentary signaling responses that converge at the mechanistic target of rapamycin (mTOR) to stimulate protein translation enhancing rates of muscle protein synthesis [4]–[6].
+31	M1_31_1	Given the need to promote protein synthesis that underpins adaptation, repair and regeneration of skeletal muscle the results of the current study provide clear evidence of impaired recovery when alcohol is consumed after concurrent (resistance, continuous and intermittent high-intensity) exercise even in the presence of optimal nutritional conditions.
+32	M1_32_1	We propose our data is of paramount interest to athletes and coaches.
+33	M1_33_1	Our findings provide an evidence-base for a message of moderation in alcohol intake to promote recovery after exercise with the potential to alter current sports culture and athlete practices.
+34	M2_34_1	Physical activity has proved to be an effective means of preventing several diseases and improving general health.
+34	M2_34_2	Common sense advices call for late inception of intense, strength training-related activities, like weight lifting and plyometrics, which are usually postponed at the end of the growth age, even among sport practitioners.
+34	M2_34_3	However, such advices seem to have a mainly anecdotal nature.
+34	M2_34_4	Current literature does not seem to have any particular aversion against the practice of strength training by children and adolescents, provided that some safety rules are followed, like medical clearance, proper instruction from a qualified professional and progressive overload.
+34	M2_34_5	At the same time, several studies provide consistent findings supporting the benefits of repeated, intense physical efforts in young subjects.
+34	M2_34_6	Improved motor skills and body composition, in terms of increased fat free mass, reduced fat mass and enhanced bone health, have been extensively documented, especially if sport practice began early, when the subjects were pubescent.
+34	M2_34_7	It can be therefore concluded that strength training is a relatively safe and healthy practice for children and adolescents.
+35	M3_35_1	recently, there has been a renewed public interest in IFast.
+35	M3_35_2	Given the importance of nutrition in optimizing athletic performance, there is a concern about the effects of IFast on athletics.
+35	M3_35_3	Looking at high-intensity, endurance, and resistance exercises, studies have been varied but are uniform in showing that there is no benefit to athletic performance while fasting.
+37	M5_37_1	Nutrient timing is a popular nutritional strategy that involves the consumption of combinations of nutrients--primarily protein and carbohydrate--in and around an exercise session.
+37	M5_37_2	Some have claimed that this approach can produce dramatic improvements in body composition.
+37	M5_37_3	It has even been postulated that the timing of nutritional consumption may be more important than the absolute daily intake of nutrients.
+37	M5_37_4	The post-exercise period is widely considered the most critical part of nutrient timing.
+37	M5_37_5	Theoretically, consuming the proper ratio of nutrients during this time not only initiates the rebuilding of damaged muscle tissue and restoration of energy reserves, but it does so in a supercompensated fashion that enhances both body composition and exercise performance.
+37	M5_37_6	Several researchers have made reference to an anabolic “window of opportunity” whereby a limited time exists after training to optimize training-related muscular adaptations.
+37	M5_37_7	However, the importance - and even the existence - of a post-exercise ‘window’ can vary according to a number of factors.
+37	M5_37_8	Not only is nutrient timing research open to question in terms of applicability, but recent evidence has directly challenged the classical view of the relevance of post-exercise nutritional intake with respect to anabolism.
+38	M6_38_1	Lack of time is among the more commonly reported barriers for abstention from exercise programs.
+38	M6_38_2	The aim of this review was to determine how strength training can be most effectively carried out in a time-efficient manner by critically evaluating research on acute training variables, advanced training techniques, and the need for warm-up and stretching.
+38	M6_38_3	When programming strength training for optimum time-efficiency we recommend prioritizing bilateral, multi-joint exercises that include full dynamic movements (i.e. both eccentric and concentric muscle actions), and to perform a minimum of one leg pressing exercise (e.g. squats), one upper-body pulling exercise (e.g. pull-up) and one upper-body pushing exercise (e.g. bench press).
+38	M6_38_4	Exercises can be performed with machines and/or free weights based on training goals, availability, and personal preferences.
+38	M6_38_5	Weekly training volume is more important than training frequency and we recommend performing a minimum of 4 weekly sets per muscle group using a 6–15 RM loading range (15–40 repetitions can be used if training is performed to volitional failure).
+38	M6_38_6	Advanced training techniques, such as supersets, drop sets and rest-pause training roughly halves training time compared to traditional training, while maintaining training volume.
+38	M6_38_7	However, these methods are probably better at inducing hypertrophy than muscular strength, and more research is needed on longitudinal training effects.
+38	M6_38_8	Finally, we advise restricting the warm-up to exercise-specific warm-ups, and only prioritize stretching if the goal of training is to increase flexibility.
+47	M15_47_1	Resistance training is the most effective method to increase muscle mass.
+47	M15_47_2	It has also been shown to promote many health benefits.
+47	M15_47_3	Although it is deemed safe and of clinical relevance for treating and preventing a vast number of diseases, a time-efficient and minimal dose of exercise has been the focus of a great number of research studies.
+47	M15_47_4	Similarly, an inverted U-shaped relationship between training dose/volume and physiological response has been hypothesized to exist.
+47	M15_47_5	However, the majority of available evidence supports a clear dose-response relationship between resistance training volume and physiological responses, such as muscle hypertrophy and health outcomes.
+47	M15_47_6	Additionally, there is a paucity of data to support the inverted U-shaped response.
+47	M15_47_7	The overarching principle argued herein is that volume is the most easily modifiable variable that has the most evidenced-based response with important repercussions, be these muscle hypertrophy or health-related outcomes.
+51	M19_51_1	Inactive adults experience a 3% to 8% loss of muscle mass per decade, accompanied by resting metabolic rate reduction and fat accumulation.
+51	M19_51_2	Ten weeks of resistance training may increase lean weight by 1.4 kg, increase resting metabolic rate by 7%, and reduce fat weight by 1.8 kg.
+51	M19_51_3	Benefits of resistance training include improved physical performance, movement control, walking speed, functional independence, cognitive abilities, and self-esteem.
+51	M19_51_4	Resistance training may assist prevention and management of type 2 diabetes by decreasing visceral fat, reducing HbA1c, increasing the density of glucose transporter type 4, and improving insulin sensitivity.
+51	M19_51_5	Resistance training may enhance cardiovascular health, by reducing resting blood pressure, decreasing low-density lipoprotein cholesterol and triglycerides, and increasing high-density lipoprotein cholesterol.
+51	M19_51_6	Resistance training may promote bone development, with studies showing 1% to 3% increase in bone mineral density.
+51	M19_51_7	Resistance training may be effective for reducing low back pain and easing discomfort associated with arthritis and fibromyalgia and has been shown to reverse specific aging factors in skeletal muscle.
+53	M21_53_1	Maximizing the hypertrophic response to resistance training (RT) is thought to be best achieved by proper manipulation of exercise program variables including exercise selection, exercise order, length of rest intervals, intensity of maximal load, and training volume.
+53	M21_53_2	An often overlooked variable that also may impact muscle growth is repetition duration.
+53	M21_53_3	Duration amounts to the sum total of the concentric, eccentric, and isometric components of a repetition, and is predicated on the tempo at which the repetition is performed.
+53	M21_53_4	We conducted a systematic review and meta-analysis to determine whether alterations in repetition duration can amplify the hypertrophic response to RT.
+53	M21_53_5	Results indicate that hypertrophic outcomes are similar when training with repetition durations ranging from 0.5 to 8 s.
+53	M21_53_6	From a practical standpoint it would seem that a fairly wide range of repetition durations can be employed if the primary goal is to maximize muscle growth.
+53	M21_53_7	Findings suggest that training at volitionally very slow durations (>10s per repetition) is inferior from a hypertrophy standpoint, although a lack of controlled studies on the topic makes it difficult to draw definitive conclusions.
