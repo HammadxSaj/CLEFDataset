@@ -1,0 +1,964 @@
+snt_id	term	definition
+G01.1_1019677957_1	e-book	Book which is produced for reading on a computer screen
+G01.1_1019677957_1	mobile technology	Technology used for cellular communication
+G01.1_1019677957_1	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1019677957_1	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1019677957_1	smart phone	Type of cellphone that can perform many of the operations that a computer does, such as accessing the internet
+G01.1_1019677957_2	learning	Process of gaining knowledge through studying.
+G01.1_1019677957_2	learning experience	Spectrum of activities, interactions and environments through which students acquire knowledge, skills and attitudes
+G01.1_1019677957_2	learning scenario	Description a priori of a learning situation, independently of the underlying pedagogical approach
+G01.1_1019677957_2	learning technology	Communication, information and technological tools used to enhance learning, teaching and assessment
+G01.1_1019677957_2	mobile carrier	Wireless service provider that supplies cellular connectivity to mobile devices, such as smartphones and tablets
+G01.1_1019677957_2	student	Person who is studying at a school, university or college
+G01.1_1019677957_3	education	Act or process of acquiring knowledge, especially systematically during childhood and adolescence
+G01.1_1019677957_4	learning method	Procedure used to facilitate the learning process in the learning environment
+G01.1_1019677957_4	learning strategy	Way of an individual of organizing and using a particular set of skills in order to learn content or accomplish other tasks more effectively and efficiently in academic and nonacademic settings
+G01.1_1019677957_5	competitive learning strategy	Method of education that relies on competition among students (for grades or other rewards) as a way of enhancing motivation
+G01.1_1019677957_5	elementary school student	Child in kindergarten through sixth grade
+G01.1_1019677957_5	learning achievement	Level of success or accomplishment that a student attains in their educational pursuits
+G01.1_1019677957_6	learning performance	Achievement of a learning activity
+G01.1_1019677957_7	learning activity	Activities designed or deployed by the teacher to bring about, or create the conditions for learning
+G01.1_111823101_1	Bluetooth wireless technology	Wireless technology that is short-range, that enables wireless data communication between digital devices, such as a computer and digital camera
+G01.1_111823101_1	mobile phone	Phone that is connected to the phone system by radio instead of by a wire, and can be used anywhere its signals can be received
+G01.1_111823101_1	physiological signal	Multichannel readings from the central and autonomic nervous system that carry meaningful information in terms of actions, responses, feelings, and behavior
+G01.1_111823101_2	doctor	Physician, especially one on whom has been conferred the degree of M.D. by a university or medical school.
+G01.1_111823101_2	mobile device	Computing device that is portable that has a small form factor such that it can easily be carried by a single individual; is designed to operate without a physical connection (e.g., wirelessly transmit or receive information); possesses local, non-removable/removable data storage; and includes a self-contained power source
+G01.1_111823101_2	patient	Person who is ill or is undergoing treatment for disease
+G01.1_111823101_2	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_111823101_2	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_111823101_2	Web page	Set of data or information which is designed to be viewed as part of a website.
+G01.1_131359426_1	colour	Aspect of visual perception, characterized by the attributes of hue, brightness and saturation, and resulting from stimulation of the retina by visible photopic light levels.
+G01.1_131359426_1	human population	Number of people living in a particular area, from a village to the world as a whole
+G01.1_131359426_1	impairment	Abnormality of any kind of, partial or complete loss of, or loss of the function of, a body part, organ, or system; this may be due directly or secondarily to pathology or injury and may be either temporary or permanent.
+G01.1_131359426_1	percentage	Amount of something, often expressed as a number out of 100
+G01.1_131359426_3	colour information	Interpretations, abstractions and knowledge about colour data in various fields, which include natural sciences, technology, art, psychology, cultural and their purchase decision-making
+G01.1_131359426_3	sound	Something that you can hear or that can be heard
+G01.1_131359426_3	technique	Method, skill, or art that is practical and applied to a particular task
+G01.1_131359426_4	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_131359426_4	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_131359426_5	colour space	Organization of colors which, in combination with color profiling supported by various physical devices, supports reproducible representations of color
+G01.1_131359426_5	implementation	Act of starting to use a plan or system
+G01.1_131359426_6	convert	Change of a character, appearance, or operation of something
+G01.1_131359426_6	headphone	Listening device consisting of a single small speaker held to the ear by a band over the head
+G01.1_131359426_6	information	Data or knowledge that is processed, stored, or transmitted by a computer system
+G01.1_131359426_6	speaker	Piece of electrical equipment, for example part of a radio or set of equipment for playing CDs or tapes, through which sound comes out.
+G01.1_131359426_6	user	Person who uses a product, machine, or service
+G01.1_131359426_7	feedback	Information in response to an inquiry, experiment, etc
+G01.1_131359426_7	reconfigure	Rearrangement of the elements or settings of a system, device, or computer application
+G01.1_131359426_7	system	Set of connected things or devices that operate together
+G01.1_131359426_7	technology	Methods, systems, and devices which are the result of scientific knowledge being used for practical purposes
+G01.1_147704292_1	MDR-TB	Mycobacterium tuberculosis bacilli that are resistant to therapy with at least two standard antitubercular drugs (esp. isoniazid and rifampin, the two drugs that have formed the cornerstone of therapy for tuberculosis)
+G01.1_147704292_1	multidrug-resistant tuberculosis	Mycobacterium tuberculosis bacilli that are resistant to therapy with at least two standard antitubercular drugs (esp. isoniazid and rifampin, the two drugs that have formed the cornerstone of therapy for tuberculosis)
+G01.1_147704292_1	national TB program	District TB Centre model involved imparting BCG vaccination and TB treatment to fight tuberculosis
+G01.1_147704292_1	NTP	District TB Centre model involved imparting BCG vaccination and TB treatment to fight tuberculosis
+G01.1_147704292_1	partners in health	International nonprofit public health organization that provides healthcare in the poorest areas of developing countries
+G01.1_147704292_1	PIH	International nonprofit public health organization that provides healthcare in the poorest areas of developing countries
+G01.1_147704292_1	SES	Sister organization of Partners in Health, that has been providing medical services in Lima
+G01.1_147704292_1	socios en salud	Sister organization of Partners in Health, that has been providing medical services in Lima
+G01.1_147704292_2	health establishment	Institution, facility, building or place where persons receive treatment, diagnostic or therapeutic interventions or other allopathic or complementing health services
+G01.1_147704292_3	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_147704292_3	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_147704292_3	PIH-EMR	Electronic medical record that is Web based that has been in operation for over four years in Peru supporting the treatment of drug resistant TB.
+G01.1_147704292_4	pilot study	Preliminary study that is small-scale, conducted to evaluate feasibility, duration, cost, adverse events, and improve upon the study design prior to performance of a full-scale research project
+G01.1_147704292_4	system	Set of connected things or devices that operate together
+G01.1_147704292_5	health district	Point of the national health system where people can get comprehensive health care.
+G01.1_147704292_6	processing time	Time taken for entire procedure to run and end with the resulting numbers of processors and cycles
+G01.1_147704292_7	discrepancy	"Difference that is unexpected, esp. in two amounts or two sets of facts or conditions, which suggests that something is wrong and has to be explained
+"
+G01.1_147704292_7	user	Person who uses a product, machine, or service
+G01.1_1491527877_1	expert	Person having a high level of knowledge or skill in a particular subject
+G01.1_1491527877_1	generalist	Person whose knowledge, aptitudes, and skills are applied to a field as a whole or to a variety of different fields
+G01.1_1491527877_1	interdisciplinary communication	Communication, in the sense of cross-fertilization of ideas, involving two or more academic disciplines
+G01.1_1491527877_1	knowledge transfer	Transferring an awareness of facts or practical skills from one entity to another
+G01.1_1491527877_1	novice	Person who is beginning to learn a job or an activity and has little or no experience or skill in it
+G01.1_1491527877_1	specialist	Someone who limits his or her studying or work to a particular area of knowledge, and who is an expert in that area
+G01.1_1491527877_2	chest pain	General term for any dull, aching pain in the thorax, usually referring to that of acute onset, which is often regarded as being myocardial in origin unless proven otherwise
+G01.1_1491527877_2	decision support tool	Software developed to support analysts and decision makers in making better decisions, faster
+G01.1_1491527877_2	DST	Software developed to support analysts and decision makers in making better decisions, faster
+G01.1_1491527877_2	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1491527877_2	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1491527877_3	cognitive work analysis	Conceptual framework that makes it possible to analyse the forces that shape human-information interaction
+G01.1_1491527877_3	ecological interface design	Approach to interface design that was introduced specifically for complex sociotechnical, real-time, and dynamic systems
+G01.1_1491527877_3	human factors method	Method constituted by a set of procedures designed to collect observations of human behaviour from simplifying their transcription into decision-making processes and in particular to improve problem-solving
+G01.1_1491527877_3	requirements-gathering phase	Part of the software development life cycle where the team collects all the relevant information needed to build the software
+G01.1_1491527877_5	nursing coordinator	Person who oversees the work of a team of nurses in their department or unit
+G01.1_1491527877_5	tele-consultation	General term for any consultation between doctors or between doctors and patients on a network or video link
+G01.1_1491527877_5	tele-triage	Assessment of a patient's health status through telephone or another means of communication and recommending treatment or providing appropriate referrals in emergency rooms and primary care offices
+G01.1_1491527877_6	cardiac care	Nursing intervention defined as the limitation of complications resulting from an imbalance between myocardial oxygen supply and demand for a patient with symptoms of impaired cardiac function.
+G01.1_1491527877_6	cardiac care nurse	Nurse that cares for patients with heart diseases or conditions, from coronary artery disease to heart failure and recovery from bypass surgery
+G01.1_1491527877_6	clinical trial	Controlled experiment involving a defined set of human subjects, having a clinical event as an outcome measure, and intended to yield scientifically valid information about the efficacy or safety of a drug, vaccine, diagnostic test, surgical procedure, or other form of medical intervention.
+G01.1_1491527877_6	nurse	Person trained in the scientific basis of nursing, meeting certain prescribed standards of education and clinical competence; see also nursing practice.
+G01.1_1493916683_3	mobile learning	Form of distance education where learners use portable devices such as mobile phones to learn anywhere and anytime
+G01.1_1493916683_3	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1493916683_5	Korean Proficiency Test	Test specifically tailored for assessing Korean language skills for employment, particularly for those seeking work in South Korea
+G01.1_1493916683_5	KPT	Test specifically tailored for assessing Korean language skills for employment, particularly for those seeking work in South Korea
+G01.1_1493916683_5	problem set	List of several mildly difficult problems or exercises based on material already taught, which the student is expected to solve with a full written solution
+G01.1_1493916683_8	personal computer	Computer that is used mainly by people at home rather than by large organizations
+G01.1_1493916683_8	prototype	Machine or device that is new and not yet ready to be made in large numbers and sold.
+G01.1_1494033132_1	QWERTY	Keyboard on a typewriter or computer that is the standard English language keyboard, on which the top line of keys begins with the letters q, w, e, r, t, and y
+G01.1_1494033132_1	T9	Predictive text technology for mobile phones (specifically those that contain a 3×4 numeric keypad)
+G01.1_1494033132_2	computer screen	Working area on the monitor of a computer
+G01.1_1494033132_2	keyboard	Set of keys that you press in order to operate a computer, a tablet or some mobile phones.
+G01.1_1494033132_2	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1494033132_2	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1494033132_2	stylus	Device like a pen with which you can input written text or drawing directly into a computer.
+G01.1_1494033132_3	transcription rate	The money that people gets paid for an hour of work transcribing audio
+G01.1_1494033132_5	QWERTY keyboard	Keyboard having the arrangement of alphabetical and numerical keys found on the traditional typewriter
+G01.1_1494033132_5	T9 keyboard	Predictive text technology for mobile phones
+G01.1_1494033132_6	key	Buttons that you press in order to operate a computer keyboard or typewriter
+G01.1_1494033132_6	T9 layout	Phone pad with numbers ranging from 1 to 9 and three associated letters on each button
+G01.1_1494033132_6	visual scanning time	Time needed to visually detect and decode the most relevant information
+G01.1_1494033132_7	QWERTY keyboard layout	Dominant or standard English language keyboard layout or the organization of the letters on a keyboard
+G01.1_1494033132_7	soft keyboard	System that replaces the hardware keyboard on a computing device with an on-screen image map
+G01.1_1497796471_1	mobile devices	Computing device that is portable that has a small form factor such that it can easily be carried by a single individual; is designed to operate without a physical connection (e.g., wirelessly transmit or receive information); possesses local, non-removable/removable data storage; and includes a self-contained power source
+G01.1_1497796471_1	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1497796471_1	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1497796471_1	smart phones	Type of cellphone that can perform many of the operations that a computer does, such as accessing the internet
+G01.1_1497796471_2	database server	Server which uses a database application that provides database services to other computer programs or to computers, as defined by the client–server model
+G01.1_1497796471_2	E-commerce application	Design patterns of functionality needed to list items for purchase, facilitate a transaction by accepting payment methods, and initiate fulfillment of those purchases
+G01.1_1497796471_2	web server	Computer software and underlying hardware that accepts requests via HTTP (the network protocol created to distribute web content) or its secure variant HTTPS
+G01.1_1497796471_3	applications	Computer program that is designed for a particular purpose
+G01.1_1497796471_4	CPU performance	Effectiveness and efficiency of a computer's central processing unit (CPU) in executing instructions
+G01.1_1497796471_4	desktop application	Program designed to run on computers and use system resources to perform their functions
+G01.1_1497796471_4	screen size	Length of the diagonal of a screen, which is the distance between opposite corners, usually in inches
+G01.1_1497796471_4	software development	Process used to conceive, specify, design, program, document, test, and bug fix in order to create and maintain applications, frameworks, or other software components
+G01.1_1497796471_5	information	Data or knowledge that is processed, stored, or transmitted by a computer system
+G01.1_1497796471_5	tourist	Person who is visiting a place for pleasure and interest, especially when they are on holiday.
+G01.1_1497796471_5	user	Person who uses a product, machine, or service
+G01.1_1497796471_6	prototype	Machine or device that is new and not yet ready to be made in large numbers and sold.
+G01.1_1497796471_6	software	Collection of programs and data that tell a computer how to perform specific tasks
+G01.1_1500084159_1	medical practitioner	Person who is skilled in the science of medicine : a doctor
+G01.1_1500084159_1	monitor	To check constantly on a given condition or phenomenon, e.g., blood pressure or heart or respiration rate.
+G01.1_1500084159_1	vital sign	Objective measurements of temperature, pulse, respirations, and blood pressure as a means of assessing general health and cardiorespiratory function.
+G01.1_1500084159_3	patient	Person suffering from any disease or behavioral disorder and undergoing treatment for it.
+G01.1_1500084159_6	communication network	Structure and flow of communication and information between individuals within a group
+G01.1_1500084159_7	body temperature	Temperature of the human body, which is warmer at the core (centrally)—usually between 36–37.5ºC—than at the periphery (extremities).
+G01.1_1500084159_7	ECG	"Tracing representing the heart's electrical action derived by amplification of the minutely small electrical impulses normally generated by the heart.
+"
+G01.1_1500084159_7	proof of concept prototype	Basic model that demonstrates the feasibility of a design concept
+G01.1_1500084159_8	Bluetooth	Radio technology that is short-range which allows wireless communication between a computer and a keyboard, between mobile phones, etc
+G01.1_1500084159_9	patient database	System that is computerized and secure used to store and manage patient information
+G01.1_150012053_1	learning space	Place that is real or virtual purposefully designed by the instructor, in which learners are invited to meet and engage in knowledge creation
+G01.1_150012053_1	mobile technology	Technology used for cellular communication
+G01.1_150012053_1	wireless technology	Technology that permits the transfer of information between separated points without physical connection
+G01.1_150012053_2	learning system	Collection of artefacts that are 'brought together', in an appropriate way, in order to create an environment that will facilitate various types of learning process
+G01.1_150012053_2	mobile terminal	Telecommunications terminal intended to be able to register with as well as make and receive calls with one or more public mobile communications networks
+G01.1_150012053_2	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_150012053_2	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_150012053_3	device	Object or machine that has been invented for a particular purpose
+G01.1_150012053_4	language learning outside the classroom	Process, wherein students encounter authentic problems, construct novel hypotheses, test for real solutions, and interact with others to make sense of the world around them
+G01.1_150012053_5	knowledge management	Collection of methods relating to creating, sharing, using and managing the knowledge and information of an organization
+G01.1_150012053_5	learning environment	Educational approach, cultural context, or physical setting in which teaching and learning occur
+G01.1_150012053_5	system	Set of computer equipment and programs used together for a particular purpose
+G01.1_1504856008_1	hardware	Parts of a computer that are physical and electronic, or other piece of equipment
+G01.1_1504856008_1	smartcard	Device that includes an embedded integrated circuit chip (ICC) that can be either a secure microcontroller or equivalent intelligence with internal memory or a memory chip alone
+G01.1_1504856008_1	user	Person who uses a product, machine, or service
+G01.1_1504856008_3	machine	Computer programme or piece of software that carries out a series of operations automatically and without human input
+G01.1_1504856008_4	digital signature	Authentication mechanism that enables the creator of the message to attach a code that acts as a signature
+G01.1_1504856008_4	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1504856008_5	memory prothesis	Brain-machine interface device developed for restoring or enhancing memory functions
+G01.1_1504856008_5	minimal machine	Machine with the fewest states and transitions for some given behaviour
+G01.1_1504856008_5	tamper resistant	Process which makes alterations to the data difficult (hard to perform), costly (expensive to perform), or both
+G01.1_1504856008_6	infrastructure	Equipment, software, etc. that a computer system needs in order to operate and communicate with other computers
+G01.1_1508161316_2	device	Object that has been invented for a particular purpose, for example for recording or measuring something
+G01.1_1508161316_2	monitor	To check constantly on a given condition or phenomenon, e.g., blood pressure or heart or respiration rate.
+G01.1_1508161316_2	vital sign	Indicators of body function, usually meaning heartbeats per minute, breaths per minute, blood pressure, body temperature, and weight.
+G01.1_1508161316_3	data	Facts that are individual, statistics, or items of information
+G01.1_1508161316_3	Internet	Computer network which allows computer users to connect with computers all over the world, and which carries email.
+G01.1_1508161316_3	remote monitoring	Monitoring and maintenance from a distance
+G01.1_1508161316_4	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1508161316_4	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1508161316_4	wireless communication	Transfer of information (telecommunication) between two or more points without the use of an electrical conductor, optical fiber or other continuous guided medium for the transfer
+G01.1_1511670876_1	controlled trial	Clinical study in which one group of participants receives an experimental drug while the other receives either a placebo or an approved 'gold standard' therapy.
+G01.1_1511670876_1	outpatient	Patient who comes to the hospital, clinic, or dispensary for diagnosis or treatment but is not admitted for an overnight stay
+G01.1_1511670876_2	internal medicine resident	Medical school graduate who participates in a graduate medical education (GME) training program
+G01.1_1511670876_3	treatment	Use of an agent, procedure, or regimen, such as a drug, surgery, or exercise, in an attempt to cure or mitigate a disease, condition, or injury.
+G01.1_1511670876_5	prescription	Written directive, as for the compounding or dispensing and administration of drugs, or for other service to a particular patient.
+G01.1_1511670876_6	clinician	Health professional, such as a physician, psychologist, or nurse, who is directly involved in patient care, as distinguished from one who does only research or administrative work.
+G01.1_151188962_1	car navigation	System that allows an automobile driver to see where he or she is on a map at any given time
+G01.1_151188962_1	pedestrian	Person who is walking, especially in a town or city, rather than travelling in a vehicle.
+G01.1_151188962_2	3D map	Representation that is virtual, digital, mathematical defined and three-dimensional of the Earth, surfaces (e.g. luminous body's), objects and phenomena in nature and society
+G01.1_151188962_2	3dimensional map	Representation that is virtual, digital, mathematical defined and three-dimensional of the Earth, surfaces (e.g. luminous body's), objects and phenomena in nature and society
+G01.1_151188962_2	city planning	Planning and design of all the new buildings, roads, and parks in a place in order to make them attractive and convenient for the people who live there
+G01.1_151188962_2	simulation tool	Program that allows the user to observe an operation through simulation without actually performing that operation
+G01.1_151188962_3	2-dimensional map	Images that are two-dimensional, typically mapped onto the surface of geometric objects, or used as environment maps to create a background for the scene
+G01.1_151188962_3	2D map	Images that are two-dimensional, typically mapped onto the surface of geometric objects, or used as environment maps to create a background for the scene
+G01.1_151188962_4	technology	Methods, systems, and devices which are the result of scientific knowledge being used for practical purposes
+G01.1_151188962_5	mobile phone	Phone that is connected to the phone system by radio instead of by a wire, and can be used anywhere its signals can be received
+G01.1_151188962_5	navigation	Act or science of finding a way from one place to another
+G01.1_151188962_5	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_151188962_5	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_151188962_6	error rate	Ratio of the number of erroneous units of data to the total number of units of data
+G01.1_1514623391_1	extension	Development of something else that includes or affects more people, things, or activities.
+G01.1_1514623391_1	mobile device	Computing device that is portable that has a small form factor such that it can easily be carried by a single individual; is designed to operate without a physical connection (e.g., wirelessly transmit or receive information); possesses local, non-removable/removable data storage; and includes a self-contained power source
+G01.1_1514623391_1	PDAs	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1514623391_1	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1514623391_1	phone	Piece of equipment that you use when you dial someone's phone number and talk to them.
+G01.1_1514623391_1	technology	Methods, systems, and devices which are the result of scientific knowledge being used for practical purposes.
+G01.1_1514623391_3	data link layer	Protocol layer that transfers data between nodes on a network segment across the physical layer, specifically the layer number two of the seven-layer OSI model of computer networking
+G01.1_1514623391_3	DVB-H standard	Broadcast transmission system for IP-based services adapted to handheld devices capabilities
+G01.1_1514623391_4	network design	Planning and mapping out the infrastructure of an IT network
+G01.1_1516508996_2	communications device	Piece of hardware or software that can be used to send, receive, or otherwise transmit information
+G01.1_1516508996_4	internet terminal	PC or any other workstation or digital equipment that has external communication capability based on a (the) standard IP protocol and underlying layer
+G01.1_1516508996_4	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1516508996_4	set-top box	Device that is box-shaped, that converts a digital television signal to analogue for viewing on a conventional set, or that enables cable or satellite television to be viewed
+G01.1_1516508996_4	two way pager	Mobile device that allows users to both send and receive messages, often via a wireless network
+G01.1_1516508996_4	video phone	Telephone with a video camera and video display, capable of simultaneous video and audio communication
+G01.1_1516508996_5	MHz	Measurement unit used to express the transmission speed of electronic devices
+G01.1_1516508996_6	I/O	Communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system
+G01.1_1516508996_8	multimedia application	Application which uses a collection of multiple media sources such as text, graphics, images, sound/audio, animation and/or video
+G01.1_1516508996_8	network interface	Hardware component that is designed to allow computers to access an interconnection network for communication and synchronization purposes
+G01.1_1524829466_1	commercial environment	Context that is economic, social, and cultural in which businesses operate
+G01.1_1524829466_1	mobile application	Computer program or software application designed to run on a mobile device such as a phone, tablet, or watch
+G01.1_1524829466_2	constituencies	Group of people who support, are served by, or are represented by an organization, business, etc.
+G01.1_1524829466_2	social interaction	Way people talk and act with each other
+G01.1_1524829466_2	sociology of technology	Study of human interaction with technology
+G01.1_1524829466_3	PDA	A handheld computer, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1524829466_3	personal digital assistant	A handheld computer, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1524829466_4	application area	Category of projects that have a number of significant components in common
+G01.1_1524829466_4	technological community	Set of organizations that are stakeholders for a particular technology or product class
+G01.1_1527694686_1	cellular phone	Phone that you can carry with you and use to make or receive calls wherever you are
+G01.1_1527694686_1	image	Picture of someone or something
+G01.1_1527694686_1	Macromedia Flash file	"File format that is binary which delivers vector graphics (especially animations) and other data types, including ""bitmapped"" video, over the Internet to the Flash Player"
+G01.1_1527694686_1	mobile terminal	Telecommunications terminal intended to be able to register with as well as make and receive calls with one or more public mobile communications networks
+G01.1_1527694686_1	multimedia format	Standards for files containing audio, images and video
+G01.1_1527694686_1	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1527694686_1	procedure	Act, method, or manner of proceeding in some action; esp., the sequence of steps to be followed
+G01.1_1527694686_1	text	Material of any kind that is written
+G01.1_1527694686_1	web	Computer system which links documents and pictures into a database that is stored in computers in many different parts of the world and that people everywhere can use
+G01.1_1527694686_1	web content	Text, visual or audio content that is made available online and user encountered as part of the online usage and experience on websites
+G01.1_1527694686_2	personal computer	Computer designed for individual use
+G01.1_1527694686_2	presentation	Appearance of something, which someone has worked to create.
+G01.1_1527694686_2	web interface	User interface that is implemented in the form of a Web page and can be navigated using a standard Web browser
+G01.1_1527694686_3	device	Object or machine that has been invented for a particular purpose
+G01.1_1527694686_3	mobile terminal	Telecommunications terminal intended to be able to register with as well as make and receive calls with one or more public mobile communications networks
+G01.1_1527694686_3	screen resolution	Measurement of how many pixels a screen can display horizontally and vertically
+G01.1_1527694686_3	terminal	Piece of equipment consisting of a keyboard and a screen that is used for putting information into a computer or getting information from it
+G01.1_1527694686_4	transformation	Act of transforming or the state of being transformed
+G01.1_1527694686_5	visual presentation	Presentation of information through a visible medium such as text or images
+G01.1_1527694686_6	screen	Surface that is flat and vertical on which pictures or words are shown
+G01.1_1527694686_6	web page	Set of data or information which is designed to be viewed as part of a website.
+G01.1_1527694686_7	content	Information, images, video, etc. that are included as part of something such as a website
+G01.1_1527694686_7	keyword	Word that you type into a computer, for example when you are using the internet, so that the computer will find information that contains that word
+G01.1_1527694686_7	subject	Thing that is being discussed, considered, or studied:
+G01.1_1527694686_8	picture	Representation of someone or something produced by drawing, painting, or photographing
+G01.1_1527694686_8	visual effect	Way that something appears and the impression that  gives when it is looked at
+G01.1_1527980854_1	Global Positioning System	Radio navigation system that is satellite-based owned by the United States government and operated by the United States Space Force
+G01.1_1527980854_1	GPS	Radio navigation system that is satellite-based owned by the United States government and operated by the United States Space Force
+G01.1_1527980854_1	GPS receiver	Instrument that receives GPS signals and determines the spatial location of the ground
+G01.1_1527980854_1	LAN	Group of personal computers and associated equipment that are linked by cable, for example in an office building, and that share a communications line
+G01.1_1527980854_1	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1527980854_1	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1527980854_1	user	Person who uses a product, machine, or service
+G01.1_1527980854_2	chat	Conversation, usually one that is friendly and informal
+G01.1_1527980854_2	position	Place where something or someone is, often in relation to other things
+G01.1_1527980854_2	screen	Surface that is flat and vertical on which pictures or words are shown
+G01.1_1527980854_2	system	Set of connected things or devices that operate together
+G01.1_1527980854_6	guidance system	Device or a group of devices, that can be virtual or physical, implementing a controlling the movement of a ship, aircraft, missile, rocket, satellite, or any other moving object
+G01.1_1528342628_2	network failure	Disruptions or issues that occur within a computer network, resulting in the loss or degradation of network connectivity, communication, or performance
+G01.1_1528342628_2	power failure	Loss of the electrical power network supply to an end user
+G01.1_1528342628_3	distributed system	System whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another
+G01.1_1528342628_3	electronic money	Form of currency that is electronically stored in devices, such as the banking computer systems
+G01.1_1528342628_4	authentication	Act of proving an assertion, such as the identity of a computer system user
+G01.1_1528342628_4	key	Random six digit number generated by a security token as a security measure in respect of e-banking
+G01.1_1528342628_4	media	File types used to create, store, and distribute digital content
+G01.1_1528342628_4	ownership	Legal right of possession; proprietorship
+G01.1_1528342628_5	design strategy	Plan that indicates how design is supposed to meet business and user goals
+G01.1_1528342628_5	information	Facts about a situation, person, event, etc.
+G01.1_1528342628_5	user	Person who uses a product, machine, or service
+G01.1_1528342628_6	personal data	Information held on computers that relates only to you, and that you do not want everyone to know
+G01.1_1528342628_6	qualitative assessment	Use of a set of methods, principles, or rules for assessing risk based on nonnumerical categories or levels
+G01.1_1528342628_7	design guideline	Set of design parameters for development which apply within a design
+G01.1_1528342628_7	implement	To put into practical effect; carry out
+G01.1_1529793248_1	depression	Mental state of altered mood characterized by feelings of sadness, despair, and discouragement; distinguished from grief, which is realistic and proportionate to a personal loss
+G01.1_1529793248_2	APN	Nurse that is registered, with at least a master's degree in nursing who has completed graduate-level education and training from a nationally accredited program
+G01.1_1529793248_2	pediatric advanced practice nurse	Nurse that is registered, with at least a master's degree in nursing who has completed graduate-level education and training from a nationally accredited program
+G01.1_1529793248_4	patient	Person who is ill or is undergoing treatment for disease
+G01.1_1529793248_4	screen	To separate well individuals in a population from those who have an undiagnosed disease, defect, or other pathologic condition or who are at high risk by means of tests, examinations, or other procedures.
+G01.1_1529793248_5	mood disorder	Group of mental disorders involving a disturbance of mood, along with either a full or partial excesseively happy (manic) or extremely sad (depressive) syndrome not caused by any other physical or mental disorder.
+G01.1_1529793248_5	risk	The chance or likelihood that an undesirable event or effect will occur, as a result of use or nonuse, incidence, or influence of a chemical, physical, or biologic agent, especially during a stated period; the probability of developing a given disease over a specified time period
+G01.1_1529793248_6	comfort	State of ease and quiet enjoyment, free from worry, pain, or trouble
+G01.1_1529793248_6	cultural barrier	Issue arising from a misunderstanding of meaning, caused by cultural differences between sender and receiver
+G01.1_1529793248_6	focus group	Group of people from a particular population who are asked by a trained facilitator their opinions and beliefs about a particular subject which is of interest to the population from which they were selected
+G01.1_1529793248_6	intervention protocol	Set of guidelines, grounded in scholarship, regarding how a treatment should be implemented
+G01.1_1529793248_7	intervention	Act of intervening in a situation.
+G01.1_1529793248_7	research	Work that involves studying something and trying to discover facts about it.
+G01.1_1530854586_1	education	Process of training and developing the knowledge, skill, mind, character, etc., especially by formal schooling; teaching; training
+G01.1_1530854586_1	healthcare professional	Provider of health care treatment and advice based on formal training and experience
+G01.1_1530854586_1	healthcare research	Inquiry of a systematic nature intended to generate robust evidence about important issues in the fields of medicine and healthcare
+G01.1_1530854586_1	information and communication technology	Term that extends the term information technology (IT), which stresses the role of unified communications and the integration of telecommunications (telephone lines and wireless signals) and computers, as well as necessary enterprise software, middleware, storage and audiovisual, that enable users to access, store, transmit, understand and manipulate information
+G01.1_1530854586_1	medical education	Education related to the practice of being a medical practitioner, including the initial training to become a physician and additional training thereafter
+G01.1_1530854586_1	medical student	Person following a course of study leading to qualification as a doctor of medicine
+G01.1_1530854586_1	patient care	Prevention, treatment, and management of illness and the preservation of physical and mental well-being through services offered by health professionals
+G01.1_1530854586_2	database	Collection of structured information or data that is organized and typically stored electronically in a computer system
+G01.1_1530854586_2	online database	Database accessible from a local network or the Internet
+G01.1_1530854586_2	systematic review	Summary of the medical literature that uses explicit and reproducible methods to systematically search, critically appraise, and synthesize on a specific issue
+G01.1_1530854586_3	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1530854586_4	Internet	Computer network which allows computer users to connect with computers all over the world, and which carries email.
+G01.1_1530854586_4	network	System containing any combination of computers, computer terminals, printers, audio or visual display devices, or telephones interconnected by telecommunication equipment or cables used to transmit or receive information
+G01.1_1532553277_1	8-bit microcontroller	Type of microcontroller that is capable of processing 8-bits of data at a time is referred to as an 8-bit microcontroller
+G01.1_1532553277_1	nucleus	Central or fundamental part or thing around which others are grouped
+G01.1_1532553277_2	Fast Fourier Transform	Algorithm that computes the discrete Fourier transform (DFT) of a sequence, or its inverse (IDFT)
+G01.1_1532553277_2	FFT	Algorithm that computes the discrete Fourier transform (DFT) of a sequence, or its inverse (IDFT)
+G01.1_1532553277_4	IC card	Card used to control access to a resource
+G01.1_1532553277_4	monitor center	System designed to help control and monitor computers in a local network
+G01.1_1532553277_4	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1532553277_4	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1532553277_4	serial port	Serial communication interface through which information transfers in or out sequentially one bit at a time
+G01.1_1532553277_4	telephone line	Telephone connection
+G01.1_1532553277_4	telephone line	Circuit that is single-user on a telephone communication system, designed to reproduce speech of a quality that is understandable
+G01.1_1533716782_1	CPU speed	Rate at which a CPU performs calculations
+G01.1_1533716782_1	memory	Part of a computer in which information or programs are stored either permanently or temporarily, or amount of space available on it for storing information.
+G01.1_1533716782_1	network	System containing any combination of computers, computer terminals, printers, audio or visual display devices, or telephones interconnected by telecommunication equipment or cables used to transmit or receive information
+G01.1_1533716782_1	wireless	Telecommunication involving signals transmitted by radio waves rather than over wires, such as wireless telegraphy or radiotelephony
+G01.1_1533716782_2	desktop	Type of computer that is able to fit on the top of a desk
+G01.1_1533716782_2	device	Machine, for example a phone or computer, that can be used to connect to the internet.
+G01.1_1533716782_2	laptop	Computer that is small enough to be carried around easily and is flat when closed
+G01.1_1533716782_2	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1533716782_2	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1533716782_2	web site	Set of related web pages located under a single domain name, typically produced by a single person or organization.
+G01.1_1534162055_1	mobile system	System of applications and services that is centered around mobile devices for computing and information needs
+G01.1_1534162055_1	software development	Process used to conceive, specify, design, program, document, test, and bug fix in order to create and maintain applications, frameworks, or other software components
+G01.1_1534162055_2	negotiation support system	Information system designed to support individuals or groups in the process of negotiation
+G01.1_1534162055_2	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1534162055_2	Personal Digital Assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1534162055_2	taxonomy	Science or practice of classification
+G01.1_1534162055_3	Agile Method	Project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement
+G01.1_1534162055_3	AM	Project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement
+G01.1_1534162055_3	risk management strategy	Actions and activities that reduce the impact of risk by helping organizations reduce or control the likelihood of risk turning into an issue and mitigating the severity to minimize any negative consequences
+G01.1_1535824984_1	mobile service	Information services that are provided by mobile operators to their subscribers, including routing services, congestion services, weather services, flight services
+G01.1_1535824984_1	private data	Information of any kind that is personal, personally identifiable, financial, sensitive or regulated.
+G01.1_1535824984_2	biometric technology	Use of technology to identify a person based on some aspect of their biology
+G01.1_1535824984_2	speaker recognition	Process of automatically recognizing who is speaking by using the speaker-specific information included in speech waves to verify identities being claimed by people accessing systems
+G01.1_1535824984_3	authentication	Act of proving an assertion, such as the identity of a computer system user
+G01.1_1535824984_4	microphone	Device that records sound or increases the loudness of sounds by changing the sound waves into electrical waves
+G01.1_1535824984_4	mobile phone	Phone that is connected to the phone system by radio instead of by a wire, and can be used anywhere its signals can be received
+G01.1_1535824984_4	PDA	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1535824984_4	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1535824984_4	system performance	Amount of useful work done by a system - measured by the production speed of products of a predefined quality
+G01.1_1535824984_4	telephone	Device for speaking to someone in another place by means of electrical signals
+G01.1_1549686097_1	location-based service	Services that are based on the location of a mobile user as determined by the device's geographical location
+G01.1_1549686097_2	city map	Map of a city, characterized by being large-scale and thematic, created to enable the fastest possible orientation in an urban space
+G01.1_1549686097_2	navigation	Act or science of finding a way from one place to another
+G01.1_1549686097_2	route planning	Process of computing the effective method of transportation or transfers through several stops
+G01.1_1549686097_2	user	Person who uses a product, machine, or service
+G01.1_1549686097_3	computing power	Amount of computing resources that can be used to complete a given task
+G01.1_1549686097_3	laptop	Computer that is small enough to be carried around easily and is flat when closed
+G01.1_1549686097_3	personal computer	Computer that is used mainly by people at home rather than by large organizations
+G01.1_1549686097_3	storage capacity	Quantity of disk space provided by one or more storage devices
+G01.1_1549686097_4	application	Way of applying or method of applying or using; specific use
+G01.1_1549686097_5	personal digital assistant	Computer that can be handheld, often pen-based, that provides especially organizational software, as an appointment calendar, and communications hardware, as a fax modem
+G01.1_1549686097_5	prototype	Machine or device that is new and not yet ready to be made in large numbers and sold.
+G01.1_1549686097_5	public transport network	"Network of roads forming part of the public transport
+system"
+G01.1_2463945949_1	face recognition	Ability of a computer to scan, store, and recognize human faces for use in identifying people
+G01.1_2463945949_1	health care facility	Office or institution providing care or treatment of diseases, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions
+G01.1_2463945949_1	hospital	Institution which is managed, staffed and equipped for providing healthcare services, including inpatient care, surgery, emergent and urgent care, and has facilities for the diagnosis and treatment of disease.
+G01.1_2463945949_1	human resource data	Data related to employees, candidates, and other aspects of managing personnel
+G01.1_2463945949_1	live streaming	Streaming of video or audio in real time or near real time
+G01.1_2463945949_1	medical record	Account that is chronologically written that includes a patient's initial complaint(s) and medical history, physical findings, results of diagnostic tests and procedures, any therapeutic medicines or procedures, and subsequent developments during the course of the illness.
+G01.1_2797641221_1	digital assistant	Software agent that can perform a range of tasks or services for a user based on user input such as commands or questions, including verbal ones
+G01.1_2797641221_1	user	Person who uses a product, machine, or service
+G01.2_1448624402_1	bias	Inclination of temperament or outlook, especially a personal and sometimes unreasoned judgment
+G01.2_1448624402_1	decision-making	Act or process of deciding something especially with a group of people
+G01.2_1448624402_1	experimental research	Scientific research method used to investigate the causal relationship between variables
+G01.2_1448624402_2	manager	Person who is responsible for managing an organization
+G01.2_1448624402_2	organizational performance	Ability of an organization to effectively use resources and processes to achieve goals, improve the communication pipeline, and optimize results
+G01.2_1448624402_3	incentive systems	Structure motivating individuals as part of an organization to act in the interest of the organization.
+G01.2_1448624402_3	managerial decision	Decision that is required for the direction and control of an organization
+G01.2_1448624402_3	organizational complexity	Result of highly connected, interacting, and coevolving entities within an organization
+G01.2_1448624402_3	simulation	Imitative representation of the functioning of one system or process by means of the functioning of another
+G03.1_2949291273_1	human voice	Sound made by a human being using the vocal tract, including talking, singing, laughing, crying, screaming, shouting, humming or yelling
+G03.1_2949291273_1	smart speaker	Wireless electronic device that can respond to spoken commands, for example by giving information or playing music.
+G03.1_2949291273_2	voice command	Spoken instruction you give to a device to make it do something
+G03.1_2949291273_3	microphone array	Microphone device that functions just like a regular microphone, but instead of having only one microphone to record sound input, it has multiple microphones (2 or more) to record sound
+G03.1_2949291273_3	speaker	Piece of electrical equipment through which recorded or broadcast sound can be heard
+G03.1_2949291273_3	system	Set of connected things or devices that operate together
+G04.1_2339209416_2	protocol	Plan for the study of a biomedical problem or for a regimen of therapy that is precise and detailed.
+G04.1_2339209416_4	annotation	Description or piece of information added to data
+G04.1_2339209416_4	assay	Quantitative or qualitative procedure for detecting the presence, estimating the concentration, and/or determining the biological activity of a macromolecule (e.g., an antibody or antigen, molecule, ion, cell, pathogen, etc.).
+G04.1_2339209416_5	BioAssay Ontology	Description of biological assays that is extensible, knowledge-based and highly expressive (currently SHOIQ(D)) and makes use of descriptive logic based features of the Web Ontology Language (OWL)
+G04.2_2415325177_1	dataset	Collection of related sets of information that is composed of separate elements but can be manipulated as a unit by a computer.
+G04.2_2415325177_1	Next generation sequencing	DNA sequencing technology that is large-scale that allows for querying the entire genome (whole genome), the exons within all known genes (whole exome), or only exons of selected genes (target panel)
+G04.2_2415325177_1	NGS	DNA sequencing technology that is large-scale that allows for querying the entire genome (whole genome), the exons within all known genes (whole exome), or only exons of selected genes (target panel)
+G04.2_2415325177_1	sample	Analytic subset of a larger population
+G04.2_2415325177_2	application	Computer program that is designed for a particular purpose
+G04.2_2415325177_3	analysis	Process of studying or examining something in an organized way to learn more about it, or a particular study of something
+G04.2_2415325177_3	bioinformatician	Person who uses computation and analysis to capture and interpret biochemical or pharmaceutical data
+G04.2_2415325177_3	data file	Computer file which stores data to be used by a computer application or system, including input and output data
+G04.2_2415325177_3	reproducibility	Extent to which a tool is capable of producing the same result when used repeatedly in the same circumstances
+G04.2_2415325177_3	tool	Program or feature of a program that helps you do particular things on a computer
+G04.3_2040043577_1	association rule	"""if-then"" statements, that help to show the probability of relationships between data items, within large data sets in various types of databases"
+G04.3_2040043577_1	mine	To use special software to look at large amounts of computer data in order to find out useful information:
+G04.3_2040043577_1	symptom	Phenomenon of various kind and morbid nature or departure from the normal in structure, function, or sensation, experienced by the patient and indicative of disease.
+G04.3_2040043577_1	syndrome	Aggregate of symptoms and signs associated with any morbid process, together constituting the picture of the disease.
+G04.3_2040043577_1	traditional Chinese medicine	Holistic system of health and healing, ancient and still very vital, based on the notion of harmony and balance, and employing the ideas of moderation and prevention.
+G04.3_2040043577_2	influenza	Viral infection of humans that is acute and contagious, characterized by inflammation of the respiratory tract and by fever, chills, muscular pain, and prostration
+G04.3_2941964798_2	genetic variation	Difference in DNA among individuals or the differences between populations among the same species
+G04.3_2941964798_3	bacteria	Microscopic unicellular organisms that commonly reproduce by cell division (fission) and contained within a cell wall.
+G05.1_2117924928_1	CRISPR/Cas9 system	Genetic manipulation tool
+G05.1_2117924928_1	gene regulation	Control of protein synthesis by means of activation or inhibition of that protein synthesis.
+G05.1_2117924928_1	genetic sequence	String formed from a four-letter alphabet {Adenine (A), Thymine (T), Guanine (G), Cytosine (C)} of biological macromolecules referred to together as the DNA bases
+G05.1_2117924928_1	genome editing	Type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism
+G05.1_2117924928_1	genome engineering	Type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism
+G05.1_2117924928_2	sgRNA	Short sequence of RNA that functions as a guide for the Cas9-endonuclease or other Cas-proteins that cut the double-stranded DNA and thereby can be used for gene editing
+G05.1_2117924928_2	single guide RNA	Short sequence of RNA that functions as a guide for the Cas9-endonuclease or other Cas-proteins that cut the double-stranded DNA and thereby can be used for gene editing
+G05.1_2584932255_2	health	State of the organism when it functions optimally without evidence of disease or abnormality.
+G05.1_2584932255_5	IVF	Process in which (usually multiple) oocytes are placed in a medium to which sperm are added for fertilization.
+G05.1_2584932255_5	reproduce	To generate offspring by sexual or asexual means.
+G05.1_2584932255_6	gendered	Having or making gender-based distinctions
+G05.1_2757079914_1	gene editing	Use of biotechnological techniques to make changes to specific DNA sequences in the genome of a living organism
+G05.1_2757079914_2	off-target effect	Effect that can be harmful that occurs when a drug binds to targets (proteins or other molecules in the body) other than those for which the drug was meant to bind.
+G05.1_2757079914_3	Anti-CRISPR proteins	Group of inhibitory proteins, produced by bacteriophages to combat the bacterial CRISPR-Cas system.
+G05.1_2757079914_3	CRISPR-Cas system	Adaptive immune system of bacteria and archaea, which protects the bacteria from invaders, including bacteriophages or phages and mobile genetic elements (MGEs)
+G05.1_2757079914_3	gene therapy	Insertion of usually genetically altered genes into cells especially to replace defective genes in the treatment of genetic disorders or to provide a specialized disease-fighting function (as the destruction of tumor cells)
+G05.1_2757079914_3	inhibit	To decrease, limit, or block the action or function of something in the body, as an enzyme or organ.
+G05.1_2757079914_3	molecules	Smallest unit of a substance that can exist alone and retain its core chemical and physical characteristics.
+G05.1_2757079914_4	bacteria	Microscopic unicellular organisms that commonly reproduce by cell division (fission) and contained within a cell wall.
+G05.1_2757079914_4	co-evolution	Process whereby genes or gene fragments are changing together and not diverging.
+G05.1_2757079914_4	protein	Any of numerous naturally occurring extremely complex substances (as an enzyme or antibody) that consist of amino acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (as phosphorus or iron), that are essential constituents of all living cells, that are synthesized from raw materials by plants but assimilated as separate amino acids by animals, that are both acidic and basic and usually colloidal in nature although many have been crystallized, and that are hydrolyzable by acids, alkalies, proteolytic enzymes, and putrefactive bacteria to polypeptides, to simpler peptides, and ultimately to alpha-amino acids
+G05.1_2757079914_5	anti-CRISPRs	Small proteins that confer to phages an efficient and powerful means to nullify the CRISPR-Cas immune system
+G05.2_2796443924_1	genome editing	Type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism
+G06.2_2805209921_1	data	Information that can be interpreted and used by computers
+G06.2_2805209921_1	training	Process of creating or improving a computer representation of a system or process by supplying it with data
+G06.2_2805209921_2	classification	Task in machine learning that involves assigning a category or label to a given input data point based on its characteristics
+G06.2_2805209921_2	dataset	Collection of related sets of information that is composed of separate elements but can be manipulated as a unit by a computer.
+G06.2_2805209921_2	self-driving car	Vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to travel between destinations without a human operator.
+G06.2_2805209921_3	2D image	Image that is flat and has only two dimensions: width and height
+G06.2_2805209921_3	CNN	Type of neural network architecture that takes input images and extracts relevant features to efficiently identify and classify images
+G06.2_2805209921_3	Convolutional Neural Network	Type of neural network architecture that takes input images and extracts relevant features to efficiently identify and classify images
+G06.2_2805209921_3	joint	Parts of a robot that are moveable that cause relative motion between adjacent links
+G06.2_2805209921_4	robot arm	Type of robot consisting of parts linked together in the same way as those of a human arm, mounted on a stand
+G06.2_2805209921_5	transfer learning technique	Technique where knowledge gained from training a model on one task or domain is utilized to improve the performance of the model on a different task or domain
+G06.2_2805209921_6	training dataset	Input dataset used to train a machine learning model
+G06.2_2805209921_6	transfer learning	Technique where knowledge gained from training a model on one task or domain is utilized to improve the performance of the model on a different task or domain
+G06.2_2810968146_1	simulated environment	World that is simulated and three-dimensional
+G06.2_2810968146_1	train	To guide or teach (to do something), as by subjecting to various exercises or experiences
+G06.2_2810968146_2	braking	Act or process of slowing or stopping a vehicle, wheel, shaft, etc, or for keeping it stationary, especially by means of friction
+G06.2_2810968146_2	image	Picture of someone or something
+G06.2_2810968146_2	model	Program that runs on a computer that creates a model, or simulation, of a real-world feature, phenomenon or event
+G06.2_2810968146_2	steering	Mechanical parts of a car or other vehicle which make it possible to steer
+G06.2_2810968146_2	throttle	Device, lever, or pedal of a motor vehicle or aircraft that controls the quantity of fuel entering the engine and is used to control the vehicle's speed
+G06.2_2810968146_3	car	Road vehicle with an engine, four wheels, and seats for a small number of people
+G06.2_2810968146_3	distance	Amount of space between two places
+G06.2_2810968146_3	network	System that connects two or more computing devices for transmitting and sharing information
+G06.2_2810968146_3	outline	Line or lines showing the main shape of something
+G06.2_2810968146_3	track	Path or rough road that is made of soil rather than having a surface covered with stone or other material
+G06.2_2888477402_1	fan	Device to provide a flow of air, either an object that you wave in front of you or a device with blades that are turned by a motor:
+G06.2_2888477402_1	humanoid robot	Robot resembling the human body in shape
+G06.2_2888477402_1	internal noise	Noise caused by electrical interference generated within a device or circuit
+G06.2_2888477402_1	mechanical component	Part or piece of machine without circuit, digital or programmable things that is visible and that subject to forces to run a machine
+G06.2_2888477402_1	motor	Device that changes electricity or fuel into movement and makes a machine work
+G06.2_2888477402_1	robot	Mechanical device that works automatically or by computer control
+G06.2_2888477402_2	speech recognition system	Natural language system that implements a speech-to-text algorithm to solve a speech-to-text task
+G06.2_2888477402_3	automatic speech recognition	Capability which enables a program to process human speech into a written format
+G06.2_2888477402_3	deep neural network (DNN) based automatic speech recognition (ASR) system	NA
+G06.2_2888477402_4	acoustic feature	Property, of any kind and of an acoustic nature, of a speech sound that may be recorded and analyzed, as its fundamental frequency or formant structure
+G06.2_2888477402_6	algorithm	Series of mathematical steps, especially in a computer program, which will give you the answer to a particular kind of problem or question.
+G06.2_2954032282_1	self-driving car	Vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to travel between destinations without a human operator.
+G06.2_2954032282_4	driving situation	Driving manoeuvre
+G06.2_2954032282_5	tool	Program or feature of a program that helps you do particular things on a computer
+G06.2_2954032282_6	artificial intelligence-based self-driving car software	NA
+G06.2_2954032282_6	road	Way made for traveling between places, esp. distant places, by automobile, horseback, etc.; highway
+G06.2_2968176166_1	self-driving vehicles	Cars or trucks in which human drivers are never required to take control to safely operate the vehicle
+G06.2_2968176166_1	transportation system	Facility consisting of the means and equipment necessary for the movement of passengers or goods
+G06.2_2968176166_2	highfidelity simulators	Manikins that are computerized and full-body that produce the most realistic patient interaction experiences
+G06.2_2968176166_2	vehicle	Means of carrying or transporting something
+G06.2_2968176166_3	self-driving software	Technique to obtain information about software systems quality
+G06.2_2968176166_5	Bayesian optimization	Sequential design strategy for global optimization of black-box functions that does not assume any functional forms
+G06.2_2968176166_5	collision	Accident that happens when two vehicles hit each other with force
+G06.2_2968176166_6	training set	Input dataset used to train a machine learning model
+G06.2_602340265_1	digital revolution	Advancement of technology from analog electronic and mechanical devices to the digital technology available today
+G06.2_602340265_1	economy	System of trade and industry by which the wealth of a country or region is made and used
+G06.2_602340265_1	societal institution	Fabrication by human culture to preserve an idea or tradition
+G06.2_602340265_2	society	Body of human beings generally, associated or viewed as members of a community
+G06.2_602340265_3	automation	Use of methods for controlling industrial processes automatically, esp by electronically controlled systems, often reducing manpower
+G06.2_602340265_3	production process	Method of using economic input or resources, like labor, capital equipment or land, to provide goods and services to consumers
+G06.2_602340265_3	self-driving vehicle	Car or truck in which human drivers are never required to take control to safely operate the vehicle
+G06.2_602340265_4	coercion	Act or process of persuading someone forcefully to do something that they do not want to do
+G06.2_602340265_4	nudging	Form of a subtle nature of using design, information and interaction elements to guide user behavior in digital environments, without restricting the individual's freedom of choice
+G06.2_602340265_4	personalized ad	Advertisements that are tailored to one's interests, demographics and preferences
+G06.2_602340265_5	ICT	Set of IT devices and software working together in order to ensure the processing and storage, as well as sending and receiving, of data via telecommunications networks using the end device
+G06.2_602340265_5	information and communication system	Set of IT devices and software working together in order to ensure the processing and storage, as well as sending and receiving, of data via telecommunications networks using the end device
+G06.2_602340265_6	autonomous decision-making	Coming to a conclusion without the influence or direction of external factors such as pressure from others
+G06.2_602340265_6	democracy	System of government in which state power is vested in the people or the general population of a state
+G06.2_602340265_6	human dignity	Recognition that human beings possess a special value intrinsic to their humanity and as such are worthy of respect simply because they are human beings
+G06.2_835365303_1	banking	Business of a bank or a banker
+G06.2_835365303_1	trading system	Set of rules that formulate buy and sell signals without any ambiguity or any subjective elements
+G06.2_855132903_1	autonomous mobility	Service consisting of a fleet of autonomous vehicles used for one-way passenger mobility. An AMoD fleet operates in a specific and limited environment, such as a city or a rural area
+G06.2_855132903_1	urban environment	Surroundings of an area with high population density of humans and infrastructure such as houses, commercial buildings, roads, bridges, railways, green places, etc., all of which are developed in the form of metropolises, cities, towns, municipalities or suburbs through urbanization process
+G06.2_855132903_3	case study	Research design of an in-depth nature that primarily uses a qualitative methodology but sometimes​​ includes quantitative methodology
+G06.2_855132903_3	rebalancing algorithm	Algorithm that splits the data on every node into multiple batches prior to sending it to other nodes
+G06.2_855132903_5	congestion	Situation in which there is too much traffic and movement is difficult
+G06.2_855132903_6	autonomously driving vehicle	Vehicle capable of sensing its environment and operating without human involvement
+G06.2_855132903_6	system-wide coordination	Risk-based system where the Agency calculates target number of inspections on certain operators meeting a pre- defined traffic threshold criterion
+G06.2_89451762_1	humanoid robot	Robot resembling the human body in shape
+G06.2_89451762_1	imitation	Ability to recognize and reproduce others' actions
+G06.2_89451762_1	learning from demonstration	Paradigm in which robots acquire new skills by learning to imitate an expert
+G06.2_89451762_1	literature	Body of writings on a particular subject
+G06.2_89451762_1	model based technique	Technique in which a model of the software system is used to generate test cases
+G06.2_89451762_1	teleoperation	Act of operating a robotic device from a distance, often times over a wireless network from a centralize location
+G06.2_89451762_3	robot	Mechanical device that works automatically or by computer control
+G07.1_2100028027_1	disinformation	Information that is deliberately false leaked by a government, as to confuse another nation's intelligence operations
+G07.1_2100028027_1	misinformation	Wrong information which is given to someone, often in a deliberate attempt to make them believe something which is not true.
+G07.1_2100028027_3	empirical research	Research based on observed and measured phenomena which derives knowledge from actual experience rather than from theory or belief
+G07.1_2111507945_1	misinformation	Wrong information which is given to someone, often in a deliberate attempt to make them believe something which is not true.
+G07.1_2111507945_2	public interest	"Welfare or well-being of the general public"" and society"
+G07.1_2111507945_3	collective intelligence	Intelligence that is shared or group intelligence (GI) that emerges from the collaboration, collective efforts, and competition of many individuals and appears in consensus decision making
+G07.1_2111507945_3	machine intelligence	Intelligence of machines or software, as opposed to the intelligence of living beings, primarily of humans.
+G07.1_2111507945_4	index	To list in an index
+G07.1_2111507945_4	user	Person who uses a product, machine, or service
+G07.1_2111507945_5	information	Knowledge of specific and timely events or situations; news
+G07.1_2111507945_8	microblog	Blog in the form of a short message for anyone to read, sent especially from a mobile phone
+G07.1_2111507945_8	real world dataset	Set of observational data, as opposed to data gathered in an experimental setting such as a randomized controlled trial (RCT).
+G07.1_2124690797_1	misinformation	Wrong information which is given to someone, often in a deliberate attempt to make them believe something which is not true.
+G07.1_2124690797_1	research community	Community of researchers that work for, and provide research to, academia and not for profit organisations
+G07.1_2124690797_2	theoretical model	Framework that researchers create to structure a study process and plan how to approach a specific research inquiry
+G07.1_2124690797_3	conceptualize	To form an idea or principle in the mind
+G07.1_2124690797_3	interoperability	Ability of a system or component to function effectively with other systems or components
+G07.1_2124690797_4	representation	Act or an instance of representing or the state of being represented
+G07.1_2124690797_6	digital library	Database that is online, constituted of digital objects that can include text, still images, audio, video, digital documents, or other digital media formats or a library accessible through the internet
+G07.1_2803622358_1	information	Knowledge of specific and timely events or situations; news
+G07.1_2803622358_1	WWW	Computer system which links documents and pictures into a database that is stored in computers in many different parts of the world and that people everywhere can use.
+G07.1_2803622358_2	narrative	Way of presenting or understanding a situation or series of events that reflects and promotes a particular point of view or set of values
+G07.1_2803622358_2	system of belief	Structured set of principles or tenets held to be true by individuals or larger groups, encompassing aspects such as morality, life purpose, or empirical reality.
+G07.1_2803622358_3	user	Person who uses a product, machine, or service
+G07.1_2803622358_4	misinformation	Wrong information which is given to someone, often in a deliberate attempt to make them believe something which is not true.
+G07.1_2803622358_4	news	Information that is published in newspapers and broadcast on radio and television about recent events in the country or world or in a particular area of activity.
+G07.1_2803622358_4	social media	Websites and computer programs that make communication possible with the use of computers or mobile phones.
+G07.1_2803622358_7	interact	React to something on the internet, for example by watching a video, posting a comment, or liking it
+G07.1_2803622367_2	Bounded Confidence Model	Model of consensus- like opinion dynamics in which the agents interact with each other only when their opinions are close enough
+G07.1_2803622367_2	engagement	Fact of being involved with something
+G07.1_2803622367_2	news	Information that is published in newspapers and broadcast on radio and television about recent events in the country or world or in a particular area of activity.
+G07.1_2803622367_2	simulate	Produce a situation or event that seems real but is not real, especially in order to help people learn how to deal with such situations or events
+G07.1_2803622367_2	user	Person who uses a product, machine, or service
+G07.1_2803622367_3	polarization	Act of dividing something, especially something that contains different people or opinions, into two completely opposing groups
+G07.1_2888100547_1	online social media	Technologies that are interactive that facilitate the creation, sharing and aggregation of content, ideas, interests, and other forms of expression through virtual communities and networks
+G07.1_2888100547_1	user	Person who uses a product, machine, or service
+G07.1_2888100547_10	policy implication	Effect a particular policy has on the various stakeholders
+G07.1_2888100547_2	confirmation bias	Tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values
+G07.1_2888100547_2	misinformation	Wrong information which is given to someone, often in a deliberate attempt to make them believe something which is not true.
+G07.1_2888100547_2	narrative	Way of presenting or understanding a situation or series of events that reflects and promotes a particular point of view or set of values
+G07.1_2888100547_4	information	Knowledge of specific and timely events or situations; news
+G07.1_2888100547_4	network	Group or association of persons usually informally interconnected
+G07.1_2888100547_4	news	Information that is published in newspapers and broadcast on radio and television about recent events in the country or world or in a particular area of activity.
+G07.1_2888100547_6	bias	Showing an unreasonable like or dislike for someone or something based on personal opinions
+G07.1_2888100547_7	global warming	Increase in world temperatures that is gradual, caused by gases such as carbon dioxide that are collecting in the air around the earth and stopping heat escaping into space
+G07.1_2888100547_7	Internet access	Facility or service that provides connectivity for a computer, a computer network, or other network device to the Internet, and for individuals or organizations to access or use applications such as email and the World Wide Web
+G07.1_2888100547_8	information diversity	Diversity stemming from differences in individuals' knowledge and experience related background
+G07.1_2888100547_8	social network	Website or computer program that allows people to communicate and share information on the internet using a computer or mobile phone
+G07.1_2888100547_9	information flow	Movement of information between people and systems
+G07.1_2894304194_1	AI	Type of computer technology which is concerned with making machines work in an intelligent way, similar to the way that the human mind works.
+G07.1_2894304194_1	artificial intelligence	Type of computer technology which is concerned with making machines work in an intelligent way, similar to the way that the human mind works.
+G07.1_2894304194_1	human	Human being, person
+G07.1_2894304194_1	superintelligence	Agent that is hypothetical which possesses intelligence far surpassing that of the brightest and most gifted human minds.
+G07.1_2894304194_3	misinformation	Wrong information which is given to someone, often in a deliberate attempt to make them believe something which is not true.
+G07.1_2894304194_5	strategy	General plan or set of plans intended to achieve something, especially over a long period
+G07.1_2894304194_6	spread	Act or process of spreading; diffusion, dispersal, expansion, etc
+G07.1_2950010073_3	cascade	Process of performing multiple operations/tasks in a single line of programming code
+G07.1_2950010073_4	formal model	Model of any kind with well-formed syntax and semantics, such that it is amenable to systematic (usually automatable) processing and analysis subject to logical rules
+G07.1_2950010073_6	social network	Website or computer program that allows people to communicate and share information on the internet using a computer or mobile phone:
+G07.1_2950010073_7	algorithm	Series of mathematical steps, especially in a computer program, which will give you the answer to a particular kind of problem or question.
+G07.2_2749521565_1	conspiracy	Activity of secretly planning with other people to do something bad or illegal
+G07.2_2749521565_1	conspiracy theory	Belief that an event or situation is the result of a secret plan made by powerful people
+G07.2_2749521565_1	evidential approach	Multi-criteria decision analysis (MCDA) approach that is generic and evidence-based, used for dealing with problems having both quantitative and qualitative criteria under various uncertainties including ignorance and randomness
+G07.2_2749521565_1	philosophy	Study or creation of theories about basic things such as the nature of existence, knowledge, and thought, or about how people should live
+G07.2_2749521565_2	evidence	Factual information used as proof to support a claim or belief
+G07.2_2749521565_3	prima facie case	Case in which the evidence produced is sufficient to enable a decision or verdict to be made unless the evidence is rebutted
+G07.2_2749521565_3	scepticism	Questioning attitude or doubt toward knowledge claims that are seen as mere belief or dogma
+G07.2_2899514909_1	conspiracy theory	Belief that an event or situation is the result of a secret plan made by powerful people
+G07.2_2899514909_1	political dissent	Dissatisfaction with or opposition to the policies of a governing body
+G07.2_2899514909_1	report	Official document which a group of people issue after investigating a situation or event.
+G07.2_2899514909_2	propagation	Transmission or dissemination
+G07.2_2899514909_3	online community	Community whose members interact with each other primarily via the Internet
+G07.2_2899514909_4	online	Bought, used, etc. using the internet
+G07.2_2899514909_4	user	Person who uses a product, machine, or service
+G07.2_2899514909_6	governmental agency	Organization in the machinery of government that is permanent or semi-permanent, responsible for the oversight and administration of specific functions, such as an administration
+G07.2_2899514909_6	information	Knowledge of specific and timely events or situations; news
+G07.2_2899514909_6	narrative-motif	Unit that is thematic, in a narrative or literary work, used to develop a theme, mood or plot
+G07.2_2899514909_9	social media	Websites and computer programs that make communication possible with the use of computers or mobile phones.
+G08.1_2806518684_1	Bitcoin	Cryptocurrency, that is a virtual currency designed to act as money and a form of payment outside the control of any one person, group, or entity, thus removing the need for third-party involvement in financial transactions
+G08.1_2806518684_1	blockchain technology	Database mechanism that is advanced, that allows transparent information sharing within a business network
+G08.1_2806518684_1	cryptocurrency	Form of currency that only exists digitally, that usually has no central issuing or regulating authority but instead uses a decentralized system to record transactions and manage the issuance of new units, and that relies on cryptography to prevent counterfeiting and fraudulent transactions
+G08.1_2806518684_3	blockchain	System in which a record of transactions, especially those made in a cryptocurrency, is maintained across computers that are linked in a peer-to-peer network.
+G08.1_2806518684_3	data exchange	Process of taking data structured under a source schema and transforming it into a target schema, so that the target data is an accurate representation of the source data
+G08.1_2806518684_3	transaction	Act, process, or instance of transacting
+G08.1_2806518684_5	theory of planned behavior	Psychological theory that links beliefs to behavior. The theory maintains that three core components, namely, attitude, subjective norms, and perceived behavioral control, together shape an individual's behavioral intentions
+G08.1_2806518684_5	TPB	Psychological theory that links beliefs to behavior. The theory maintains that three core components, namely, attitude, subjective norms, and perceived behavioral control, together shape an individual's behavioral intentions
+G08.1_2889349357_1	memory-bound cryptocurrencies	Currencies that build on computational puzzles that are memory intensive and thereby reduce the advantage of specific hardware over commodity processors
+G08.1_2889349357_2	computing resources	Physical or virtual component of limited availability within a computer system
+G08.1_2889349357_2	cryptocurrency	Form of currency that only exists digitally, that usually has no central issuing or regulating authority but instead uses a decentralized system to record transactions and manage the issuance of new units, and that relies on cryptography to prevent counterfeiting and fraudulent transactions
+G08.1_2889349357_2	cryptojacking site	Site that exploits its visitors’ hardware resources to secretly mine crypto-currencies
+G08.1_2889349357_2	mine	To create or obtain more units of (a cryptocurrency) through a cryptographic process
+G08.1_2889349357_2	parasitic computing	Technique where a program in normal authorized interactions with another program manages to get the other program to perform computations of a complex nature without exploiting vulnerabilities to execute attacker-supplied code on the latter.
+G08.1_2889349357_3	mining script	Virus that uses a user's device to issue virtual currency without permission
+G08.1_2889349357_4	host	To serve as or provide a host or server for (a network, website, etc.)
+G08.1_2889349357_5	code	System or language for expressing information and instructions in a form which can be understood by a computer
+G08.1_2889740224_1	blockchains	System in which a record of transactions, especially those made in a cryptocurrency, is maintained across computers that are linked in a peer-to-peer network.
+G08.1_2889740224_1	smart contract	Computer program or a transaction protocol that is intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement
+G08.1_2889740224_2	business	Practice of making one's living or making money by producing or buying and selling products
+G08.1_2889740224_2	bytecode	Computer object code that an interpreter converts into binary machine code so it can be read by a computer's hardware processor
+G08.1_2889740224_2	commerce	Activity embracing all forms of the purchase and sale of goods and services
+G08.1_2889740224_2	governance	Process of making and enforcing decisions within an organization or society. It encompasses decision-making, rule-setting, and enforcement mechanisms to guide the functioning of an organization or society
+G08.1_2889740224_2	high-level language	Programming language, such as C, FORTRAN, or Pascal, that allows a programmer to develop programmes that are independent of the type of machine they are running on
+G08.1_2889740224_2	law	System of rules of a particular country, group, or area of activity
+G08.1_2889740224_2	low-level bytecode	Code that results from the compilation of source code that might be present in a high-level language
+G08.1_2889740224_3	Turing-complete virtual machine	Machine that, given enough time and memory along with the necessary instructions, can solve any computational problem, no matter how complex
+G08.1_2889740224_4	attack	Malicious activity of any kind that attempts to collect, disrupt, deny, degrade, or destroy information system resources or the information itself
+G08.1_2889740224_4	buggy compiler	Piece of software that implement delicate algorithms which insert bugs in the programs that it compiles
+G08.1_2889740224_4	program	Sequence or set of instructions in a programming language for a computer to execute
+G08.1_2889740224_4	programming language	Set of instructions written by a programmer to deliver instructions to the computer to perform and accomplish a task
+G08.1_2889740224_4	programming methodology	Way of analyzing a particular complex problem by planning the software development and controlling the development process
+G08.1_2889740224_4	toolchain	Set of programming tools that is used to perform a complex software development task or to create a software product, which is typically another computer program or a set of related programs
+G08.1_2889740224_5	cryptocurrency	Form of currency that only exists digitally, that usually has no central issuing or regulating authority but instead uses a decentralized system to record transactions and manage the issuance of new units, and that relies on cryptography to prevent counterfeiting and fraudulent transactions
+G08.1_2889740224_6	developer	Person that builds computer applications by writing, debugging, and executing the source of code in a computer application
+G08.1_2889740224_6	security framework	Series of documented processes that are a blueprint for managing risk and reducing vulnerabilities and define policies and procedures around the implementation and ongoing management of information security controls.
+G08.1_2889740224_6	security vulnerability	Flaw or weakness in a computer system, its security procedures, internal controls, or design and implementation, which could be exploited to violate the system security policy
+G08.1_2889740224_7	Ethereum smart contract	Computer programs that are self-executing that run on the Ethereum blockchain and enforce the terms of an agreement automatically
+G08.1_2889740224_8	analysis pipeline	Process of a dynamic nature that allows the data analyst to rebuild the model in a semi-automatic way such that quality measures may be quickly accessible and interpretable in the context of research
+G08.1_2889740224_8	Ethereum Virtual Machine	Computation engine for Ethereum that manages the state of the blockchain and enables smart contract functionality
+G08.1_2889740224_8	EVM	Computation engine for Ethereum that manages the state of the blockchain and enables smart contract functionality
+G08.1_2889740224_8	low-level Ethereum Virtual Machine bytecode	Code that is executed by the EVM when a contract is run, specifically the machine-readable version of a smart contract that is produced when the contract's source code, written in a high-level programming language like Solidity, is compiled
+G08.1_2889740224_9	framework	Software that is developed and used by developers to develop other software's.
+G08.1_2889740224_9	security analysis	Method of analyzing usability or security measures of a system/method either qualitatively or quantitatively
+G08.1_2889740224_9	user	Person who uses a product, machine, or service
+G08.1_2889740235_1	contract	Method of using Bitcoin to form agreements with people via the blockchain
+G08.1_2889740235_1	runtime	Period of time when a program is running
+G08.1_2895247503_1	bitcoin	Cryptocurrency, that is a virtual currency designed to act as money and a form of payment outside the control of any one person, group, or entity, thus removing the need for third-party involvement in financial transactions
+G08.1_2898599358_1	decentralised P2P network	Network architecture that is decentralized in which participants, called peers, interact directly with each other without needing a central authority or server
+G08.1_2898599358_1	denial-of-service attack	Cyberattack on devices, information systems, or other network resources that prevents legitimate users from accessing expected services and resources
+G08.1_2898599358_1	node	Point of interconnection on a computer network
+G08.1_2898599358_1	spam	Messages that are unsolicited and usually commercial (such as emails, text messages, or Internet postings) sent to a large number of recipients or posted in a large number of places.
+G08.1_2898599358_3	crypto asset	Representation that is digital of value or a right that can be transferred or stored electronically using distributed ledger technology or similar technology
+G08.1_2898599358_3	decentralised exchange	Peer-to-peer (P2P) marketplace that connects cryptocurrency buyers and sellers
+G08.1_3004077497_1	mobile payment	Money payment made for a product or service through a portable electronic device such as a tablet or cell phone
+G08.1_3004077497_1	payment method	Way in which an amount of money is paid, for example by cash, credit card, etc
+G08.1_3004077497_1	smart phone	Type of cellphone that can perform many of the operations that a computer does, such as accessing the internet
+G08.1_3004077497_1	smart watch	Computer device that is portable and wearable in a form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides management and telemetry, such as long-term biomonitoring
+G08.1_3004077497_2	cryptocurrency	Form of currency that only exists digitally, that usually has no central issuing or regulating authority but instead uses a decentralized system to record transactions and manage the issuance of new units, and that relies on cryptography to prevent counterfeiting and fraudulent transactions
+G08.1_3004077497_2	currency	Money that is used in a particular country at a particular time
+G08.1_3004077497_2	USD	Official currency of the United States and several other countries
+G08.1_3004077497_3	mobile device	Computing device that is portable that has a small form factor such that it can easily be carried by a single individual; is designed to operate without a physical connection (e.g., wirelessly transmit or receive information); possesses local, non-removable/removable data storage; and includes a self-contained power source
+G08.1_3004077497_4	developing country	Country that is nonindustrialized and poor that is seeking to develop its resources by industrialization
+G08.1_3004077497_7	AML	Set of policies and practices to ensure that financial institutions and other regulated entities prevent, detect, and report financial crime and especially money laundering activities
+G08.1_3004077497_7	anti-money laundering	Set of policies and practices to ensure that financial institutions and other regulated entities prevent, detect, and report financial crime and especially money laundering activities
+G08.1_3004077497_7	know your customer	Guidelines and regulations in financial services require professionals to verify the identity, suitability, and risks involved with maintaining a business relationship with a customer
+G08.1_3004077497_7	KYC	Guidelines and regulations in financial services require professionals to verify the identity, suitability, and risks involved with maintaining a business relationship with a customer
+G09.1_2047319275_1	source code	Set of computer instructions that have been written in order to create a program or piece of software:
+G09.1_2047319275_1	web pages	Page of information on the internet about a particular subject, that forms (a part of) a website
+G09.1_2047319275_2	manipulation	Process of changing, moving, etc. information on a computer
+G09.1_2202800066_2	desktop	Type of computer that is able to fit on the top of a desk
+G09.1_2202800066_2	device	Machine, for example a phone or computer, that can be used to connect to the internet
+G09.1_2202800066_2	laptop	Computer that is small enough to be carried around easily and is flat when closed
+G09.1_2202800066_4	illegal activity	Range of illegal activities or those pursued for illegal purposes, violating laws in areas such as fraud, corruption, coercion, collusion, obstruction, money laundering, financing of terrorism, tax crimes or any other activity affecting the finances of the relevant organization
+G09.1_2202800066_5	cyber crime	Range of criminal activities that are carried out using digital devices and/or networks and involve the use of technology to commit fraud, identity theft, data breaches, computer viruses, scams, and expanded upon in other malicious acts
+G09.1_2202800066_5	mobile phone	Phone that is connected to the phone system by radio instead of by a wire, and can be used anywhere its signals can be received
+G09.1_2202800066_5	smart phone	Type of cellphone that can perform many of the operations that a computer does, such as accessing the internet
+G09.1_2202800066_7	agent based approach	Approach that emphasizes the importance of learning through organism-environment interaction, part of a recent trend in computational models of learning and development toward studying autonomous organisms that are embedded in virtual or real environments
+G09.1_2202800066_7	hike	Increase in the cost of something, especially a large or unwanted increase
+G09.1_2202800066_8	tool	Program or feature of a program that helps you do particular things on a computer
+G09.1_2885025643_1	image	Picture of someone or something
+G09.1_2885025643_1	image editing	Processes of altering images, whether they are digital photographs, traditional photo-chemical photographs, or illustrations
+G09.1_2885025643_1	image forensics	Analysis of an image to determine if it has been manipulated from the time of its recording
+G09.1_2885025643_2	forgery	White-collar crime that generally refers to the false making or material alteration of a legal instrument with the specific intent to defraud
+G09.1_2885025643_3	framework	Software that is developed and used by developers to develop other software's.
+G09.1_2885025643_6	deep learning-based method	Method of machine learning that involves using algorithms to learn from examples and data to make predictions, classify data, or identify patterns
+G09.1_2885025643_7	image patches	Region within an image that is small, rectangular, or square-shaped, acts as a local sample or representation of a specific area within the larger image
+G09.1_2885025643_7	siamese neural network	Artificial neural network that uses the same weights while working in tandem on two different input vectors to compute comparable output vectors
+G09.1_2885025643_8	feature	Representations that are abstract and complex that a deep learning model, particularly a neural network, automatically derives from raw data during the training process
+G09.1_2885025643_8	network	System containing any combination of computers, computer terminals, printers, audio or visual display devices, or telephones interconnected by telecommunication equipment or cables used to transmit or receive information
+G09.1_2885025643_9	experimental result	Something that is discovered as the result of a scientific experiment
+G09.1_567125047_1	Computer forensics	Field of technology that uses investigative techniques to identify and store evidence from a computer device
+G09.1_567125047_1	Machine time	Time required for an electronic computer to complete a certain set of computational operations
+G09.1_567125047_3	attacker	Person or process that attempts to access data, functions, or other restricted areas of the system without authorization, potentially with malicious intent
+G09.1_567125047_4	Cloud computing	Practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer
+G09.1_567125047_5	Guest virtual machine	Virtual machine that is installed, executed and hosted on the local physical machine, implemented on the local workstation or server and powered entirely by the machine hosting it
+G09.1_567125047_5	host	Hardware device of any kind that has the capability of permitting access to a network via a user interface, specialized software, network address, protocol stack, or any other means
+G09.1_567125047_6	Cloud	Collection of servers that is distributed which host software and infrastructure, and it is accessed over the Internet
+G09.1_567125047_6	guest	Software that is installed in a virtual machine
+G09.1_567125047_8	architecture	Overall design of a computing system and the logical and physical interrelationships between its components
+G09.1_567125047_8	resilience	Ability for an application to resist or recover from disruptions, including those related to infrastructure, dependent services, misconfigurations, and transient network issues
+G09.1_567125047_9	framework	Software that is developed and used by developers to develop other software
+G09.1_567125047_9	implement	Inclusion of a specific technical specification, software component or software standard
+G09.1_567125047_9	Simulator	Computer package that allows one to simulate a system contained in a specific class of systems with little or no programming
+G10.1_1593729956_1	humanoid	Creature that is not human, but looks or acts like a human being
+G10.1_1593729956_1	kinematic model	Description of a mathematical nature of the robot, its functional dimensions and DoF
+G10.1_1593729956_1	monocular camera	Type of camera that uses a single lens to capture images and videos
+G10.1_1593729956_2	camera extrinsic parameter	Parameter that defines the location and orientation of the camera with respect to the world frame
+G10.1_1593729956_2	camera intrinsic parameter	Parameter that allows a mapping between camera coordinates and pixel coordinates in the image frame
+G10.1_1593729956_2	parameter	Set of facts or a fixed limit that establishes or limits how something can or must happen or be done
+G10.1_1593729956_3	calibration process	Process of configuring an instrument to provide a result for a sample within an acceptable range
+G10.1_1593729956_3	configuration	Arrangement of the parts of something
+G10.1_1593729956_3	trade-off	Balancing of factors all of which are not attainable at the same time
+G10.1_1593729956_6	implementation	Act of starting to use a plan or system
+G10.1_1593729956_6	optimization	Fct of optimizing, making the best of anything
+G10.1_2093013061_1	humanoid robot	Robot resembling the human body in shape
+G10.1_2093013061_1	integrated navigation system	System in which the information from two or more navigation aids is combined in a symbiotic manner to provide an output that is superior to any one of the component aids.
+G10.1_2093013061_2	heightmap representation	Parametric surface with bijective mapping between the planar parametric space and the surface
+G10.1_2093013061_2	robot	Mechanical device that works automatically or by computer control
+G10.1_2093013061_2	system	Method of counting, measuring, or weighing things
+G10.1_2093013061_3	compute	To determine by using a computer or calculator
+G10.1_2093013061_3	model	System of postulates, data, and inferences presented as a mathematical description of an entity or state of affairs
+G10.1_2093013061_5	navigation	Science or art of guiding of a mobile robot through the environment
+G10.1_2562908749_1	robot navigation	Ability of a robot to determine its own position in its frame of reference and then to plan a path towards some goal location
+G10.1_2562908749_2	robot	Mechanical device that works automatically or by computer control
+G10.1_2562908749_2	sensor	Instrument which reacts to certain physical conditions or impressions such as heat or light, and which is used to provide information.
+G10.1_2562908749_3	path planning	Computational problem to find a sequence of valid configurations that moves the object from the source to destination
+G10.1_2562908749_4	experimental results	Outcome of an experiment or set of experiments, including observations and primary, processed, and analyzed data
+G10.1_2562908749_4	prediction	Statement about what you think will happen in the future:
+G10.1_2906808597_1	user	Person who uses a product, machine, or service
+G10.1_2906808597_2	field of view	Angular extent of the observable world that is seen at any given moment.
+G10.1_2906808597_2	perception	Recognition of things using your senses, especially the sense of sight.
+G10.1_2906808597_2	robot	Mechanical device that works automatically or by computer control
+G10.1_2906808597_3	compute	To determine by using a computer or calculator
+G10.1_2906808597_3	likelihood	Probability of a given sample being randomly drawn regarded as a function of the parameters of the population.
+G10.1_2906808597_3	Monte Carlo simulation	Model used to predict the probability of a variety of outcomes when the potential for random variables is present.
+G10.1_2968701259_1	mobile robot	Machine controlled by software that use sensors and other technology to identify its surroundings and move around its environment.
+G10.1_2968701259_1	perception	Recognition of things using senses, especially the sense of sight.
+G10.1_2968701259_2	humanoid	Creature that is nonhuman or being with characteristics (such as the ability to walk upright) resembling those of a human
+G10.1_2968701259_2	robot	Mechanical device that works automatically or by computer control
+G10.1_2968701259_2	wheeled robot	Robots that navigate around the ground using motorized wheels to propel themselves
+G10.1_2968701259_3	path	Course or direction in which something moves
+G10.1_2968701259_4	collision	Coming together of two or more things with such force that both or all are damaged or their progress is severely impeded
+G10.1_2968701259_5	framework	Software that is developed and used by developers to develop other software's.
+G10.1_2968701259_5	height map	Raster image used mainly as Discrete Global Grid in secondary elevation modeling
+G10.1_2968701259_6	information	Data or knowledge that is processed, stored, or transmitted by a computer system
+G10.1_2968701259_7	run time	Time during which a computer program is running
+G10.1_2968701259_7	simulation	Process of simulating something or the result of simulating it.
+G11.1_2794850674_3	gripper	End of arm tooling (EOAT) device that allows your robot to manipulate an object
+G11.1_2794850674_3	micro-array	Two-dimensional array on a solid substrate—usually a glass slide or silicon thin-film cell—that assays (tests) large amounts of biological material using high-throughput screening miniaturized, multiplexed and parallel processing and detection methods
+G11.1_2794850674_3	test tube	Piece of laboratory glassware consisting of a finger-like length of glass or clear plastic tubing, open at the top and closed at the bottom
+G11.1_2794850674_3	unmanned aerial vehicle	Aircraft without any human pilot, crew, or passengers on board, commonly known as a drone
+G11.1_2794850674_4	drone	Aircraft or vessel that is uncrewed, guided by remote control or onboard computers
+G11.1_2794850674_5	degree-of-freedom	Number of basic ways a rigid object can move through 3D space
+G11.1_2794850674_5	DOF	Number of basic ways a rigid object can move through 3D space
+G11.1_2892036907_1	Automation	Range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines
+G11.1_2892036907_1	Autonomous vehicle	Vehicle that can drive itself from a starting point to a predetermined destination in “autopilot” mode using various in-vehicle technologies and sensors
+G11.1_2892036907_1	Robotics	Science or technology of designing, building, and using robots
+G11.1_2892036907_10	computational efficiency	Properties of an algorithm or software which relate to the amount of computational resources used by the algorithm or software
+G11.1_2892036907_10	MAVNet	Deep neural network that is small and light-weight for real-time semantic segmentation on micro Aerial Vehicles (MAVs)
+G11.1_2892036907_11	Vision based navigation	Technique often employed in light aircraft, which operate at relatively low speeds and heights, when weather is good and visual contact can be maintained with the ground for most of the flight
+G11.1_2892036907_2	autonomy	Ability of a machine to execute a task, or tasks, without human input, using interactions of computer programming with the environment
+G11.1_2892036907_2	Unmanned aerial vehicle	Aircraft without any human pilot, crew, or passengers on board, commonly known as a drone
+G11.1_2892036907_3	Civil drone	Drones that are used for civil purposes such as delivering mail or inspecting an oil platform out at sea
+G11.1_2892036907_3	government	Offices, departments, and groups of people that control a country, state, city, or other political unit
+G11.1_2892036907_3	operation ceiling	Maximum altitude at which an aircraft can effectively perform its mission
+G11.1_2892036907_4	pilot	Person who is trained to fly an aircraft.
+G11.1_2892036907_5	classifier	Type of machine learning algorithm used to assign a class label to a data input
+G11.1_2892036907_5	Tomographic reconstruction	Type of multidimensional inverse problem where the challenge is to yield an estimate of a specific system from a finite number of projections
+G11.1_2892036907_6	imitation learning	Form of Machine Learning in which the aim is to train the agent by demonstrating it the desired behaviour
+G11.1_2892036907_6	Imitation learning	Form of Machine Learning in which the aim is to train the agent by demonstrating it the desired behaviour
+G11.1_2892036907_6	model	Program that runs on a computer that creates a model, or simulation, of a real-world feature, phenomenon or event
+G11.1_2892036907_6	system	Computer system that is responsible for managing the data and the programs that train and operate the machine learning models that power an AI-enabled application or service
+G11.1_2892036907_7	data	Information that has been translated into a form that is efficient for movement or processing
+G11.1_2892036907_7	Drone	Aircraft or vessel that is uncrewed, guided by remote control or onboard computers
+G11.1_2892036907_7	train	To guide or teach (to do something), as by subjecting to various exercises or experiences
+G11.1_2892036907_7	urban street	Street or highway that is public, which is characterized as having a paved surface, curbs, a piped storm sewer system, sidewalk, street trees and street lights
+G11.1_2892036907_8	data collection process	Process of collecting and analyzing information on relevant variables in a predetermined, methodical way so that one can respond to specific research questions, test hypotheses, and assess results
+G11.1_2892036907_8	pedestrian	Person who is walking, especially in a town or city, rather than travelling in a vehicle.
+G13.1_2570453702_1	digital marketing capability	Ability of a B2B firm to perform a coordinated set of digital-related tasks (operational or dynamic), utilizing digital resources, for achieving a competitive advantage
+G13.1_2570453702_2	company	Business organization that makes money by selling goods or services.
+G13.1_2570453702_2	organisational capability	Skills, knowledge, activities, information, processes, staffing, systems and technology that a specific organisation depends on
+G13.1_2570453702_3	e-marketing	Practice of marketing by means of the internet
+G13.1_2570453702_3	marketing	Organization of the sale of a product, for example, deciding on its price, the areas it should be supplied to, and how it should be advertised.
+G13.1_3004169763_1	Internet	Computer network which allows computer users to connect with computers all over the world, and which carries email.
+G13.1_3004169763_1	mobile technology	Technology used for cellular communication
+G13.1_3004169763_2	business activity	Activities performed by a business entity to maintain the active state and generate profit
+G13.1_3004169763_2	digital world	Ralm that is virtual and interconnected created by the widespread use of digital technologies, such as computers, smartphones, and the internet
+G13.1_3004169763_3	advertising	Act or practice of calling public attention to one's product, service, need, etc., esp. by paid announcements in newspapers and magazines, on the internet, television, or radio, on billboards, etc
+G13.1_3004169763_3	marketing	Organization of the sale of a product, for example, deciding on its price, the areas it should be supplied to, and how it should be advertised.
+G13.1_3004169763_4	advertise	To tell about or praise (a product, service, etc.) publicly, as through newspapers, handbills, radio, television, etc., so as to make people want to buy it
+G13.1_3004169763_4	brand	Name, term, design, symbol or any other feature that distinguishes one seller's good or service from those of other sellers
+G13.1_3004169763_4	business entity	Organization created by an individual or individuals to conduct business, engage in a trade or partake in similar activities
+G13.1_3004169763_4	digital marketing tool	Online applications that allow a marketing team to execute an effective strategy to sell goods or services
+G13.1_3004169763_4	Omni-channel retailing	Approach to commerce, providing shoppers a unified experience across all channels or touchpoints
+G13.1_3004169763_4	product	Object, or system, or service made available for consumer use as of the consumer demand; it is anything that can be offered to a market to satisfy the desire or need of a customer.
+G13.1_3004169763_4	promote	To encourage the sale of (a product) by advertising or securing financial support
+G13.1_3004169763_4	social media platform	Platform of all kind that is internet-based, including those which may be accessed through an app, through which users are able to create and/or share content that is accessible to members of the public
+G13.1_3004169763_6	industry practitioner	People who are experienced and knowledgeable about a certain industry
+G13.1_3004169763_7	internal business process	Business process performed within an organization without the involvement of any external partners
+G13.1_3004169763_7	marketing objective	Set of clearly defined, measurable goals established as part of a marketing plan
+G13.1_3004169763_7	streamline	To make (an organization or system) more efficient and effective by employing faster or simpler working methods.
+M1_1_1	Homeostasis	State of equilibrium (balance between opposing pressures) in the body with respect to various functions and to the chemical compositions of the fluids and tissues.
+M1_1_1	Physiological process	Way in which organ systems, organs, tissues, cells, and biomolecules work together to accomplish the complex goal of sustaining life
+M1_1_1	training	Exercise that is physical that you do regularly in order to keep fit or to prepare for an activity such as a race.
+M1_1_1	training	Exercise that is physical done regularly in order to keep fit or to prepare for an activity such as a race.
+M1_10_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_10_1	MPS	Process that is methabolic that describes the incorporation of amino acids into bound skeletal muscle proteins
+M1_12_1	continuous exercise	Exercise that is sustained, conducted at a constant rate (steady state) without rests, involving aerobic demand for a minimum of 20 minutes, eg running, swimming, rowing, cycling
+M1_15_1	active recovery	Exercising with gradually diminishing intensity immediately after a bout of vigorous exercise.
+M1_15_1	subject	Person or animal subjected to treatment, observation, or experiment.
+M1_17_1	muscle biopsy	Method of diagnosis of muscle disorders in which a small sample of muscle is removed for microscopic and sometimes electron microscopic examination
+M1_18_1	blood alcohol concentration	Concentration of alcohol in the blood, expressed as the weight of alcohol in a fixed volume of blood and used as a measure of the degree of intoxication in an individual.
+M1_18_1	drinking binge	Phase of chronic alcoholism which can be considered as an early stage, characterised by episodic ‘flirtation’ with the bottle by binges of drinking to the point of stupor, followed by periods of abstinence.
+M1_18_1	post-exercise recovery	Restoration of training capacity
+M1_19_1	volume	Measure of the capacity or quantity of a thing.
+M1_21_1	beverage	Drink of any type
+M1_21_1	subject	Person or animal subjected to treatment, observation, or experiment.
+M1_23_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_23_1	impair	To diminish in function, ability, or quality: to weaken or make worse
+M1_23_1	ingestion	Taking of food, drugs, liquids, or other substances into the body by mouth.
+M1_23_1	MPS	Process that is methabolic that describes the incorporation of amino acids into bound skeletal muscle proteins
+M1_23_1	myofibrillar protein synthesis	Process that is methabolic that describes the incorporation of amino acids into bound skeletal muscle proteins
+M1_23_1	recovery phase	Time period between the end of a bout of exercise and the subsequent return to a resting or recovered state
+M1_23_1	team sport	Type of sport where the fundamental nature of the game or sport necessitates the participation of multiple individuals working together as a team and it is inherently impossible or highly impractical to execute the sport as a single-player endeavour
+M1_24_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_24_1	athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M1_24_1	compliance	Act of conforming, acquiescing, or yielding
+M1_24_1	intoxication	The impaired condition caused by use of alcohol or a drug or other chemical substance
+M1_24_1	recovery practice	Approach that involves enabling and assisting the active participation of people in their own recovery journey
+M1_25_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_25_1	anabolic response	Net gain in protein balance
+M1_25_1	intake	Substances, or quantities thereof, taken in and used by the body; this refers to all routes by which fluids enter the body, including by mouth, rectum, irrigation tube, and parenteral administration.
+M1_25_1	protein	Any of numerous naturally occurring extremely complex substances (as an enzyme or antibody) that consist of amino acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (as phosphorus or iron), that are essential constituents of all living cells, that are synthesized from raw materials by plants but assimilated as separate amino acids by animals, that are both acidic and basic and usually colloidal in nature although many have been crystallized, and that are hydrolyzable by acids, alkalies, proteolytic enzymes, and putrefactive bacteria to polypeptides, to simpler peptides, and ultimately to alpha-amino acids
+M1_27_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_27_1	human skeletal muscle	Complex organ made up of multinucleated long and cylindrical cells called myofibres that are, in turn, composed of myofibrils
+M1_27_1	impair	To diminish in function, ability, or quality: to weaken or make worse
+M1_27_1	response	Activity or inhibition of previous activity of an organism or any of its parts resulting from stimulation.
+M1_28_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_28_1	athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M1_28_1	binge drinking	Act of drinking alcoholic beverages with an intention of becoming intoxicated by heavy consumption of alcohol over a short period of time
+M1_4_1	anabolic response	Net gain in protein balance
+M1_4_1	exercise	Activity of a physical nature that is planned, structured, and repetitive for the purpose of conditioning any part of the body.
+M1_4_1	ingestion	Taking of food, drugs, liquids, or other substances into the body by mouth.
+M1_4_1	skeletal muscle	Complex organ made up of multinucleated long and cylindrical cells called myofibres that are, in turn, composed of myofibrils
+M1_6_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_6_1	athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M1_6_1	binge drinking	Act of drinking alcoholic beverages with an intention of becoming intoxicated by heavy consumption of alcohol over a short period of time
+M1_6_1	competition	Contest in which a winner is selected from two or more entrants
+M1_6_1	sport	Individual or group activity pursued for exercise or pleasure, often involving the testing of physical capabilities and taking the form of a competitive game such as football, tennis, etc
+M1_6_1	team sport	Type of sport where the fundamental nature of the game or sport necessitates the participation of multiple individuals working together as a team and it is inherently impossible or highly impractical to execute the sport as a single-player endeavour
+M1_6_1	training	Exercise that is physical done regularly in order to keep fit or to prepare for an activity such as a race.
+M1_7_1	alcohol	Drink (as whiskey or beer) containing ethanol
+M1_7_1	athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M1_7_1	binge drinking	Act of drinking alcoholic beverages with an intention of becoming intoxicated by heavy consumption of alcohol over a short period of time
+M1_7_1	exercise	Activity of a physical nature that is planned, structured, and repetitive for the purpose of conditioning any part of the body.
+M1_7_1	intoxication	The impaired condition caused by use of alcohol or a drug or other chemical substance
+M1_7_1	physiological process	Process of the vital activity of the organism, ensuring its integrity and adaptive reactions
+M1_7_1	recovery	Return to a normal or healthy condition
+M1_8_1	alcohol consumption	Act of ingesting – typically orally – a beverage containing ethanol
+M1_8_1	carbohydrate	Family of organic molecules (hydrates of carbon) with the general formula (CH2 O)x, ranging from simple sugars such as glucose and fructose to complex molecules such as starch and cellulose
+M1_8_1	consumption	Act of eating or drinking something, or the amount that is eaten or drunk
+M1_8_1	muscle protein synthesis	Process that is methabolic that describes the incorporation of amino acids into bound skeletal muscle proteins
+M1_9_1	athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M1_9_1	exercise	Activity of a physical nature that is planned, structured, and repetitive for the purpose of conditioning any part of the body.
+M1_9_1	football code	Rules which cover a type of football
+M1_9_1	MPS	Process that is methabolic that describes the incorporation of amino acids into bound skeletal muscle proteins
+M1_9_1	myofibrillar protein synthesis	Process that is methabolic that describes the incorporation of amino acids into bound skeletal muscle proteins
+M1_9_1	performance	Execution or accomplishment of work, acts, feats, etc
+M1_9_1	recovery	Return to a normal or healthy condition
+M1_9_1	team sport	Type of sport where the fundamental nature of the game or sport necessitates the participation of multiple individuals working together as a team and it is inherently impossible or highly impractical to execute the sport as a single-player endeavour
+M1_9_1	training	Exercise that is physical done regularly in order to keep fit or to prepare for an activity such as a race.
+M10_42_1	exercise	Activity that is physical, specifically planned, structured, and repetitive for the purpose of conditioning any part of the body.
+M10_42_1	muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M10_42_3	maximization	Process of making something as great in amount, size, or importance as possible
+M10_42_5	detraining	Loss, that can be partial or complete, of training-induced adaptations, in response to an insufficient training stimulus
+M10_42_5	manteinance	Process of keeping or continuing something
+M10_42_5	muscle growth	Increase in muscle mass
+M10_42_5	muscle mass	Aount of muscle in the body, including skeletal muscles, smooth muscles, and cardiac muscles
+M10_42_5	muscle strength	Maximal force a muscle or muscle group can generate at a specified or determined velocity
+M11_43_2	vascular occlusion	Blockage of a blood vessel, usually with a clot
+M11_43_3	prescription	Directive in written form as for the compounding or dispensing and administration of drugs, or for other service to a particular patient.
+M11_43_4	growth hormone	Any of several related polypeptide hormones secreted by the anterior lobe of the pituitary gland that directly influence protein, carbohydrate, and lipid metabolism and control the rate of skeletal and visceral growth
+M11_43_5	astronaut	Person trained to pilot, navigate, or otherwise participate as a crew member of a spacecraft
+M11_43_5	athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M11_43_5	cardiac rehabilitation	Cardiac rehabilitation is a comprehensive exercise, education, and behavioral modification program designed to improve the physical and emotional condition of patients with heart disease.
+M11_43_5	joint pain	Discomfort in a joint
+M11_43_5	occlusion training	Training that partially blocks blood flow out of the muscle, without blocking blood flow into the muscle
+M12_44_2	alter	To change or become different
+M12_44_2	induce	To generate a product or bring about an effect.
+M12_44_2	protein metabolism	Decomposition and synthesis of protein in the tissues.
+M12_44_2	skeletal muscle hypertrophy	Increase in the size of fibers without an increase in their number, irrespective of any increase in the number of nuclei per fiber
+M12_44_3	muscle loss	Wasting or thinning of muscle mass
+M12_44_3	population	Individuals collectively constituting a certain category or inhabiting a specified geographic area.
+M12_44_3	skeletal muscle mass regulation	Process that involves the precise coordination of several metabolic and intracellular signaling pathways, ultimately affecting the dynamic balance between muscle protein synthesis (MPS) and muscle protein breakdown (MPB)
+M13_45_1	Contracture	Shortening that is abnormal and often permanent, as of muscle or scar tissue, that results in distortion or deformity, especially of a joint of the body.
+M13_45_1	Injury	Harm or hurt; usually applied to damage inflicted on the body by an external force
+M13_45_1	joint range of motion	Capability of a joint to go through its complete spectrum of movements
+M13_45_2	In vitro model	Representation of a living organism or structure in an artificial environment
+M13_45_2	Muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M13_45_5	Stretching	Form of physical exercise in which a specific muscle or tendon (or muscle group) is deliberately expanded and flexed in order to improve the muscle's felt elasticity and achieve comfortable muscle tone
+M13_45_6	Muscle growth	Increase in muscle mass
+M13_45_7	muscle architecture	Arrangement of a physical nature of muscle fibers at the macroscopic level that determines a muscle's mechanical function
+M13_45_7	Stretch	Act of stretching or state of being stretched
+M14_46_1	Aerobic capacity	Maximum amount of O2 in ml an athlete can use in one minute/kg of body weight.
+M14_46_1	Cardiovascular health	Health of the heart and blood vessels
+M14_46_1	Cycle training	Programme of instruction of any kind in cycling proficiency, be it simply learning to ride and handle a cycle, learning road rules and behaviour, or attempting to deal with more complex road environments
+M14_46_1	exercise program	Programme detailing a range of physical exercises and the amount of time each exercise should be performed, used esp in gymnasiums, where they are typically tailored to individuals' needs
+M14_46_2	control	Standard of comparison used in a statistical analysis or scientific experiment
+M14_46_3	lower extremity	Lower limb
+M14_46_4	resistance training	Use of resistance to muscular contraction to build strength, anaerobic endurance and size of skeletal muscles
+M14_46_5	Muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M16_48_1	muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M16_48_1	resistance training	Use of resistance to muscular contraction to build strength, anaerobic endurance and size of skeletal muscles
+M18_50_1	Fat loss	Reduction in body fat
+M18_50_2	Adiposity	Accumulation of lipids in a site or organ, that is excessive.
+M18_50_2	Observational study	Study that draws inferences from a sample to a population where the independent variable is not under the control of the researcher because of ethical concerns or logistical constraints
+M18_50_3	experimental research	Scientific research method used to investigate the causal relationship between variables
+M18_50_3	Fat mass	Portion of the human body that is composed strictly of fat
+M18_50_3	Lean mass	Total weight of the body minus all the weight due to fat mass
+M18_50_3	Meal frequency	Number of daily eating occasions
+M18_50_3	Narrative review	Overviewthat is thorough and critical of previously published research on the author's specific topic of interest
+M18_50_4	Body fat percentage	Total mass of fat divided by total body mass, multiplied by 100
+M18_50_4	Fat-free mass	Sum total of all body weight that is not composed of fat
+M18_50_5	data	Information, especially facts or numbers, collected to be examined and considered and used to help decision-making, or information in an electronic form that can be stored and used by a computer
+M18_50_5	Sensitivity analysis	Study of how the uncertainty in the output of a mathematical model or system (numerical or otherwise) can be divided and allocated to different sources of uncertainty in its inputs
+M18_50_5	study	Investigation and analysis of a subject, situation, etc
+M18_50_6	Body composition	Percentage of fat, water, bone, muscle, skin, and other lean tissues that make up the body
+M18_50_6	Feeding frequency	Number of times per day that feed is provided
+M18_50_6	Meta analysis	Combination of a statistical nature of the results of multiple studies addressing a similar research question
+M23_55_5	administer	To apply a substance—by injection, inhalation, ingestion or by other means—to the body of a patient or research subject by either a health practitioner or his authorised agent and under his direction, or by the patient or research subject himself.
+M23_55_5	prescribe	To order a medicine or other treatment.
+M24_56_5	treat	To manage a disease by medicinal, surgical, or other measures; to care for a patient medically or surgically.
+M25_57_1	hypertension	Arterial blood pressure that is abnormally high, usually indicated by an adult systolic blood pressure of 140 mm Hg or greater or a diastolic blood pressure of 90 mm Hg or greater, chiefly of unknown cause but may be attributable to a preexisting condition (as a renal or endocrine disorder), that typically results in a thickening and inelasticity of arterial walls and hypertrophy of the left heart ventricle, and that is a risk factor for various pathological conditions or events (as heart attack, heart failure, stroke, end-stage renal disease, or retinal hemorrhage)
+M25_57_1	patient	Person who is ill or is undergoing treatment for disease
+M25_57_2	condition	State of health that is usually defective
+M25_57_2	prevention	Action so as to avoid, forestall, or circumvent a happening, conclusion, or phenomenon (for example, disease prevention).
+M25_57_2	treatment	Action or way of treating a patient or a condition medically or surgically, that is the management and care to prevent, cure, ameliorate, or slow progression of a medical condition
+M25_57_3	physical exercise	Set of movements intended to improve health
+M25_57_4	exercise prescription	Formulation of individualized exercise program based on exercise frequency, intensity, and duration with consideration for the specificity of the training response, specific to the prescribed exercise method.
+M25_57_6	breath-holding	Stopping of breathing that may be voluntary or involuntary
+M25_57_6	chest pain	General term for any dull, aching pain in the thorax, usually referring to that of acute onset, which is often regarded as being myocardial in origin unless proven otherwise.
+M25_57_6	contraindicate	To indicate the inadvisability of (a medical treatment, for example).
+M25_57_6	resistance exercise	Exercise in which a muscle contraction is opposed by force to increase strength or endurance.
+M4_36_1	exercise	Activity of a physical nature that is planned, structured, and repetitive for the purpose of conditioning any part of the body.
+M4_36_1	Physically active person	Person who regularly does physical exercises, such as running, cycling, jogging, and playing sports
+M4_36_2	Physical training	Bodily activity of any kind that enhances or maintains physical fitness and overall health and wellness
+M4_36_3	Athlete	Person who participates in an interscholastic, intercollegiate, or intramural athletic activity being conducted by an educational institution, or a professional athletic activity
+M4_36_3	Military personnel	Total of all active and inactive members of the armed forces and paramilitary units of a state
+M4_36_3	population	Individuals collectively constituting a certain category or inhabiting a specified geographic area.
+M4_36_4	Exercise intensity	Amount of energy required for the performance of the physical activity per unit of time
+M4_36_4	Exercise volume	Amount of work done in a workout
+M4_36_4	session	Period of time or a meeting when a particular activity takes place
+M4_36_4	Training frequency	Number of training sessions performed for a given period, usually described on a weekly basis
+M4_36_5	muscle size	Increase in the cross-sectional area of muscle fibers
+M4_36_5	set	Series of repetitions performed sequentially
+M4_36_5	strength training	Training that involves the performance of physical exercises that are designed to improve strength and endurance
+M4_36_6	Exercise frequency	Number of training sessions one has in a given period of time
+M7_39_1	resistance exercise	Exercise in which a muscle contraction is opposed by force to increase strength or endurance.
+M7_39_1	Training frequency	Number of training sessions performed for a given period, usually described on a weekly basis
+M7_39_2	experimental study	Research method of a quantitative nature that allows to see the effects of changes in the variables of interest by keeping other relevant variables under control
+M7_39_2	Meta-analysis	Combination of a statistical nature of the results of multiple studies addressing a similar research question
+M7_39_2	Systematic review	Summary of the medical literature that uses explicit and reproducible methods to systematically search, critically appraise, and synthesize on a specific issue
+M7_39_4	Meta-regression analysis	Meta-analysis that uses regression analysis to combine, compare, and synthesize research findings from multiple studies while adjusting for the effects of available covariates on a response variable
+M7_39_5	Muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M7_39_5	Resistance training frequency	Number of resistance training sessions performed in a given period of time
+M7_39_5	volume	Amount of work done in a workout
+M7_39_6	Muscle group	Collection of muscles situated close to one another that work together to perform a specific movement or function
+M7_39_6	Training volume	Amount of work done in a workout
+M8_40_1	muscle growth	Increase in muscle mass
+M8_40_2	drop set	Technique for continuing an exercise with a lower weight once muscle failure has been achieved at a higher weight
+M8_40_2	forced repetition	Technique commonly used in strength training and bodybuilding that involvse continuing to perform an exercise with the assistance of a training partner or using self-imposed momentum
+M8_40_2	resistance exercise	Exercise in which a muscle contraction is opposed by force to increase strength or endurance.
+M8_40_2	superset	Combination of two or more similar exercises that make a muscle or group of muscles work harder
+M8_40_3	muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M9_41_1	Lean body mass	Part of body composition that is defined as the difference between total body weight and body fat weight
+M9_41_3	Bodybuilder	Person who does special exercises regularly in order to make his or her muscles grow bigger.
+M9_41_3	Metabolic stress	Process that is physiological that occurs during exercise in response to low energy which leads to metabolite accumulation
+M9_41_3	rest interval	Time spent resting between sets that allow the muscle to recover
+M9_41_3	train	To do exercises and prepare for a specific purpose
+M9_41_4	Powerlifter	Person who performs powerlifting
+M9_41_5	Muscularity	Quality or state of being muscular
+M9_41_7	Muscle growth	Increase in muscle mass
+M9_41_7	Muscle hypertrophy	Increase in size of skeletal muscle through a growth in size of its component cells.
+M9_41_7	Protocol	Plan for the study of a biomedical problem or for a regimen of therapy that is precise and detailed.

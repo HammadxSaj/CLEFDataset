@@ -1,0 +1,681 @@
+snt_id	term	difficulty
+G01.1_1019677957_1	education field	e
+G01.1_1019677957_1	mobile technology	e
+G01.1_1019677957_2	learning	e
+G01.1_1019677957_2	learning experience	e
+G01.1_1019677957_2	learning technology	e
+G01.1_111823101_1	electrophysiological wireless patient monitoring system	d
+G01.1_111823101_2	control center	d
+G01.1_111823101_2	doctor	e
+G01.1_111823101_2	local monitor unit	d
+G01.1_111823101_2	patient	e
+G01.1_131359426_2	navigate	e
+G01.1_131359426_3	sound	e
+G01.1_131359426_3	technique	e
+G01.1_131359426_3	visually impaired user	e
+G01.1_131359426_4	Personal Digital Assistant portable device	d
+G01.1_131359426_6	convert	e
+G01.1_131359426_7	technology	e
+G01.1_147704292_1	multidrug-resistant tuberculosis patient	m
+G01.1_147704292_3	electronic medical record system	e
+G01.1_147704292_3	electronic system	e
+G01.1_147704292_3	personal digital assistant-based electronic system	d
+G01.1_147704292_5	baseline assessment	e
+G01.1_147704292_5	control site	d
+G01.1_147704292_5	district	d
+G01.1_147704292_5	electronic system	e
+G01.1_147704292_5	paper-based system	m
+G01.1_147704292_6	measurement	e
+G01.1_147704292_6	PDA-based system	d
+G01.1_147704292_6	processing time	e
+G01.1_147704292_7	discrepancy	e
+G01.1_147704292_7	user	e
+G01.1_147704292_8	cost	e
+G01.1_1491527877_3	human factors method	d
+G01.1_1491527877_4	pilot clinical trial	m
+G01.1_1491527877_5	tele-consultation	e
+G01.1_1491527877_5	tele-triage	m
+G01.1_1491527877_6	clinical trial	e
+G01.1_1493916683_2	cyber pet game	e
+G01.1_1493916683_3	mobile learning	e
+G01.1_1493916683_4	cyber pet	e
+G01.1_1493916683_5	problem set	m
+G01.1_1494033132_1	stylus-driven soft keyboard	m
+G01.1_1494033132_3	psychophysical technique	m
+G01.1_1494033132_5	QWERTY keyboard	e
+G01.1_1494033132_5	T9 keyboard	e
+G01.1_1494033132_6	ancillary experiment	d
+G01.1_1494033132_6	key	e
+G01.1_1494033132_6	T9 layout	e
+G01.1_1494033132_6	visual scanning time	d
+G01.1_1494033132_7	QWERTY keyboard layout	e
+G01.1_1494033132_7	soft keyboard	m
+G01.1_1494033132_7	stylus tapping	e
+G01.1_1497796471_4	screen size	e
+G01.1_1497796471_5	distributed M-commerce system	d
+G01.1_1497796471_5	information	e
+G01.1_1497796471_5	tourist	e
+G01.1_1497796471_5	user	e
+G01.1_1497796471_5	user input facility	m
+G01.1_1497796471_6	prototype	e
+G01.1_1500084159_1	monitor	e
+G01.1_1500084159_1	vital sign	e
+G01.1_1500084159_6	communication network	m
+G01.1_1500084159_6	patient data	e
+G01.1_1500084159_7	proof of concept prototype	m
+G01.1_1500084159_8	temperature acquisition apparatus	e
+G01.1_150012053_3	device	e
+G01.1_150012053_3	wireless mobile terminal	d
+G01.1_150012053_4	LOCH system	d
+G01.1_150012053_5	system	e
+G01.1_1504856008_5	minimal machine	d
+G01.1_1504856008_5	tamper resistant	d
+G01.1_1504856008_7	nontrivial distributed system	d
+G01.1_1504856008_7	nontrivial system	d
+G01.1_1508161316_2	monitor	e
+G01.1_1508161316_3	data	e
+G01.1_1508161316_3	Internet	e
+G01.1_1508161316_4	wireless communication	e
+G01.1_1511670876_3	treatment	e
+G01.1_1511670876_6	clinician	e
+G01.1_151188962_2	3dimensional map	e
+G01.1_151188962_2	engineering field	e
+G01.1_151188962_4	technology	e
+G01.1_151188962_5	3D map with texture	d
+G01.1_151188962_5	3D map without texture	d
+G01.1_1514623391_1	develop	e
+G01.1_1514623391_1	extension	e
+G01.1_1514623391_1	mobile device	e
+G01.1_1514623391_1	PDAs	d
+G01.1_1514623391_1	Personal Digital Assistant	d
+G01.1_1514623391_1	phone	e
+G01.1_1514623391_1	technology	e
+G01.1_1514623391_2	digital video broadcast type service	d
+G01.1_1514623391_3	DVB-H standard	d
+G01.1_1514623391_4	DVB-H terminal	d
+G01.1_1514623391_4	network design	m
+G01.1_1516508996_3	PCI bus compatible IDT ATM NIC	d
+G01.1_1516508996_7	full duplexed 25Mbps NIC	d
+G01.1_1516508996_7	IDT77903 ATM card	d
+G01.1_1516508996_7	US	e
+G01.1_1516508996_8	card	e
+G01.1_1516508996_8	network interface	d
+G01.1_1524829466_2	constituencies	d
+G01.1_1524829466_2	mobile technology problem	e
+G01.1_1524829466_2	mobile technology solution	e
+G01.1_1524829466_2	social interaction	e
+G01.1_1524829466_4	application area	e
+G01.1_1527694686_2	presentation	e
+G01.1_1527694686_3	mobile terminal	m
+G01.1_1527980854_1	built-in wireless LAN	m
+G01.1_1527980854_1	GPS receiver	m
+G01.1_1527980854_1	user	e
+G01.1_1527980854_2	position	e
+G01.1_1527980854_2	screen	e
+G01.1_1527980854_2	system	e
+G01.1_1527980854_5	positioning data	e
+G01.1_1528342628_3	distributed system	d
+G01.1_1528342628_4	authentication	e
+G01.1_1528342628_4	key	e
+G01.1_1528342628_5	information	e
+G01.1_1528342628_5	system	e
+G01.1_1528342628_6	qualitative assessment	e
+G01.1_1528342628_7	design guideline	m
+G01.1_1528342628_7	implement	e
+G01.1_1529793248_1	depression	e
+G01.1_1529793248_1	pediatric setting	e
+G01.1_1529793248_2	APN	d
+G01.1_1529793248_2	pediadric advanced nurse student	m
+G01.1_1529793248_2	pediatric advanced practice nurse	m
+G01.1_1529793248_2	pediatric depression screening	e
+G01.1_1529793248_2	personal digital assistant-based decision support system	d
+G01.1_1529793248_3	depression screening instrument	e
+G01.1_1529793248_3	qualitative focus group evaluation	m
+G01.1_1529793248_3	quantitative usage evaluation	m
+G01.1_1529793248_4	patient	e
+G01.1_1529793248_4	screen	e
+G01.1_1529793248_5	mood disorder	m
+G01.1_1529793248_5	risk	e
+G01.1_1529793248_6	comfort	e
+G01.1_1529793248_6	cultural barrier	e
+G01.1_1529793248_6	focus group	m
+G01.1_1529793248_6	intervention protocol	m
+G01.1_1529793248_6	PDA usability issue	d
+G01.1_1529793248_6	referral resource	d
+G01.1_1529793248_7	clinical based PDA-based screening	d
+G01.1_1529793248_7	intervention	e
+G01.1_1529793248_7	research	e
+G01.1_1530854586_1	education	e
+G01.1_1530854586_1	information and communication technology	m
+G01.1_1530854586_1	medical student	e
+G01.1_1530854586_2	database	e
+G01.1_1530854586_2	online database	e
+G01.1_1530854586_2	systematic review	m
+G01.1_1530854586_3	Personal Digital Assistant	d
+G01.1_1530854586_4	Internet	e
+G01.1_1530854586_4	network	m
+G01.1_1532553277_1	nucleus	e
+G01.1_1532553277_3	work mode	e
+G01.1_1532553277_4	monitor center	d
+G01.1_1533716782_1	CPU speed	m
+G01.1_1533716782_1	large screen device	e
+G01.1_1533716782_1	memory	e
+G01.1_1533716782_1	network	e
+G01.1_1533716782_1	network	m
+G01.1_1533716782_1	small screen device	e
+G01.1_1533716782_1	wireless	e
+G01.1_1533716782_2	device	e
+G01.1_1533716782_2	web site	e
+G01.1_1533716782_3	small screen	e
+G01.1_1533716782_5	large screen	e
+G01.1_1534162055_2	SEI risk questionnaire	d
+G01.1_1535824984_3	authentication	e
+G01.1_1535824984_3	speaker recognition system	e
+G01.1_1535824984_4	microphone	e
+G01.1_1535824984_4	telephone	e
+G01.1_1549686097_2	city map	e
+G01.1_1549686097_2	navigation	e
+G01.1_1549686097_2	route planning	m
+G01.1_1549686097_4	application	e
+G01.1_1549686097_5	prototype	e
+G01.1_1549686097_5	public transport network	e
+G01.1_1549686097_5	route computation	m
+G01.1_1549686097_6	computation expenditure	m
+G01.1_1549686097_6	route computation process	m
+G01.1_2463945949_1	health care facility	e
+G01.1_2463945949_1	hospital	e
+G01.1_2463945949_1	medical record	e
+G01.1_2797641221_1	assistant	e
+G01.1_2797641221_1	digital assistant	e
+G01.1_2797641221_1	user	e
+G01.2_1448624402_1	experimental research	e
+G01.2_1448624402_3	simulation	e
+G04.1_2339209416_1	semantic web vocabulary	d
+G04.1_2339209416_2	protocol	e
+G04.1_2339209416_2	software algorithm	e
+G04.1_2339209416_3	semantic web triple	d
+G04.1_2339209416_4	annotation	e
+G04.1_2339209416_4	assay	m
+G04.1_2339209416_5	BioAssay Ontology	d
+G04.2_2415325177_1	dataset	e
+G04.2_2415325177_1	read	d
+G04.2_2415325177_1	sample	m
+G04.2_2415325177_2	application	e
+G04.2_2415325177_2	bioinformatic analysis	m
+G04.2_2415325177_3	analysis	e
+G04.2_2415325177_3	bioinformatician	e
+G04.2_2415325177_3	data file	e
+G04.2_2415325177_3	meta-information	m
+G04.2_2415325177_3	tool	e
+G05.1_2584932255_2	health	e
+G05.1_2584932255_5	IVF	d
+G05.1_2584932255_5	reproduce	e
+G05.1_2584932255_6	gendered	e
+G05.1_2757079914_1	gene editing	e
+G05.1_2757079914_2	off-target effect	d
+G05.1_2757079914_3	Anti-CRISPR proteins	d
+G05.1_2757079914_3	CRISPR-Cas system	d
+G05.1_2757079914_3	gene therapy	m
+G05.1_2757079914_3	molecules	e
+G05.1_2757079914_4	bacteria	e
+G05.1_2757079914_4	co-evolution	d
+G05.1_2757079914_4	protein	m
+G05.1_2757079914_5	anti-CRISPRs	d
+G05.2_2796443924_4	target specificity	e
+G06.2_2805209921_1	data	e
+G06.2_2805209921_1	deep learning technique	d
+G06.2_2805209921_1	training	e
+G06.2_2805209921_2	classification	m
+G06.2_2805209921_2	dataset	e
+G06.2_2805209921_2	industrial robotics field	e
+G06.2_2805209921_2	self-driving car	e
+G06.2_2805209921_3	2D image	e
+G06.2_2805209921_3	3D position	e
+G06.2_2805209921_3	image	e
+G06.2_2805209921_3	joint	e
+G06.2_2805209921_3	multi-objective Convolutional Neural Network	d
+G06.2_2805209921_3	robot body	e
+G06.2_2805209921_4	method	e
+G06.2_2805209921_4	robot arm	e
+G06.2_2805209921_5	transfer learning technique	m
+G06.2_2805209921_5	UR robot	d
+G06.2_2805209921_6	training dataset	e
+G06.2_2810968146_1	end-to-end neural network architecture	d
+G06.2_2810968146_1	train	e
+G06.2_2810968146_2	ResNet-18 variant	d
+G06.2_2810968146_3	car	e
+G06.2_2810968146_3	encapsulate	m
+G06.2_2810968146_3	network	m
+G06.2_2888477402_1	internal noise	m
+G06.2_2888477402_1	robot	e
+G06.2_2888477402_1	speech recognition accuracy	e
+G06.2_2888477402_2	motor	e
+G06.2_2888477402_2	on/off state	m
+G06.2_2888477402_2	speech recognition system	e
+G06.2_2888477402_3	deep neural network (DNN) based automatic speech recognition (ASR) system	d
+G06.2_2888477402_4	motor on/off state data	m
+G06.2_2888477402_6	algorithm	e
+G06.2_2954032282_3	self-driving car software	m
+G06.2_2954032282_5	tool	e
+G06.2_2954032282_6	artificial intelligence-based self-driving car software	m
+G06.2_2954032282_6	lane keeping feature	d
+G06.2_2968176166_1	self-driving vehicles	e
+G06.2_2968176166_1	transportation system	e
+G06.2_2968176166_2	collision	e
+G06.2_2968176166_2	highfidelity simulators	m
+G06.2_2968176166_2	simulated pedestrian	e
+G06.2_2968176166_2	software test	e
+G06.2_2968176166_2	vehicle	e
+G06.2_2968176166_3	self-driving software	e
+G06.2_2968176166_4	self-driving car industry	e
+G06.2_2968176166_5	Bayesian optimization	d
+G06.2_2968176166_5	self-driving policies	m
+G06.2_2968176166_6	policy	e
+G06.2_2968176166_6	training set	m
+G06.2_2968176166_6	vision-based imitation learning	e
+G06.2_602340265_1	digital revolution	e
+G06.2_602340265_1	economy	e
+G06.2_602340265_1	societal institution	e
+G06.2_602340265_2	society	e
+G06.2_602340265_3	production process	e
+G06.2_602340265_3	self-driving vehicle	e
+G06.2_602340265_4	manipulative technology	e
+G06.2_602340265_4	personalized ad	e
+G06.2_602340265_5	information and communication system	d
+G06.2_602340265_6	autonomous decision-making	e
+G06.2_602340265_6	democracy	e
+G06.2_602340265_6	human dignity	e
+G06.2_835365303_1	financial markets problem space	d
+G06.2_835365303_2	modern computing	e
+G06.2_855132903_1	autonomous mobility-on-demand MOD system	d
+G06.2_855132903_1	queueing-theoretical method	d
+G06.2_855132903_1	robotic self-driving vehicle	e
+G06.2_855132903_2	autonomous MOD system	d
+G06.2_855132903_2	Jackson network model	d
+G06.2_855132903_2	rebalancing algorithm	d
+G06.2_855132903_3	eight-vehicle mobile robot testbed	d
+G06.2_855132903_4	taxi fleet	m
+G06.2_855132903_5	autonomously rebalancing vehicle	d
+G06.2_855132903_5	congestion effect	m
+G06.2_855132903_5	queueing-theoretical setup	d
+G06.2_855132903_6	autonomously driving vehicle	e
+G06.2_855132903_6	robotic transportation network	d
+G06.2_855132903_6	system-wide coordination	d
+G06.2_89451762_1	learning from demonstration	m
+G06.2_89451762_1	literature	e
+G06.2_89451762_1	model based technique	e
+G06.2_89451762_2	environment	e
+G06.2_89451762_2	method	e
+G06.2_89451762_2	model	e
+G06.2_89451762_3	contact point	d
+G06.2_89451762_3	manipulation task	m
+G06.2_89451762_3	sensor based control	e
+G06.2_89451762_3	service task	m
+G07.1_2111507945_1	communication scheme	d
+G07.1_2111507945_1	social media	e
+G07.1_2111507945_2	public interest	e
+G07.1_2111507945_3	collective intelligence	d
+G07.1_2111507945_3	machine intelligence	m
+G07.1_2111507945_4	index	m
+G07.1_2111507945_4	user	e
+G07.1_2111507945_5	information	e
+G07.1_2111507945_6	misinformation identification	m
+G07.1_2111507945_7	microblog user	e
+G07.1_2111507945_8	microblog	e
+G07.1_2111507945_8	real world dataset	m
+G07.1_2124690797_1	research community	e
+G07.1_2124690797_3	conceptualize	e
+G07.1_2124690797_5	misinformation research	e
+G07.1_2124690797_5	ontology-supported misinformation model	d
+G07.1_2803622358_1	information	e
+G07.1_2803622358_1	WWW	e
+G07.1_2803622358_2	dissenting information	m
+G07.1_2803622358_2	narrative	m
+G07.1_2803622358_2	system of belief	e
+G07.1_2803622358_3	user	e
+G07.1_2803622358_4	misinformation	e
+G07.1_2803622358_4	news	e
+G07.1_2803622358_4	social media	e
+G07.1_2803622358_5	news outlet	m
+G07.1_2803622358_6	commenting rate	e
+G07.1_2803622358_6	liking rate	e
+G07.1_2803622358_6	posting rate	e
+G07.1_2803622358_7	interact	e
+G07.1_2803622358_7	page	e
+G07.1_2803622358_7	polarized community	d
+G07.1_2803622367_1	polarized country	d
+G07.1_2803622367_2	Bounded Confidence Model	d
+G07.1_2803622367_2	engagement	e
+G07.1_2803622367_2	news	e
+G07.1_2803622367_2	simulate	e
+G07.1_2803622367_2	user	e
+G07.1_2803622367_3	information broadcaster	m
+G07.1_2803622367_3	polarization	d
+G07.1_2888100547_10	debunking strategy	d
+G07.1_2888100547_2	active self-reinforcing mechanism	m
+G07.1_2888100547_2	narrative	m
+G07.1_2888100547_2	passive self-reinforcing mechanism	m
+G07.1_2888100547_4	confirmation bias mechanism	m
+G07.1_2888100547_4	information	e
+G07.1_2888100547_4	network	m
+G07.1_2888100547_4	news	e
+G07.1_2888100547_4	stylized social learning model	d
+G07.1_2888100547_5	opinion polarisation	d
+G07.1_2888100547_6	bias	e
+G07.1_2888100547_6	model	e
+G07.1_2888100547_6	unbiased agent	d
+G07.1_2888100547_7	Internet access	e
+G07.1_2888100547_7	US county-level data	d
+G07.1_2888100547_8	information diversity	e
+G07.1_2888100547_9	biased agent	d
+G07.1_2894304194_1	AI	e
+G07.1_2894304194_3	superintelligence misinformation	d
+G07.1_2894304194_8	AI educational program	e
+G07.1_2894304194_8	expert consensus	e
+G07.1_2950010073_2	competing campaign	m
+G07.1_2950010073_2	misinformation containment problem	e
+G07.1_2950010073_2	online social networks	e
+G07.1_2950010073_6	social network	e
+G07.2_2749521565_1	conspiracy	e
+G07.2_2749521565_1	philosophy	e
+G07.2_2749521565_2	evidence	e
+G07.2_2749521565_3	prima facie case	d
+G07.2_2899514909_1	conspiracy theory	e
+G07.2_2899514909_1	political dissent	e
+G07.2_2899514909_1	report	e
+G07.2_2899514909_2	propagation	e
+G07.2_2899514909_3	conspiratorial discussion	e
+G07.2_2899514909_5	conspiratorial agent	e
+G07.2_2899514909_6	conspiratorial statement	e
+G07.2_2899514909_6	governmental agencies	m
+G07.2_2899514909_6	information	e
+G07.2_2899514909_6	narrative-motif	m
+G07.2_2899514909_9	alternative news	e
+G07.2_2899514909_9	population-scale study	m
+G08.1_2806518684_1	technology	e
+G08.1_2806518684_3	blockchain	d
+G08.1_2806518684_3	data exchange	e
+G08.1_2806518684_3	transaction	e
+G08.1_2806518684_4	blockchain cryptocurrency	d
+G08.1_2806518684_5	cryptocurrency adoption	m
+G08.1_2806518684_5	model	e
+G08.1_2806518684_6	e-government context	m
+G08.1_2889349357_1	memory-bound cryptocurrencies	d
+G08.1_2889349357_1	memory-bound cryptocurrency	d
+G08.1_2889349357_2	computing resources	d
+G08.1_2889349357_2	cryptocurrencies	m
+G08.1_2889349357_2	cryptocurrency	m
+G08.1_2889349357_2	cryptojacking site	d
+G08.1_2889349357_2	mine	d
+G08.1_2889349357_2	parasitic computing	d
+G08.1_2889349357_3	mining script	d
+G08.1_2889349357_4	host	e
+G08.1_2889349357_5	code	e
+G08.1_2889349357_5	mining revenue	d
+G08.1_2889740224_1	autonomous program	e
+G08.1_2889740224_2	business	e
+G08.1_2889740224_2	bytecode	d
+G08.1_2889740224_2	commerce	e
+G08.1_2889740224_2	governance	e
+G08.1_2889740224_2	high-level language	m
+G08.1_2889740224_2	law	e
+G08.1_2889740224_2	low-level bytecode	d
+G08.1_2889740224_3	Turing-complete virtual machine	d
+G08.1_2889740224_4	attack	e
+G08.1_2889740224_4	programming methodology	m
+G08.1_2889740224_6	security framework	d
+G08.1_2889740224_6	security vulnerability	m
+G08.1_2889740224_7	Ethereum smart contract	d
+G08.1_2889740224_7	security analysis framework	d
+G08.1_2889740224_8	low-level Ethereum Virtual Machine bytecode	d
+G08.1_2889740224_8	semantic logic relation	d
+G08.1_2889740224_9	framework	d
+G08.1_2889740224_9	logic specification	d
+G08.1_2889740224_9	security analysis	e
+G08.1_2889740224_9	user	e
+G08.1_2889740235_1	contract	d
+G08.1_2898599358_1	decentralised P2P network	d
+G08.1_2898599358_1	resource usage	m
+G08.1_2898599358_2	decentralised resource control	d
+G08.1_2898599358_3	decentralised exchange	d
+G08.1_2898599358_3	Namecoin name	d
+G08.1_3004077497_1	payment method	e
+G08.1_3004077497_1	smart device owning rate	d
+G08.1_3004077497_2	cryptocurrency	d
+G08.1_3004077497_2	cryptocurrency	m
+G08.1_3004077497_2	currency	e
+G08.1_3004077497_2	USD billion	e
+G08.1_3004077497_3	mobile device	e
+G08.1_3004077497_4	developing country	e
+G08.1_3004077497_5	storage cost	d
+G08.1_3004077497_6	centralized party	d
+G08.1_3004077497_6	cryptocurrency mobile payment	d
+G08.1_3004077497_7	bank	e
+G08.1_3004077497_7	cryptocurrency mobile payment processing	d
+G08.1_3004077497_7	KYC/AML compliance requirement	d
+G09.1_2202800066_2	device	e
+G09.1_2202800066_5	mobile phone	e
+G09.1_2202800066_5	smart phone	e
+G09.1_2202800066_7	agent based approach	d
+G09.1_2202800066_7	Microsoft's Windows Mobile smart phone	e
+G09.1_2202800066_7	tool	e
+G09.1_2202800066_8	Windows Mobile device	e
+G09.1_2885025643_5	real-forensics scenario	d
+G09.1_2885025643_7	pair-wise fashion	d
+G09.1_2885025643_8	training stage	e
+G09.1_567125047_10	Performance figure	d
+G09.1_567125047_5	host	d
+G09.1_567125047_6	guest	d
+G09.1_567125047_8	architecture	d
+G09.1_567125047_8	correction	d
+G09.1_567125047_8	Guest time alteration detection	d
+G09.1_567125047_8	Host time alteration detection	d
+G09.1_567125047_8	resilience	d
+G09.1_567125047_9	framework	d
+G09.1_567125047_9	implement	e
+G09.1_567125047_9	Simulator	m
+G10.1_1593729956_2	camera extrinsic parameter	d
+G10.1_1593729956_2	camera intrinsic parameter	d
+G10.1_1593729956_2	joint angle offset	d
+G10.1_1593729956_2	parameter	e
+G10.1_1593729956_3	calibration process	d
+G10.1_1593729956_3	trade-off	d
+G10.1_1593729956_4	configuration selection	e
+G10.1_1593729956_6	implementation	e
+G10.1_1593729956_6	optimization	e
+G10.1_2093013061_1	humanoid robot	e
+G10.1_2093013061_1	integrated navigation system	m
+G10.1_2093013061_2	heightmap representation	m
+G10.1_2093013061_2	onboard consumer-grade depth camera	d
+G10.1_2093013061_2	robot	e
+G10.1_2093013061_2	system	e
+G10.1_2093013061_3	compute	e
+G10.1_2093013061_3	model	e
+G10.1_2093013061_3	whole-body motion	e
+G10.1_2093013061_5	navigation	e
+G10.1_2562908749_1	indoor environment	e
+G10.1_2562908749_2	sensor	e
+G10.1_2562908749_3	navigate	e
+G10.1_2562908749_4	prediction	e
+G10.1_2906808597_2	environment structure	m
+G10.1_2906808597_2	robot	e
+G10.1_2906808597_3	compute	e
+G10.1_2906808597_3	likelihood	e
+G10.1_2906808597_3	Monte Carlo simulation	d
+G10.1_2968701259_1	navigate	e
+G10.1_2968701259_1	perception	e
+G10.1_2968701259_2	robot	e
+G10.1_2968701259_3	2D occupancy map	d
+G10.1_2968701259_3	environment representation	e
+G10.1_2968701259_4	collision	e
+G10.1_2968701259_4	dynamic obstacle	e
+G10.1_2968701259_4	replanning	e
+G10.1_2968701259_5	framework	e
+G10.1_2968701259_5	framework	d
+G10.1_2968701259_6	CPU cost	m
+G10.1_2968701259_6	information	e
+G10.1_2968701259_7	real-time 3D footstep planning	d
+G10.1_2968701259_7	real-word experiment	m
+G10.1_2968701259_7	run time	m
+G11.1_2794850674_1	lab automation drone notional concept	d
+G11.1_2794850674_3	limb	e
+G11.1_2794850674_3	micro-array	m
+G11.1_2794850674_4	HTS operation	d
+G11.1_2794850674_5	degree-of-freedom	d
+G11.1_2794850674_5	gripper design	d
+G11.1_2892036907_3	government	e
+G11.1_2892036907_3	operation ceiling	d
+G11.1_2892036907_4	Imitation learning based data driven solution	d
+G11.1_2892036907_4	pilot	e
+G11.1_2892036907_5	39-layered inception model	d
+G11.1_2892036907_5	classifier	d
+G11.1_2892036907_5	image classification algorithm	d
+G11.1_2892036907_6	processing complexity	m
+G11.1_2892036907_6	system	e
+G11.1_2892036907_7	data	e
+G11.1_2892036907_7	semi-urban street	e
+G11.1_2892036907_7	train	e
+G11.1_2892036907_7	urban street	e
+G11.1_2892036907_8	pedestrian	e
+G13.1_2570453702_1	SME	d
+G13.1_2570453702_1	tourism SME	d
+G13.1_3004169763_1	digital trend	m
+G13.1_3004169763_1	mobile technology	e
+G13.1_3004169763_2	business activity	e
+G13.1_3004169763_4	advertise	e
+G13.1_3004169763_4	brand	e
+G13.1_3004169763_4	business entities	m
+G13.1_3004169763_4	Omni-channel retailing	d
+G13.1_3004169763_4	product	e
+G13.1_3004169763_4	promote	e
+G13.1_3004169763_4	social media platform	e
+G13.1_3004169763_7	digital marketing tool selection	e
+G13.1_3004169763_7	internal business process	m
+G13.1_3004169763_7	streamline	d
+M1_1_1	post-exercise period	e
+M1_1_1	training	e
+M1_10_1	alcohol	e
+M1_10_1	post-exercise protein intake	e
+M1_10_1	translation initiation signal	d
+M1_12_1	consecutive resistance exercise	e
+M1_12_1	continuous exercise	e
+M1_12_1	intermittent high-intensity exercise	e
+M1_12_1	post-exercise ingestion	e
+M1_12_1	protein only	e
+M1_12_1	randomized counter-balanced cross-over design	d
+M1_15_1	active recovery	m
+M1_15_1	subject	e
+M1_17_1	CHO-based meal	d
+M1_17_1	post-exercise	e
+M1_17_1	post-exercise glycogen recovery	d
+M1_21_1	beverage	e
+M1_23_1	alcohol	e
+M1_23_1	concurrent resistance	e
+M1_23_1	continuous high-intensity exercise	e
+M1_23_1	impair	e
+M1_23_1	intermittent high-intensity exercise	e
+M1_24_1	alcohol	e
+M1_24_1	athlete	e
+M1_24_1	compliance	e
+M1_24_1	post-exercise protein intake	e
+M1_25_1	alcohol	e
+M1_25_1	intake	e
+M1_27_1	impair	e
+M1_27_1	response	e
+M1_28_1	alcohol	e
+M1_28_1	athlete	e
+M1_28_1	binge drinking	e
+M1_30_1	athlete	e
+M1_30_1	sport performance	e
+M1_4_1	exercise	e
+M1_4_1	high quality protein	m
+M1_6_1	binge drinking practice	e
+M1_6_1	team sport	e
+M1_7_1	exercise	e
+M1_8_1	alcohol intake	e
+M1_8_1	consumption	e
+M1_8_1	muscle protein synthesis	d
+M1_8_1	post-exercise glycogen resynthesis	d
+M1_9_1	anabolic cell signaling	d
+M1_9_1	court sport	m
+M1_9_1	football code	m
+M1_9_1	MPS	d
+M1_9_1	recovery	e
+M1_9_1	rugby code	m
+M1_9_1	team sport	e
+M10_42_1	exercise	e
+M10_42_5	muscle size	e
+M10_42_5	training	e
+M11_43_5	astronaut	e
+M11_43_5	athlete	e
+M11_43_5	occlusion training	m
+M12_44_1	aerobic exercise training	e
+M12_44_1	skeletal muscle size	m
+M12_44_2	alter	e
+M12_44_2	induce	e
+M12_44_3	population	e
+M12_44_3	skeletal muscle mass regulation	d
+M13_45_1	joint range of motion	d
+M13_45_6	interset rest period	e
+M13_45_6	resistance training programme	e
+M13_45_7	active muscle contraction	m
+M13_45_7	muscle architecture	m
+M13_45_7	muscle size	e
+M14_46_1	exercise program	e
+M14_46_2	control	e
+M14_46_2	muscle size	e
+M14_46_3	lower extremity	m
+M14_46_4	resistance training	e
+M14_46_5	muscle quality	m
+M16_48_1	long inter-set rest interval	e
+M16_48_1	resistance training	e
+M16_48_1	short inter-set rest interval	e
+M16_48_3	measure	e
+M16_48_4	differentiation	e
+M17_49_3	naive fibre	d
+M17_49_4	cell biological model	d
+M17_49_6	atrophying muscle tissue	e
+M18_50_3	experimental research	e
+M18_50_3	Meta-analysis with regression	d
+M18_50_5	data	e
+M18_50_5	study	e
+M20_52_5	gait speed	d
+M20_52_5	risk reduction	e
+M20_52_6	resistance training activity	e
+M23_55_5	administer	e
+M23_55_5	prescribe	e
+M24_56_1	individual	e
+M24_56_2	knee pain	e
+M24_56_2	pain	e
+M24_56_3	effectiveness	e
+M24_56_3	improvement	e
+M24_56_3	patient	e
+M24_56_5	treat	e
+M24_56_6	knee function	e
+M25_57_2	condition	e
+M25_57_2	prevention	e
+M25_57_2	treatment	e
+M25_57_5	maximum oxygen intake	d
+M25_57_6	contraindicate	e
+M4_36_1	exercise	e
+M4_36_3	performance	e
+M4_36_3	population	e
+M4_36_4	exercising heart rate	e
+M4_36_4	session	e
+M4_36_5	muscle size	e
+M4_36_5	set	e
+M4_36_5	strength training	e
+M7_39_1	resistance exercise	e
+M7_39_2	experimental study	e
+M7_39_5	volume	m
+M8_40_1	specialized training technique	e
+M8_40_2	drop set	m
+M8_40_2	forced repetition	e
+M8_40_2	heavy negative	d
+M8_40_2	resistance exercise	e
+M8_40_3	resistance training program	e
+M8_40_3	technique	e
+M9_41_2	exercise-induced muscle growth	e
+M9_41_3	rest interval	e
+M9_41_3	train	e
+M9_41_7	exercise training	e
