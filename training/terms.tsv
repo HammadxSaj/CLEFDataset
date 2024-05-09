@@ -1,0 +1,1911 @@
+snt_id	term	difficulty	exp_id
+M1_15_1	PPO	m	1
+G01.1_1533716782_1	network	e	1
+G01.1_1533716782_1	CPU	d	1
+G01.1_1533716782_2	desktop	e	1
+G01.1_1533716782_2	PDA	m	1
+G01.1_1533716782_2	personal digital assistant	e	1
+G01.1_1533716782_2	laptop	e	1
+G01.1_1533716782_3	direct migration	d	1
+G01.1_1533716782_3	linear	d	1
+G01.1_1533716782_3	overview	d	1
+G01.1_1533716782_4	gateway	d	1
+G10.1_2093013061_1	navigation system	m	1
+G10.1_2093013061_2	consumer-grade depth camera	d	1
+G10.1_2093013061_2	odometry	d	1
+G10.1_2093013061_3	compute	m	1
+G10.1_2093013061_4	collisions	e	1
+G10.1_2093013061_5	Nao humanoid	d	1
+G04.1_2339209416_1	annotation	e	1
+G04.1_2339209416_1	bioassay protocols	d	1
+G04.1_2339209416_2	algorithms	d	1
+G04.1_2339209416_3	ontology	d	1
+G04.1_2339209416_4	drug discovery informatics	d	1
+G04.1_2339209416_5	BAO	d	1
+G05.1_2757079914_1	CRISPR-Cas	d	1
+G05.1_2757079914_2	nuclease activity	d	1
+G05.1_2757079914_3	inhibit	e	1
+G05.1_2757079914_3	gene editing	d	1
+G05.1_2757079914_4	phages	d	1
+G08.1_2889349357_1	cryptocurrencies	m	1
+G08.1_2889349357_1	mining code	d	1
+G08.1_2889349357_1	browser	m	1
+G08.1_2889349357_1	JavaScript	d	1
+G08.1_2889349357_1	mining rigs	d	1
+G08.1_2889349357_2	parasitic computing	m	1
+G08.1_2889349357_2	cryptojacking	d	1
+G08.1_2889349357_2	drive-by mining	d	1
+G08.1_2889349357_2	mine	m	1
+G08.1_2889349357_3	mining scripts	m	1
+G08.1_2889349357_5	mining revenue	m	1
+G08.1_2889349357_5	blacklist-based countermeasures	d	1
+G08.1_2889740235_1	runtime	m	1
+G08.1_2889740235_1	art tools	d	1
+G04.3_2941964798_1	antimicrobial resistant bacteria	d	1
+G04.3_2941964798_1	AMR	d	1
+G04.3_2941964798_1	metagenomics	d	1
+G04.3_2941964798_2	next-generation sequencing	d	1
+G04.3_2941964798_2	NGS	d	1
+G04.3_2941964798_2	genotype	d	1
+G04.3_2941964798_2	phenotype	d	1
+G04.3_2941964798_3	bayesian framework	d	1
+G04.3_2941964798_3	Genetic Polymorphisms Assignments	d	1
+G04.3_2941964798_3	GPA	d	1
+G04.3_2941964798_3	false discovery rate	d	1
+G04.3_2941964798_3	FDR	d	1
+G04.3_2941964798_3	mean absolute error	d	1
+G04.3_2941964798_3	MAE	d	1
+G04.3_2941964798_3	single nucleotide variant	d	1
+G04.3_2941964798_3	SNV	d	1
+G06.2_2968176166_2	software	e	1
+G06.2_2968176166_2	simulators	e	1
+G06.2_2968176166_5	automated	e	1
+G06.2_2968176166_5	bayesian	d	1
+G01.1_1019677957_1	mobile tecnology	m	2
+G01.1_1019677957_1	mobile emerging carrier	d	2
+G01.1_1019677957_1	personal digital assistant	d	2
+G01.1_1019677957_1	PDA	d	2
+G01.1_1019677957_1	smart phone	e	2
+G01.1_1019677957_1	e-book	e	2
+G01.1_1019677957_2	mobile carrier	d	2
+G01.1_1019677957_2	context-aware technology	d	2
+G01.1_1019677957_2	wireless network environment	d	2
+G01.1_1019677957_2	learning scenario	e	2
+G01.1_1019677957_2	technology	e	2
+G01.1_1019677957_2	student	e	2
+G01.1_1019677957_2	new learning experience	e	2
+G01.1_1019677957_2	past learning	e	2
+G01.1_1019677957_3	education	e	2
+G01.1_1019677957_3	study	e	2
+G01.1_1019677957_3	mobile learning	d	2
+G01.1_1019677957_3	learning	e	2
+G01.1_1019677957_4	learning method	m	2
+G01.1_1019677957_4	learning strategy	m	2
+G01.1_1019677957_4	mobile learning activity	d	2
+G01.1_1019677957_5	to investigate	m	2
+G01.1_1019677957_5	learning achievement	e	2
+G01.1_1019677957_5	learning attitude	e	2
+G01.1_1019677957_5	elementary school students	e	2
+G01.1_1019677957_5	campus plant learning activity	m	2
+G01.1_1019677957_5	competitive learning strategy	m	2
+G01.1_1019677957_6	experiemenral result	m	2
+G01.1_1019677957_6	to show	m	2
+G01.1_1019677957_6	competetive learning group of students	d	2
+G01.1_1019677957_6	learning performance	m	2
+G01.1_1019677957_6	non-competitive learning group of students	d	2
+G01.1_1019677957_7	learning activity	e	2
+G01.1_1019677957_7	group of students	e	2
+G01.1_1019677957_7	high positive attitude	m	2
+G01.1_131359426_1	percentage	e	2
+G01.1_131359426_1	human population	e	2
+G01.1_131359426_1	to suffer	m	2
+G01.1_131359426_1	impairment	m	2
+G01.1_131359426_1	capacity	m	2
+G01.1_131359426_1	colour	e	2
+G01.1_131359426_2	to navigate	m	2
+G01.1_131359426_2	train network map	m	2
+G01.1_131359426_2	metro network map	m	2
+G01.1_131359426_3	novel technique	m	2
+G01.1_131359426_3	to extract	e	2
+G01.1_131359426_3	colour information	e	2
+G01.1_131359426_3	everyday natural stimuli	m	2
+G01.1_131359426_3	visually impared user	m	2
+G01.1_131359426_3	pleasant sound	e	2
+G01.1_131359426_3	non-invasive sound	e	2
+G01.1_131359426_4	technique	e	2
+G01.1_131359426_4	personal digital assistant	d	2
+G01.1_131359426_4	PDA	d	2
+G01.1_131359426_4	portable device	m	2
+G01.1_131359426_5	implementation	m	2
+G01.1_131359426_5	colour information	e	2
+G01.1_131359426_5	to extract	e	2
+G01.1_131359426_5	input image	m	2
+G01.1_131359426_5	colour space	d	2
+G01.1_131359426_6	information	e	2
+G01.1_131359426_6	to convert	m	2
+G01.1_131359426_6	sound	e	2
+G01.1_131359426_6	to send	e	2
+G01.1_131359426_6	user	e	2
+G01.1_131359426_6	speaker	e	2
+G01.1_131359426_6	headphones	e	2
+G01.1_131359426_7	original implementation	m	2
+G01.1_131359426_7	feedbacks	e	2
+G01.1_131359426_7	to reconfigure	m	2
+G01.1_131359426_7	system	e	2
+G01.1_131359426_7	feature	e	2
+G01.1_131359426_7	current technology	e	2
+G01.1_131359426_7	full implementation	m	2
+G01.1_131359426_7	PDA technology	d	2
+G01.1_151188962_1	pedestrian navigation	d	2
+G01.1_151188962_1	pedestrian	e	2
+G01.1_151188962_1	car navigation	m	2
+G01.1_151188962_2	3dimentional map	e	2
+G01.1_151188962_2	3D map	e	2
+G01.1_151188962_2	machine vision research	d	2
+G01.1_151188962_2	simulation tool	m	2
+G01.1_151188962_2	city planning	d	2
+G01.1_151188962_2	landscape planning	d	2
+G01.1_151188962_3	2-dimensional map	e	2
+G01.1_151188962_3	2D map	e	2
+G01.1_151188962_5	navigation	m	2
+G01.1_151188962_5	object search experiment	d	2
+G01.1_151188962_5	3D maps with texture	d	2
+G01.1_151188962_5	3D maps without texture	d	2
+G01.1_151188962_5	display size	e	2
+G01.1_151188962_5	mobile phone	e	2
+G01.1_151188962_5	PDA	d	2
+G01.1_151188962_5	personal digital assistant	d	2
+G01.1_151188962_6	experimental results	e	2
+G01.1_151188962_6	mobile phone display size	e	2
+G01.1_151188962_6	PDA display size	d	2
+G01.1_151188962_6	search time	m	2
+G01.1_151188962_6	error rate	m	2
+G01.1_151188962_7	results	e	2
+G01.1_151188962_7	effectiveness	e	2
+G01.1_1527694686_1	ubiquitous environment	d	2
+G01.1_1527694686_1	mobile terminal	d	2
+G01.1_1527694686_1	personal digital assistant	d	2
+G01.1_1527694686_1	cellular phone	e	2
+G01.1_1527694686_1	web	e	2
+G01.1_1527694686_10	procedure	e	2
+G01.1_1527694686_10	ubiquitous passive viewer system	d	2
+G01.1_1527694686_10	universal passive viewer system	d	2
+G01.1_1527694686_10	u-PaV system	d	2
+G01.1_1527694686_10	web content	e	2
+G01.1_1527694686_10	passive viewing content	m	2
+G01.1_1527694686_11	image	e	2
+G01.1_1527694686_11	text	e	2
+G01.1_1527694686_11	Macromedia Flash file	d	2
+G01.1_1527694686_11	multimedia format	m	2
+G01.1_1527694686_2	terminal type	d	2
+G01.1_1527694686_2	web interface	m	2
+G01.1_1527694686_2	personal computer	m	2
+G01.1_1527694686_3	desktop terminal	d	2
+G01.1_1527694686_3	device	e	2
+G01.1_1527694686_3	screen resolution	m	2
+G01.1_1527694686_3	sound faithfulness	m	2
+G01.1_1527694686_3	presentation	m	2
+G01.1_1527694686_3	terminal	d	2
+G01.1_1527694686_4	interactive access style	m	2
+G01.1_1527694686_4	passive access style	m	2
+G01.1_1527694686_4	lacking information	e	2
+G01.1_1527694686_4	transformation	e	2
+G01.1_1527694686_5	play style	m	2
+G01.1_1527694686_5	visual presentation	m	2
+G01.1_1527694686_6	keyword analysis	d	2
+G01.1_1527694686_6	emotional aspect	e	2
+G01.1_1527694686_6	web page	e	2
+G01.1_1527694686_6	background colour	m	2
+G01.1_1527694686_6	screen	e	2
+G01.1_1527694686_7	subject	e	2
+G01.1_1527694686_7	content	e	2
+G01.1_1527694686_7	logotype	d	2
+G01.1_1527694686_7	keyword	e	2
+G01.1_1527694686_8	picture	e	2
+G01.1_1527694686_8	visual effect	m	2
+G01.1_1527694686_9	procedure	m	2
+M1_19_1	alcohol ingestion protocol	d	2
+M1_19_1	g·kg−1 BM	d	2
+M1_19_1	standard drink	d	2
+M1_19_1	post-exercise	e	2
+M1_19_1	to consume	m	2
+M1_19_1	volume	m	2
+M1_19_1	vodka	e	2
+M1_19_1	mL	e	2
+M1_19_1	orange juice	e	2
+M1_19_1	g CHO·kg−1 BM	d	2
+G06.2_2810968146_1	end-to-end neural network architecture	d	2
+G06.2_2810968146_1	to train	e	2
+G06.2_2810968146_1	unconstrained self-driving vehicle	d	2
+G06.2_2810968146_1	simulated environment	m	2
+G06.2_2810968146_2	model	e	2
+G06.2_2810968146_2	to be fed	e	2
+G06.2_2810968146_2	image	e	2
+G06.2_2810968146_2	front	e	2
+G06.2_2810968146_2	simulated F1 car	d	2
+G06.2_2810968146_2	to output	m	2
+G06.2_2810968146_2	optimal label	e	2
+G06.2_2810968146_2	steering	e	2
+G06.2_2810968146_2	throttle	e	2
+G06.2_2810968146_2	braking	e	2
+G06.2_2810968146_3	to detect	e	2
+G06.2_2810968146_3	road features	e	2
+G06.2_2810968146_3	outline of a track	e	2
+G06.2_2810968146_3	distance to other cars	e	2
+G06.2_2810968146_3	latent features	m	2
+G06.2_2810968146_3	network	d	2
+G08.1_2895247503_1	bitcoin	d	2
+G08.1_2895247503_1	creation	e	2
+G08.1_2895247503_1	increasingly attractive target	e	2
+G08.1_2895247503_1	adversary	e	2
+G01.1_131359426_3	natural stimuli	e	3
+G01.1_131359426_3	visually impaired user	m	3
+G01.1_131359426_4	PDA	d	3
+G01.1_131359426_4	personal digital assistant	e	3
+G01.1_131359426_4	portable device	e	3
+G01.1_131359426_5	imput image	e	3
+G01.1_131359426_5	colour space	m	3
+G01.1_150012053_1	wireless technology	e	3
+G01.1_150012053_1	mobile technology	m	3
+G01.1_150012053_1	platform	e	3
+G01.1_150012053_1	learning space	e	3
+G01.1_150012053_2	mobile terminal	d	3
+G01.1_150012053_2	PDA	d	3
+G01.1_150012053_2	personal digital assistant	e	3
+G01.1_150012053_2	learning system	e	3
+G01.1_150012053_3	intelligence exchange	m	3
+G01.1_150012053_4	LOCH	d	3
+G01.1_150012053_4	language learning outside the classroom	e	3
+G01.1_150012053_5	KM	d	3
+G01.1_150012053_5	knowledge management	m	3
+G01.1_150012053_5	learning environment	e	3
+G01.1_1530854586_1	wireless computing technology	d	3
+G01.1_1530854586_1	mobile computing technology	d	3
+G01.1_1530854586_1	patient care	e	3
+G01.1_1530854586_1	information technology	m	3
+G01.1_1530854586_1	communication technology	m	3
+G01.1_1530854586_1	healthcare professional	e	3
+G01.1_1530854586_1	healthcare research	e	3
+G01.1_1530854586_1	medical education	e	3
+G01.1_1530854586_1	medical training	e	3
+G01.1_1530854586_2	design	m	3
+G01.1_1530854586_2	systematic review	m	3
+G01.1_1530854586_2	database	e	3
+G01.1_1530854586_4	network	e	3
+G01.1_1532553277_1	microcontroller	d	3
+G01.1_1532553277_1	voltage harmonic	d	3
+G01.1_1532553277_1	long-range monitor	m	3
+G01.1_1532553277_2	harmonic	d	3
+G01.1_1532553277_2	FFT	d	3
+G01.1_1532553277_2	fast fourier transform	d	3
+G01.1_1532553277_3	work mode	m	3
+G01.1_1532553277_3	native	e	3
+G01.1_1532553277_3	remote	e	3
+G01.1_1532553277_4	monitor centre	e	3
+G01.1_1532553277_4	telephone line	e	3
+G01.1_1532553277_4	serial port	m	3
+G01.1_1532553277_4	IC card	d	3
+G01.1_1532553277_4	PDA	d	3
+G01.1_1532553277_4	personal digital assistant	e	3
+G11.1_2892036907_1	automation	e	3
+G11.1_2892036907_1	robotics	e	3
+G11.1_2892036907_1	autonomous vehicles	e	3
+G11.1_2892036907_2	unmanned aerial vehicle	m	3
+G11.1_2892036907_2	autonomy	e	3
+G11.1_2892036907_3	operation ceiling	d	3
+G11.1_2892036907_3	road-tracking based	m	3
+G11.1_2892036907_4	imitation learning based	m	3
+G11.1_2892036907_4	data-driven	e	3
+G11.1_2892036907_4	UAV autonomy	d	3
+G11.1_2892036907_5	inception model	d	3
+G11.1_2892036907_5	tomographic reconstruction	m	3
+G11.1_2892036907_5	input frame	e	3
+G11.1_2892036907_7	drone	e	3
+G11.1_2892036907_9	drone data	e	3
+G11.1_2892036907_10	computational efficiency	m	3
+G11.1_2892036907_10	MAVNet	d	3
+G11.1_2892036907_11	vision based	m	3
+G01.2_1448624402_1	biases	m	4
+G01.2_1448624402_1	decision-making	e	4
+G01.2_1448624402_2	decision-making biases	m	4
+G01.2_1448624402_2	managers	e	4
+G01.2_1448624402_2	collaborative decision processes	m	4
+G01.2_1448624402_2	organizational performance	m	4
+G01.2_1448624402_3	managerial decisions	m	4
+G01.2_1448624402_3	organizational complexity	m	4
+G01.2_1448624402_3	incentive systems	m	4
+G01.2_1448624402_3	biases	m	4
+G01.2_1448624402_3	descriptive decision theory	d	4
+G01.2_1448624402_4	biases	m	4
+G01.2_1448624402_4	organizational contexts	m	4
+G01.2_1448624402_4	organizational performance	m	4
+G01.2_1448624402_5	combinations of biases	m	4
+G01.2_1448624402_5	organizational performance	m	4
+G01.2_1448624402_5	biases	m	4
+G01.2_1448624402_5	organizational performance	m	4
+G01.2_1448624402_6	decision-making	e	4
+G01.1_1500084159_1	patientu0027	d	4
+G01.1_1500084159_1	real-time vital signs	e	4
+G01.1_1500084159_1	Body Area Networks	d	4
+G01.1_1500084159_1	(BAN)	d	4
+G01.1_1500084159_1	medical practitioners	m	4
+G01.1_1500084159_3	patients	e	4
+G01.1_1500084159_3	cardiac disorders	m	4
+G01.1_1500084159_3	sensing device	m	4
+G01.1_1500084159_3	communication scheme	m	4
+G01.1_1500084159_4	wearable physiological devices	m	4
+G01.1_1500084159_4	Patient Sensing Device	d	4
+G01.1_1500084159_4	PSD	d	4
+G01.1_1500084159_4	Healthcare systems	d	4
+G01.1_1500084159_4	elderly patients	e	4
+G01.1_1500084159_5	detachable PSD	d	4
+G01.1_1500084159_5	comfort of patients	e	4
+G01.1_1500084159_7	Electrocardiogram signal	m	4
+G01.1_1500084159_7	ECG	m	4
+G01.1_1500084159_7	body temperature	e	4
+G01.1_1500084159_7	vital signs	e	4
+G01.1_1500084159_8	mobile smart-phone	e	4
+G01.1_1500084159_8	ECG and temperature acquisition apparatus	m	4
+G01.1_1500084159_8	Bluetooth	m	4
+G01.1_1500084159_9	Data Management System — Periodic Model	d	4
+G01.1_1500084159_9	DMS — PM	d	4
+G01.1_1500084159_9	wireless interface	m	4
+G01.1_1500084159_9	sensor units	m	4
+G01.1_1500084159_9	patient database	m	4
+G01.1_1500084159_9	Medical Service Provider	d	4
+G01.1_1500084159_9	MSP	d	4
+G01.1_1500084159_9	Personal Digital Assistant	d	4
+G01.1_1500084159_9	PDA	d	4
+G01.1_1500084159_9	GSM network	d	4
+G01.1_1511670876_1	personal digital assistant-based clinical decision support system	d	4
+G01.1_1511670876_1	PDA	d	4
+G01.1_1511670876_1	CDSS	d	4
+G01.1_1511670876_1	nonsteroidal anti-inflammatory drug	d	4
+G01.1_1511670876_1	NSAID	d	4
+G01.1_1511670876_1	outpatient	m	4
+G01.1_1511670876_2	Internal medicine residents	m	4
+G01.1_1511670876_2	PDA-based CDSS suite	d	4
+G01.1_1511670876_3	intervention residents	m	4
+G01.1_1511670876_3	CDSS	d	4
+G01.1_1511670876_3	NSAID-related gastrointestinal risk	d	4
+G01.1_1511670876_4	standardized patients	d	4
+G01.1_1511670876_4	SPs	d	4
+G01.1_1511670876_4	musculoskeletal symptoms	m	4
+G01.1_1511670876_4	study physicians	e	4
+G01.1_1511670876_5	prescriptions	e	4
+G01.1_1511670876_5	SPs	d	4
+G01.1_1511670876_6	committee of clinicians	m	4
+G01.1_1511670876_6	prescriptions	e	4
+G01.1_1511670876_7	prescribing of NSAIDs	d	4
+G01.1_1511670876_7	phisician	e	4
+G01.1_1511670876_8	CDSS	d	4
+G01.1_1511670876_9	CDSS	d	4
+G01.1_1511670876_9	gastrointestinal risk	m	4
+G01.1_1511670876_9	PDA-based CDSS	d	4
+G01.1_1511670876_9	NSAID prescription	d	4
+G01.1_1511670876_9	CDSS	d	4
+M1_27_1	alcohol	e	4
+M1_27_1	MPS	d	4
+M1_27_1	exercise recovery	e	4
+M1_27_1	human skeletal muscle	m	4
+M1_27_1	nutrient provision	e	4
+G03.1_2949291273_1	smart speakers	m	4
+G03.1_2949291273_1	human voice	e	4
+G03.1_2949291273_1	machine voice	e	4
+G03.1_2949291273_2	voice commands	e	4
+G03.1_2949291273_2	smart speaker	m	4
+G03.1_2949291273_3	machine-voice based attacks	m	4
+G03.1_2949291273_3	smart speaker	m	4
+G03.1_2949291273_3	speaker	e	4
+G03.1_2949291273_3	microphone array	m	4
+G03.1_2949291273_3	smart speaker	m	4
+M25_57_1	patients	e	4
+M25_57_1	hypertension	m	4
+M25_57_2	disease control	m	4
+M25_57_2	prevention of hypertension	m	4
+M25_57_2	treatment of hypertension	m	4
+M25_57_3	activities of daily living	e	4
+M25_57_3	physical exercise	e	4
+M25_57_4	exercise prescriptions	e	4
+M25_57_4	type	e	4
+M25_57_4	intensity	e	4
+M25_57_4	duration per session	e	4
+M25_57_4	frequency	e	4
+M25_57_4	prevention of hypertension	m	4
+M25_57_4	treatment of hypertension	m	4
+M25_57_5	whole-body aerobic exercise	e	4
+M25_57_5	moderate intensity	e	4
+M25_57_5	muscle groups	m	4
+M25_57_5	prevention of hypertension	m	4
+M25_57_5	treatment of hypertension	m	4
+M25_57_6	resistance exercise	e	4
+M25_57_6	low-intensity	e	4
+M25_57_6	breath-holding	e	4
+M25_57_6	supplementary exercise	e	4
+M25_57_6	resistance exercise	e	4
+M25_57_1	patients	e	4
+M25_57_6	hypertension	m	4
+M25_57_6	chest symptoms	e	4
+M25_57_6	chest pain	e	4
+G01.1_1493916683_1	M-CALL	d	5
+G01.1_1493916683_1	mobile computer-assisted language learning coursware	e	5
+G01.1_1493916683_2	conventional computer-assisted language learning	e	5
+G01.1_1493916683_2	cyber pet game	e	5
+G01.1_1493916683_3	personal digital assistant	e	5
+G01.1_1493916683_3	public wireless LAN	d	5
+G01.1_1493916683_4	cyber pet game	e	5
+G01.1_1493916683_5	Korean Proficiency Test	d	5
+G01.1_1493916683_5	KPT	d	5
+G01.1_1493916683_6	mobile learning courseware	e	5
+G01.1_1493916683_6	mobile learning system	e	5
+G01.1_1493916683_6	mobile tutoring	e	5
+G01.1_1493916683_8	prototype	e	5
+G01.1_1493916683_8	mobile PDA	d	5
+G01.1_1493916683_8	personal computer	e	5
+G01.1_1504856008_1	hardware	e	5
+G01.1_1504856008_1	smartcard	d	5
+G01.1_1504856008_1	user	e	5
+G01.1_1504856008_2	means	e	5
+G01.1_1504856008_2	owner	e	5
+G01.1_1504856008_2	positive property	e	5
+G01.1_1504856008_3	area	e	5
+G01.1_1504856008_3	border	e	5
+G01.1_1504856008_3	machine	e	5
+G01.1_1504856008_4	Personal Digital Assistant	e	5
+G01.1_1504856008_4	extension	e	5
+G01.1_1504856008_4	private sphere	e	5
+G01.1_1504856008_4	functionality	e	5
+G01.1_1504856008_4	resource	e	5
+G01.1_1504856008_4	digital signatures	e	5
+G01.1_1504856008_5	memory prothesis	d	5
+G01.1_1504856008_5	tamper	d	5
+G01.1_1504856008_6	card	e	5
+G01.1_1504856008_6	infrastructure	e	5
+G01.1_1504856008_7	standard	e	5
+G01.1_1504856008_7	nontrivial distributed system	d	5
+G01.1_1504856008_7	first class citizen	e	5
+G01.1_1504856008_8	designers	e	5
+G01.1_1516508996_2	design	e	5
+G01.1_1516508996_2	communications device	e	5
+G01.1_1516508996_2	RV4640	d	5
+G01.1_1516508996_2	processing engine	d	5
+G01.1_1516508996_3	device	e	5
+G01.1_1516508996_3	PCI bus	e	5
+G01.1_1516508996_3	IDT ATM NIC	d	5
+G01.1_1516508996_4	two way pager	d	5
+G01.1_1516508996_4	set-top box	d	5
+G01.1_1516508996_4	internet terminal	d	5
+G01.1_1516508996_4	personal digital assistant	e	5
+G01.1_1516508996_4	video phone	e	5
+G01.1_1516508996_5	64 bit RISC processor	e	5
+G01.1_1516508996_5	dhrystone MIPS	d	5
+G01.1_1516508996_5	MHz	e	5
+G01.1_1516508996_6	system interface chip	e	5
+G01.1_1516508996_6	I/O	e	5
+G01.1_1516508996_6	memory control	e	5
+G01.1_1516508996_7	full duplexed	d	5
+G01.1_1516508996_7	NIC	e	5
+G01.1_1516508996_7	PCI bus interface	e	5
+G01.1_1516508996_8	highspeed videoconferencing	e	5
+G01.1_1516508996_8	multimedia applications	e	5
+G07.2_2749521565_1	philosophy	e	5
+G07.2_2749521565_1	belief	e	5
+G07.2_2749521565_1	conspiracy theory	e	5
+G07.2_2749521565_1	evidential approach	d	5
+G07.2_2749521565_1	merit	e	5
+G07.2_2749521565_2	evidential problem	e	5
+G07.2_2749521565_3	principle	e	5
+G07.2_2749521565_3	prima facie case	d	5
+G07.2_2749521565_3	scepticism	e	5
+G07.1_2888100547_1	online social media	e	5
+G07.1_2888100547_1	user	e	5
+G07.1_2888100547_2	misinformation	e	5
+G07.1_2888100547_2	confirmation bias	d	5
+G07.1_2888100547_2	personalized news algorithm	e	5
+G07.1_2888100547_2	self-reinforcing mechanism	e	5
+G07.1_2888100547_3	theoretical understanding	e	5
+G07.1_2888100547_3	trade-off	d	5
+G07.1_2888100547_4	learning model	e	5
+G07.1_2888100547_4	pre-existing belief	e	5
+G07.1_2888100547_5	polarisation	e	5
+G07.1_2888100547_6	gatekeeper	e	5
+G07.1_2888100547_7	analytic result	e	5
+G07.1_2888100547_7	social connectivity	d	5
+G07.1_2888100547_7	country-level data	d	5
+G07.1_2888100547_7	global warming	e	5
+G07.1_2888100547_8	accuracy	e	5
+G07.1_2888100547_8	social network	e	5
+G07.1_2888100547_9	optimal value	e	5
+G07.1_2888100547_9	information flow	e	5
+G07.1_2888100547_10	policy implications	e	5
+G07.1_2888100547_10	strategy	e	5
+G07.1_2888100547_10	alternative strategy	e	5
+M1_7_1	binge drinking	e	5
+M1_7_1	direct effect	e	5
+M1_7_1	alcohol	e	5
+M1_7_1	psychological processes	e	5
+M1_7_1	indirect effect	e	5
+M1_7_1	athlete	e	5
+M1_7_1	recovery	e	5
+M1_7_1	intoxication	e	5
+M22_54_1	recovery	e	6
+M22_54_1	exercise	e	6
+M22_54_1	time period	e	6
+M22_54_1	end	e	6
+M22_54_1	bout	m	6
+M22_54_1	return	e	6
+M22_54_1	resting state	e	6
+M22_54_1	recovered state	e	6
+M22_54_2	physiological processes	m	6
+M22_54_2	physiological states	m	6
+M22_54_2	exercise	e	6
+M22_54_2	physiology	e	6
+M22_54_2	exercising states	e	6
+M22_54_2	resting states	e	6
+M22_54_3	context	e	6
+M22_54_3	recovery	e	6
+M22_54_3	cardiovascular system	m	6
+M22_54_3	exercise	e	6
+M22_54_3	period	e	6
+M22_54_3	minutes	e	6
+M22_54_3	hours	e	6
+M22_54_3	characteristics	e	6
+M22_54_3	system	e	6
+M22_54_3	time	e	6
+M22_54_4	changes	e	6
+M22_54_4	long-term adaptation	e	6
+M22_54_4	exercise training	e	6
+M22_54_4	cardiovascular instability	m	6
+M22_54_4	recovery	e	6
+M22_54_5	changes	e	6
+M22_54_5	insight	e	6
+M22_54_5	cardiovascular system	m	6
+M22_54_5	prior training	e	6
+M22_54_5	additional training stress	e	6
+M22_54_6	review	e	6
+M22_54_6	hemodynamic adjustments	d	6
+M22_54_6	underlying causes	e	6
+M22_54_6	cardiovascular recovery	m	6
+M22_54_6	resistance	e	6
+M22_54_6	aerobic exercise	m	6
+M22_54_7	primary emphasis	e	6
+M22_54_7	hypotensive effect	d	6
+M22_54_7	aerobic exercise	m	6
+M22_54_7	resistance exercise	m	6
+M22_54_7	mechanisms	e	6
+M22_54_7	clinical relevance	e	6
+M22_54_7	symptomatic hypotension	d	6
+M22_54_7	syncope	d	6
+M22_54_8	practical application	e	6
+M22_54_8	information	e	6
+M22_54_8	strategies	e	6
+M22_54_8	benefits	e	6
+M22_54_8	cardiovascular recovery	m	6
+M22_54_8	vulnerability	e	6
+M22_54_8	state	e	6
+M22_54_9	appropriate field measures	e	6
+M22_54_9	athlete	e	6
+M22_54_9	training	e	6
+M23_55_1	exercise	e	6
+M23_55_1	physical activity	e	6
+M23_55_1	key tools	e	6
+M23_55_1	treatment	e	6
+M23_55_1	prevention	e	6
+M23_55_1	medical conditions	e	6
+M23_55_1	arthritis	m	6
+M23_55_1	diabetes	m	6
+M23_55_1	notion	e	6
+M23_55_1	exercise	e	6
+M23_55_1	medicine	e	6
+M23_55_2	exercise	e	6
+M23_55_2	favorable effects	e	6
+M23_55_2	cardiovascular risk	m	6
+M23_55_2	inflammation	e	6
+M23_55_2	cachexia	d	6
+M23_55_2	hypertension	m	6
+M23_55_2	physical functioning	e	6
+M23_55_2	strenght	e	6
+M23_55_2	cardio-respiratory capacity	m	6
+M23_55_3	chronic kidney diseade	d	6
+M23_55_3	condition	e	6
+M23_55_3	population	e	6
+M23_55_3	target	e	6
+M23_55_3	exercise-based therapy	m	6
+M23_55_4	range of severity	e	6
+M23_55_4	kidney disease	m	6
+M23_55_4	pre-dyalisis	d	6
+M23_55_4	dialysis	d	6
+M23_55_4	transplant	m	6
+M23_55_4	exercise	e	6
+M23_55_4	role	e	6
+M23_55_4	patients	e	6
+M23_55_4	condition	e	6
+M23_55_5	review	e	6
+M23_55_5	role	e	6
+M23_55_5	exercise	e	6
+M23_55_5	clinical management	m	6
+M23_55_5	kidney disease	m	6
+M23_55_5	form	e	6
+M23_55_5	medicine	e	6
+M24_56_1	blood flow restriction	m	6
+M24_56_1	BFR	d	6
+M24_56_1	clinical intervention	e	6
+M24_56_1	strenght	e	6
+M24_56_1	healhy individuals	e	6
+M24_56_2	effects	e	6
+M24_56_2	pain	e	6
+M24_56_2	function	e	6
+M24_56_2	individuals	e	6
+M24_56_2	knee pain	e	6
+M24_56_3	objective	e	6
+M24_56_3	effectiveness	e	6
+M24_56_3	BFR	d	6
+M24_56_3	resistance exercise	m	6
+M24_56_3	pain relief	e	6
+M24_56_3	improvement	e	6
+M24_56_3	function	e	6
+M24_56_3	patients	e	6
+M24_56_3	knee pain	e	6
+M24_56_4	methods	e	6
+M24_56_4	review	e	6
+M24_56_4	meta-analysis	m	6
+M24_56_4	randomized clinical trials	m	6
+M24_56_5	randomized clinical trials	m	6
+M24_56_5	resistance exercise	m	6
+M24_56_5	BFR	d	6
+M24_56_5	knee pain	e	6
+M24_56_5	function	e	6
+M24_56_5	individuals	e	6
+M24_56_5	years	e	6
+M24_56_5	age	e	6
+M24_56_5	knee pain	e	6
+M24_56_6	standardized mean difference	d	6
+M24_56_6	SMD	d	6
+M24_56_6	estimate	e	6
+M24_56_6	resistance exercises	m	6
+M24_56_6	BFR	d	6
+M24_56_6	resistance exercises	m	6
+M24_56_6	pain	e	6
+M24_56_6	SMD	d	6
+M24_56_6	knee function	e	6
+M24_56_6	cm	e	6
+M24_56_6	points	e	6
+M24_56_6	patients	e	6
+M24_56_6	knee pain	e	6
+M25_57_1	Japan	e	6
+M25_57_1	millions	e	6
+M25_57_1	patients	e	6
+M25_57_1	hypertension	m	6
+M25_57_2	management	e	6
+M25_57_2	condition	e	6
+M25_57_2	priority	e	6
+M25_57_2	disease control	e	6
+M25_57_2	importance	e	6
+M25_57_2	lifestyle changes	e	6
+M25_57_2	prevention	e	6
+M25_57_2	treatment	e	6
+M25_57_2	hypertension	m	6
+M25_57_2	Japan	e	6
+M25_57_3	emphasis	e	6
+M25_57_3	levels	e	6
+M25_57_3	activities	e	6
+M25_57_3	daily living	e	6
+M25_57_3	physical exercise	e	6
+M25_57_3	sports	e	6
+M25_57_4	literature review	e	6
+M25_57_4	exercise prescriptions	e	6
+M25_57_4	type	e	6
+M25_57_4	duration	e	6
+M25_57_4	intensity	e	6
+M25_57_4	session	e	6
+M25_57_4	frequency	e	6
+M25_57_4	prevention	e	6
+M25_57_4	treatment	e	6
+M25_57_4	hypertension	m	6
+M25_57_4	articles	e	6
+M25_57_5	review	e	6
+M25_57_5	aerobic exercise	m	6
+M25_57_5	moderate intensity	e	6
+M25_57_5	maximum oxygen intake	m	6
+M25_57_5	min	e	6
+M25_57_5	session	e	6
+M25_57_5	times	e	6
+M25_57_5	week	e	6
+M25_57_5	major muscle groups	e	6
+M25_57_5	prevention	e	6
+M25_57_5	treatment	e	6
+M25_57_5	hypertension	m	6
+M25_57_6	resistance exercise	m	6
+M25_57_6	low-intensity	e	6
+M25_57_6	breath-holding	e	6
+M25_57_6	supplementary exercise	m	6
+M25_57_6	resistance exercise	m	6
+M25_57_6	patients	e	6
+M25_57_6	hypertention	m	6
+M25_57_6	chest symptoms	e	6
+M25_57_6	chest pain	e	6
+G09.1_754200012_1	image tampering	m	6
+G09.1_754200012_1	digital techniques	e	6
+G09.1_754200012_1	problems	e	6
+G09.1_754200012_1	authenticity	e	6
+G09.1_754200012_1	images	e	6
+G09.1_754200012_2	multimedia data	e	6
+G09.1_754200012_2	JPEG images	m	6
+G09.1_754200012_2	clues	e	6
+G09.1_754200012_2	JPEG-based forensics	d	6
+G09.1_754200012_2	detection	e	6
+G09.1_754200012_2	double compression	d	6
+G09.1_754200012_2	interpolation	d	6
+G09.1_754200012_2	rotation	e	6
+G09.1_754200012_2	research topic	e	6
+G09.1_754200012_2	multimedia forensics	m	6
+G09.1_754200012_3	issue	e	6
+G09.1_754200012_3	image tampering	m	6
+G09.1_754200012_3	operations	e	6
+G09.1_754200012_3	quantization matrix	d	6
+G09.1_754200012_4	forgery manipulations	m	6
+G09.1_754200012_4	quantization matrix	d	6
+G09.1_754200012_4	detection method	m	6
+G09.1_754200012_4	shift-recompression -based reshuffle characteristic features	d	6
+G09.1_754200012_5	learning classifiers	m	6
+G09.1_754200012_5	classification	e	6
+G09.1_754200012_6	experimental results	e	6
+G09.1_754200012_6	approach	e	6
+G09.1_754200012_6	image tampering	m	6
+G09.1_754200012_6	manipulations	m	6
+G09.1_754200012_6	quantization matrix	d	6
+M1_17_1	meal	e	7
+M1_17_1	muscle biopsy	d	7
+M1_17_1	glycogen	m	7
+M1_17_1	recovery	e	7
+G07.1_2894304194_1	superintelligence	m	7
+G07.1_2894304194_1	artificial intelligence	m	7
+G07.1_2894304194_1	humans	e	7
+G07.1_2894304194_3	subject	e	7
+G07.1_2894304194_3	misinformation	e	7
+G07.1_2894304194_4	developers	e	7
+G07.1_2894304194_5	strategies	e	7
+G07.1_2894304194_6	spread	e	7
+G07.1_2894304194_8	education programs	e	7
+G07.1_2894304194_8	consensus	e	7
+G07.1_2950010073_1	online misinformation	m	7
+G07.1_2950010073_1	public panic	e	7
+G07.1_2950010073_1	economic damages	e	7
+G07.1_2950010073_2	problem	e	7
+G07.1_2950010073_2	spread	e	7
+G07.1_2950010073_2	social networks	e	7
+G07.1_2950010073_3	analysis	e	7
+G07.1_2950010073_3	cascades	e	7
+G07.1_2950010073_4	model	e	7
+G07.1_2950010073_4	multi-cascade diffusion	d	7
+G07.1_2950010073_4	cascade priority	d	7
+G07.1_2950010073_5	polynomial time	d	7
+G07.1_2950010073_7	algorithms	e	7
+G07.1_2950010073_8	results	e	7
+G06.2_2954032282_1	safety	e	7
+G06.2_2954032282_1	self-driving cars	m	7
+G06.2_2954032282_1	industry	e	7
+G06.2_2954032282_1	authorities	e	7
+G06.2_2954032282_2	traffic	e	7
+G06.2_2954032282_2	fatalities	e	7
+G06.2_2954032282_3	virtual tests	m	7
+G06.2_2954032282_3	software	e	7
+G06.2_2954032282_3	computer simulations	m	7
+G06.2_2954032282_4	driving situations	e	7
+G06.2_2954032282_6	lane	e	7
+G06.2_2954032282_6	road	e	7
+G10.1_2968701259_1	environment	e	7
+G10.1_2968701259_1	mobile robots	m	7
+G10.1_2968701259_2	humanoids	m	7
+G10.1_2968701259_2	wheeled robots	m	7
+G10.1_2968701259_3	occupancy map	m	7
+G10.1_2968701259_3	path	e	7
+G10.1_2968701259_3	height information	m	7
+G10.1_2968701259_4	obstacles	e	7
+G10.1_2968701259_4	stages	e	7
+G10.1_2968701259_5	planar regions	m	7
+G10.1_2968701259_5	height maps	m	7
+G10.1_2968701259_6	system	e	7
+G10.1_2968701259_6	prediction maps	m	7
+G10.1_2968701259_6	CPU	m	7
+G10.1_2968701259_7	simulation	e	7
+G10.1_2968701259_7	computation cycle	d	7
+G10.1_2968701259_7	footstep planning	d	7
+G01.1_147704292_1	partners in health	m	8
+G01.1_147704292_1	PIH	d	8
+G01.1_147704292_1	socios en salud	m	8
+G01.1_147704292_1	SES	d	8
+G01.1_147704292_1	multidrug-resistant tuberculosis	m	8
+G01.1_147704292_1	MDR-TB	d	8
+G01.1_147704292_1	peruvian national TB program	m	8
+G01.1_147704292_1	NTP	d	8
+G01.1_147704292_2	bacteriology tests	m	8
+G01.1_147704292_2	health establishment	e	8
+G01.1_147704292_2	treatment	e	8
+G01.1_147704292_3	electronic medical record system	m	8
+G01.1_147704292_3	personal digital assistant	e	8
+G01.1_147704292_3	PDA	m	8
+G01.1_147704292_3	bacteriology data	m	8
+G01.1_147704292_3	PIH-EMR	d	8
+G01.1_147704292_4	implementation period	e	8
+G01.1_147704292_4	pilot study	m	8
+G01.1_147704292_5	health district	e	8
+G01.1_147704292_5	baseline assessment	m	8
+M1_21_1	subject	e	8
+G04.3_2941964798_1	antimicrobial resistant bacteria	m	8
+G04.3_2941964798_1	AMR	d	8
+G04.3_2941964798_1	metagenomics sample	d	8
+G04.3_2941964798_1	public health	e	8
+G04.3_2941964798_1	food safety	e	8
+G04.3_2941964798_2	next-generation sequencing technology	d	8
+G04.3_2941964798_2	NGS	d	8
+G04.3_2941964798_2	genetic variation	d	8
+G04.3_2941964798_2	genotype	e	8
+G04.3_2941964798_2	phenotype	e	8
+G04.3_2941964798_3	bayesian framework	d	8
+G04.3_2941964798_3	bacteria	e	8
+G04.3_2941964798_3	genetic polymorphisms assignment	d	8
+G04.3_2941964798_3	GPA	d	8
+G04.3_2941964798_3	false discovery rate	d	8
+G04.3_2941964798_3	FDR	d	8
+G04.3_2941964798_3	mean absolute error	d	8
+G04.3_2941964798_3	MAE	d	8
+G04.3_2941964798_3	single nucleotide variant identification	d	8
+G04.3_2941964798_3	SNV	d	8
+M17_49_1	memory	e	8
+M17_49_2	vertebrate	e	8
+M17_49_2	brain	e	8
+M17_49_3	cellular memory	m	8
+M17_49_3	skeletal muscle	e	8
+M17_49_3	hypertrophy	e	8
+M17_49_3	fibre	m	8
+M17_49_4	cell	e	8
+M17_49_4	biological model	d	8
+M17_49_4	myonucleus	d	8
+M17_49_5	satellite cell	d	8
+M17_49_5	hypertrophic growth	e	8
+M17_49_6	grave atrophy	m	8
+M17_49_6	apoptotic activity	d	8
+M17_49_7	overload exercise	e	8
+M17_49_7	nucleus	e	8
+M17_49_9	muscle memory	e	8
+M17_49_9	strength training	e	8
+M20_52_1	human aging	e	8
+M20_52_1	skeletal muscle	e	8
+M20_52_2	sarcopenia	d	8
+M20_52_2	musculoskeletal impairment	e	8
+M20_52_2	muscle mass	e	8
+M20_52_3	resistance training	e	8
+M20_52_3	skeletal muscle function deficit	e	8
+M20_52_3	functional mobility	m	8
+M20_52_4	clinician	e	8
+M20_52_5	static balance	e	8
+M20_52_5	dynamic balance	e	8
+M24_56_1	blood flow restriction	m	8
+M24_56_1	BFR	d	8
+M24_56_1	clinical intervention	e	8
+M24_56_2	function	e	8
+M24_56_3	resistance exercise	e	8
+M24_56_3	pain relief	e	8
+M24_56_4	meta-analysis	d	8
+M24_56_4	clinical trial	d	8
+M24_56_6	standardized mean difference	d	8
+M24_56_6	SMD	d	8
+G01.1_147704292_1	partners in health	m	9
+G01.1_147704292_1	PIH	d	9
+G01.1_147704292_1	socios en salud	m	9
+G01.1_147704292_1	SES	d	9
+G01.1_147704292_1	multidrug-resistant tuberculosis	m	9
+G01.1_147704292_1	MDR-TB	d	9
+G01.1_147704292_1	peruvian national TB program	m	9
+G01.1_147704292_1	NTP	d	9
+G01.1_147704292_2	bacteriology tests	m	9
+G01.1_147704292_2	health establishment	e	9
+G01.1_147704292_2	treatment	e	9
+G01.1_147704292_3	electronic medical record system	m	9
+G01.1_147704292_3	personal digital assistant	e	9
+G01.1_147704292_3	PDA	m	9
+G01.1_147704292_3	bacteriology data	m	9
+G01.1_147704292_3	PIH-EMR	d	9
+G01.1_147704292_4	implementation period	e	9
+G01.1_147704292_4	pilot study	m	9
+G01.1_147704292_5	health district	e	9
+G01.1_147704292_5	baseline assessment	m	9
+M1_21_1	subject	e	9
+G04.3_2941964798_1	antimicrobial resistant bacteria	m	9
+G04.3_2941964798_1	AMR	d	9
+G04.3_2941964798_1	metagenomics sample	d	9
+G04.3_2941964798_1	public health	e	9
+G04.3_2941964798_1	food safety	e	9
+G04.3_2941964798_2	next-generation sequencing technology	d	9
+G04.3_2941964798_2	NGS	d	9
+G04.3_2941964798_2	genetic variation	d	9
+G04.3_2941964798_2	genotype	e	9
+G04.3_2941964798_2	phenotype	e	9
+G04.3_2941964798_3	bayesian framework	d	9
+G04.3_2941964798_3	bacteria	e	9
+G04.3_2941964798_3	genetic polymorphisms assignment	d	9
+G04.3_2941964798_3	GPA	d	9
+G04.3_2941964798_3	false discovery rate	d	9
+G04.3_2941964798_3	FDR	d	9
+G04.3_2941964798_3	mean absolute error	d	9
+G04.3_2941964798_3	MAE	d	9
+G04.3_2941964798_3	single nucleotide variant identification	d	9
+G04.3_2941964798_3	SNV	d	9
+M17_49_1	memory	e	9
+M17_49_2	vertebrate	e	9
+M17_49_2	brain	e	9
+M17_49_3	cellular memory	m	9
+M17_49_3	skeletal muscle	e	9
+M17_49_3	hypertrophy	e	9
+M17_49_3	fibre	m	9
+M17_49_4	cell	e	9
+M17_49_4	biological model	d	9
+M17_49_4	myonucleus	d	9
+M17_49_5	satellite cell	d	9
+M17_49_5	hypertrophic growth	e	9
+M17_49_6	grave atrophy	m	9
+M17_49_6	apoptotic activity	d	9
+M17_49_7	overload exercise	e	9
+M17_49_7	nucleus	e	9
+M17_49_9	muscle memory	e	9
+M17_49_9	strength training	e	9
+M20_52_1	human aging	e	9
+M20_52_1	skeletal muscle	e	9
+M20_52_2	sarcopenia	d	9
+M20_52_2	musculoskeletal impairment	e	9
+M20_52_2	muscle mass	e	9
+M20_52_3	resistance training	e	9
+M20_52_3	skeletal muscle function deficit	e	9
+M20_52_3	functional mobility	m	9
+M20_52_4	clinician	e	9
+M20_52_5	static balance	e	9
+M20_52_5	dynamic balance	e	9
+M24_56_1	blood flow restriction	m	9
+M24_56_1	BFR	d	9
+M24_56_1	clinical intervention	e	9
+M24_56_2	function	e	9
+M24_56_3	resistance exercise	e	9
+M24_56_3	pain relief	e	9
+M24_56_4	meta-analysis	d	9
+M24_56_4	clinical trial	d	9
+M24_56_6	standardized mean difference	d	9
+M24_56_6	SMD	d	9
+G04.2_2415325177_2	open source tools	e	10
+G04.2_2415325177_3	reproducibility	m	10
+G04.2_2415325177_1	next generation sequencing	d	10
+G04.2_2415325177_1	NGS	d	10
+G04.2_2415325177_2	subsequent bioinformatic analysis	d	10
+G11.1_2794850674_2	robotic limb	e	10
+G11.1_2794850674_3	gripper	e	10
+G11.1_2794850674_3	test tube	e	10
+G11.1_2794850674_4	drone	e	10
+G11.1_2794850674_1	lab automation drone	d	10
+G11.1_2794850674_2	robotic rotorcraft	d	10
+G11.1_2794850674_3	unmanned aerial vehicle	d	10
+G11.1_2794850674_3	microarray	d	10
+G11.1_2794850674_3	high throughput systems	d	10
+G11.1_2794850674_3	HTS	d	10
+G11.1_2794850674_5	6 degree-of-freedom arm	d	10
+G11.1_2794850674_5	degrees of freedom are the maximum number of logically independent values in a data sample.	d	10
+G11.1_2794850674_5	DOF	d	10
+G11.1_2794850674_6	test-and-evaluation approach	d	10
+G01.1_2797641221_1	digital assistant	e	10
+G06.2_2805209921_2	item recognition	e	10
+G06.2_2805209921_3	Universal Robots	m	10
+G06.2_2805209921_3	UR	m	10
+G06.2_2805209921_1	deep learning	d	10
+G06.2_2805209921_3	Convolutional Neural Network	d	10
+G06.2_2805209921_3	CNN	d	10
+G06.2_2805209921_4	Kuka LBR iiwa	d	10
+G06.2_2805209921_6	transfer learning	d	10
+G08.1_2806518684_1	bitcoin	m	10
+G08.1_2806518684_1	blockchain technology	d	10
+G08.1_2806518684_1	cryptocurrency	d	10
+G08.1_2806518684_5	theory of planned behavior	d	10
+G08.1_2806518684_5	TPB	d	10
+G08.1_2806518684_6	e-government	d	10
+M8_40_1	muscle growth	e	10
+M8_40_2	superset	e	10
+M8_40_2	negative	m	10
+M8_40_2	resistance	e	10
+M8_40_2	forced repetition	m	10
+M8_40_2	hypertrophic response	d	10
+M8_40_3	muscle hypertrophy	d	10
+M12_44_1	aerobic exercise	e	10
+M12_44_2	protein metabolism	m	10
+M12_44_3	muscle loss	e	10
+M12_44_2	skeletal muscle hypertrophy	d	10
+M12_44_3	exercise-countermeasures	d	10
+G06.2_835365303_1	financial market	m	10
+G06.2_835365303_1	banking	e	10
+G06.2_835365303_2	software systems technology	m	10
+G06.2_835365303_3	inter-working components	m	10
+G06.2_835365303_1	trading system	d	10
+G06.2_835365303_2	cross-regional trading transaction	d	10
+G06.2_89451762_1	humanoid robot	e	10
+G06.2_89451762_1	teleoperation	e	10
+G06.2_89451762_3	joint positions	m	10
+G06.2_89451762_3	velocity	e	10
+G06.2_89451762_2	sensor based robot control	d	10
+M1_18_1	post-exercise recovery	e	11
+M1_18_1	blood alcohol concentrations	e	11
+M1_18_1	drinking binge	e	11
+G04.3_2040043577_1	SPSS	d	11
+G04.3_2040043577_1	clementinel 2.0	m	11
+G04.3_2040043577_1	statistical software	e	11
+G04.3_2040043577_1	mine	m	11
+G04.3_2040043577_1	association rules	m	11
+G04.3_2040043577_1	etiology	d	11
+G04.3_2040043577_1	traditional Chinese Medicine	e	11
+G04.3_2040043577_1	TCM	d	11
+G04.3_2040043577_1	symptome	e	11
+G04.3_2040043577_1	syndrome	e	11
+G04.3_2040043577_2	influenza	e	11
+G04.3_2040043577_2	apriori algorithm	d	11
+G07.2_2749521565_1	conspiracy theories	e	11
+G07.2_2749521565_1	evidential approach	e	11
+G07.2_2749521565_3	prima facie	m	11
+G07.2_2749521565_3	scepticism	e	11
+G06.2_2810968146_1	ignition	d	11
+G06.2_2810968146_1	neural network	m	11
+G06.2_2810968146_1	simulated environment	e	11
+G06.2_2810968146_1	self-driving vehicles	e	11
+G06.2_2810968146_2	resnet-18	d	11
+G06.2_2810968146_2	f1 car	e	11
+G06.2_2810968146_2	steering	e	11
+G06.2_2810968146_2	throttle	e	11
+G06.2_2810968146_2	braking	e	11
+G06.2_2810968146_3	track	e	11
+G06.2_2888477402_1	humanoid robot	e	11
+G06.2_2888477402_1	motor	e	11
+G06.2_2888477402_1	fan	e	11
+G06.2_2888477402_1	mechanical component	e	11
+G06.2_2888477402_1	speech recognition	e	11
+G06.2_2888477402_2	ego-noise	d	11
+G06.2_2888477402_3	bottleneck features	d	11
+G06.2_2888477402_3	deep neural network	d	11
+G06.2_2888477402_3	DNN	d	11
+G06.2_2888477402_3	automatic speech recognition	e	11
+G06.2_2888477402_3	ASR	d	11
+G06.2_2888477402_4	acoustic modeling	d	11
+G06.2_2888477402_4	acoustic features	e	11
+G06.2_2888477402_6	phoneme error rate	d	11
+G06.2_2888477402_6	PER	d	11
+G06.2_2888477402_6	TIMIT database	d	11
+G10.1_2906808597_1	autonomous service robot	e	11
+G10.1_2906808597_1	user	e	11
+G10.1_2906808597_2	field of view	e	11
+G10.1_2906808597_2	visibility constraints	m	11
+G10.1_2906808597_2	perception	e	11
+G10.1_2906808597_3	user's observability	e	11
+G10.1_2906808597_4	search locations	e	11
+G10.1_2906808597_6	search time	e	11
+G10.1_2906808597_6	background information	e	11
+G10.1_2906808597_6	greedy approach	d	11
+M10_42_1	muscle hypertrophy	d	11
+M10_42_2	muscle size.	e	11
+M10_42_3	maximization	e	11
+M10_42_5	muscle strength	e	11
+M10_42_5	loss of muscle mass	e	11
+M10_42_5	detraining	m	11
+M10_42_5	manteinance	e	11
+M10_42_5	muscle growth	e	11
+M10_42_5	low-load resistance training	m	11
+M10_42_5	high-load resistance training	m	11
+M11_43_1	low-intensity occlusion training	d	11
+M11_43_1	muscle hypertrophy	d	11
+M11_43_2	vascular occlusion	m	11
+M11_43_3	prescription	e	11
+M11_43_3	volitional fatigue	d	11
+M11_43_4	metabolic buildup	d	11
+M11_43_4	physiologic reactions	e	11
+M11_43_4	growth hormone	e	11
+M11_43_5	joint pain	e	11
+M11_43_5	postoperative patients	e	11
+M11_43_5	cardiac rehabilitation	e	11
+M23_55_1	treatment	e	11
+M23_55_1	prevention	e	11
+M23_55_1	medical condition	e	11
+M23_55_1	arthritis	e	11
+M23_55_1	diabetes	e	11
+M23_55_2	cardiovascular risk	e	11
+M23_55_2	inflammation	e	11
+M23_55_2	cachexia	d	11
+M23_55_2	hypertension	e	11
+M23_55_2	physical functioning	m	11
+M23_55_2	strength	e	11
+M23_55_2	cardio-respiratory capacity	m	11
+M23_55_3	Chronic kidney disease	e	11
+M23_55_3	exercise-based therapy	e	11
+M23_55_4	pre-dialysis	e	11
+M23_55_4	dialysis	e	11
+M23_55_4	transplant	e	11
+M23_55_4	severity	e	11
+M23_55_4	clinical management	e	11
+G09.1_2047319275_1	phisher	d	12
+G09.1_2047319275_1	source code	m	12
+G09.1_2047319275_1	web pages	e	12
+G09.1_2047319275_1	spoofed organizations	m	12
+G09.1_2047319275_1	phishing countermeseaures	d	12
+G09.1_2047319275_2	source code changes	m	12
+G09.1_2047319275_2	manipulation	e	12
+G09.1_2047319275_2	significant content	e	12
+G09.1_2047319275_3	phishing campaigns	d	12
+G09.1_2047319275_3	file matching algorithms	m	12
+G09.1_2047319275_3	custom data set	m	12
+G09.1_2047319275_3	phishing websites	d	12
+G09.1_2047319275_3	phishing attacks	d	12
+G09.1_2047319275_4	content-based approach	d	12
+G09.1_2047319275_4	detection rate	d	12
+G09.1_2047319275_4	false positive rate	d	12
+G07.1_2100028027_1	innacurate information	e	12
+G07.1_2100028027_1	library science	d	12
+G07.1_2100028027_1	information science	d	12
+G07.1_2100028027_1	misinformation	e	12
+G07.1_2100028027_1	disinformation	e	12
+G07.1_2100028027_2	online environments	e	12
+G07.1_2100028027_2	misleading information	e	12
+G07.1_2100028027_3	conceptual groundwork	e	12
+G07.1_2100028027_3	empirical research	e	12
+G07.1_2100028027_4	cue to deception	e	12
+G07.1_2100028027_5	sub categories of information	m	12
+G07.1_2100028027_6	multifaceted concept	e	12
+G05.1_2117924928_1	CRISPR/Cas9 system	d	12
+G05.1_2117924928_1	targeted genome engineering	m	12
+G05.1_2117924928_1	genome editing	e	12
+G05.1_2117924928_1	genetic sequence	e	12
+G05.1_2117924928_1	gene regulation	m	12
+G05.1_2117924928_2	single guide RNA	d	12
+G05.1_2117924928_2	sgRNAs	d	12
+G05.1_2117924928_2	efficient	e	12
+G05.1_2117924928_2	specific	e	12
+G07.1_2124690797_1	misinformation.	e	12
+G07.1_2124690797_2	theoretical models	e	12
+G07.1_2124690797_3	conceptualization of misinformation	m	12
+G07.1_2124690797_3	interoperability	e	12
+G07.1_2124690797_4	representation of misinformation	m	12
+G07.1_2124690797_4	model of misinformation	d	12
+G07.1_2124690797_4	surveying	e	12
+G07.1_2124690797_4	synthesizing	e	12
+G07.1_2124690797_4	explication	e	12
+G07.1_2124690797_5	ontology-supported	d	12
+G07.1_2124690797_5	digital misinformation library	d	12
+G07.1_2124690797_5	formal methodology	e	12
+G07.1_2124690797_6	digital library	e	12
+G07.1_2124690797_6	misinformation model	m	12
+M1_25_1	protein	e	12
+M1_25_1	MPS [8]	d	12
+M1_25_1	post-exercise recovery	e	12
+M1_25_1	intake of alcohol	e	12
+M1_25_1	MPS	d	12
+M1_25_1	anabolic response	m	12
+G10.1_2562908749_1	efficient robot navigation	m	12
+G10.1_2562908749_1	cluttered indoor environments	e	12
+G10.1_2562908749_2	local obstacle densities	e	12
+G10.1_2562908749_2	traversal costs	d	12
+G10.1_2562908749_2	robot's sensors	e	12
+G10.1_2562908749_3	path planning	m	12
+G10.1_2562908749_3	robot	e	12
+G10.1_2562908749_3	foresighted manner	d	12
+G10.1_2562908749_3	cluttered regions	e	12
+G10.1_2562908749_4	experimental results	e	12
+G10.1_2562908749_4	robot	e	12
+G10.1_2562908749_4	completion times	d	12
+G10.1_2562908749_4	standard approach	e	12
+G13.1_2570453702_1	digital marketing capabilities	e	12
+G13.1_2570453702_1	SMEs	d	12
+G13.1_2570453702_2	ICT-based tools	d	12
+G13.1_2570453702_2	organisational capabilities	e	12
+G13.1_2570453702_3	marketing	e	12
+G13.1_2570453702_3	set-of-skills approach	m	12
+G13.1_2570453702_3	tourism literature	d	12
+G13.1_2570453702_3	e-marketing	e	12
+G13.1_2570453702_4	digital marketing capabilities	e	12
+G13.1_2570453702_4	ICT-based uptake	d	12
+G13.1_2570453702_6	capabilities	e	12
+G13.1_2570453702_6	ICT-based tools	d	12
+G13.1_2570453702_6	digital marketing capabilities	e	12
+G13.1_2570453702_6	tourism SMEs	d	12
+G13.1_2570453702_6	web-marketing stream	m	12
+G05.2_2796443924_1	CRISPR-Cpf1 system	d	12
+G05.2_2796443924_1	genome editing	m	12
+G05.2_2796443924_2	target efficiency	m	12
+G05.2_2796443924_2	gRNA	d	12
+G05.2_2796443924_2	gRNA sequences	d	12
+G05.2_2796443924_3	machine learning technology	m	12
+G05.2_2796443924_3	SVM model	d	12
+G05.2_2796443924_3	web service application	e	12
+G05.2_2796443924_4	CRISPR-DT	d	12
+G05.2_2796443924_4	CRISPR DNA Targeting	d	12
+G05.2_2796443924_4	specificity	m	12
+G09.1_2047319275_1	phisher	d	13
+G09.1_2047319275_1	source code	m	13
+G09.1_2047319275_1	web pages	e	13
+G09.1_2047319275_1	spoofed organizations	m	13
+G09.1_2047319275_1	phishing countermeseaures	d	13
+G09.1_2047319275_2	source code changes	m	13
+G09.1_2047319275_2	manipulation	e	13
+G09.1_2047319275_2	significant content	e	13
+G09.1_2047319275_3	phishing campaigns	d	13
+G09.1_2047319275_3	file matching algorithms	m	13
+G09.1_2047319275_3	custom data set	m	13
+G09.1_2047319275_3	phishing websites	d	13
+G09.1_2047319275_3	phishing attacks	d	13
+G09.1_2047319275_4	content-based approach	d	13
+G09.1_2047319275_4	detection rate	d	13
+G09.1_2047319275_4	false positive rate	d	13
+G07.1_2100028027_1	innacurate information	e	13
+G07.1_2100028027_1	library science	d	13
+G07.1_2100028027_1	information science	d	13
+G07.1_2100028027_1	misinformation	e	13
+G07.1_2100028027_1	disinformation	e	13
+G07.1_2100028027_2	online environments	e	13
+G07.1_2100028027_2	misleading information	e	13
+G07.1_2100028027_3	conceptual groundwork	e	13
+G07.1_2100028027_3	empirical research	e	13
+G07.1_2100028027_4	cue to deception	e	13
+G07.1_2100028027_5	sub categories of information	m	13
+G07.1_2100028027_6	multifaceted concept	e	13
+G05.1_2117924928_1	CRISPR/Cas9 system	d	13
+G05.1_2117924928_1	targeted genome engineering	m	13
+G05.1_2117924928_1	genome editing	e	13
+G05.1_2117924928_1	genetic sequence	e	13
+G05.1_2117924928_1	gene regulation	m	13
+G05.1_2117924928_2	single guide RNA	d	13
+G05.1_2117924928_2	sgRNAs	d	13
+G05.1_2117924928_2	efficient	e	13
+G05.1_2117924928_2	specific	e	13
+G07.1_2124690797_1	misinformation.	e	13
+G07.1_2124690797_2	theoretical models	e	13
+G07.1_2124690797_3	conceptualization of misinformation	m	13
+G07.1_2124690797_3	interoperability	e	13
+G07.1_2124690797_4	representation of misinformation	m	13
+G07.1_2124690797_4	model of misinformation	d	13
+G07.1_2124690797_4	surveying	e	13
+G07.1_2124690797_4	synthesizing	e	13
+G07.1_2124690797_4	explication	e	13
+G07.1_2124690797_5	ontology-supported	d	13
+G07.1_2124690797_5	digital misinformation library	d	13
+G07.1_2124690797_5	formal methodology	e	13
+G07.1_2124690797_6	digital library	e	13
+G07.1_2124690797_6	misinformation model	m	13
+M1_25_1	protein	e	13
+M1_25_1	MPS [8]	d	13
+M1_25_1	post-exercise recovery	e	13
+M1_25_1	intake of alcohol	e	13
+M1_25_1	MPS	d	13
+M1_25_1	anabolic response	m	13
+G10.1_2562908749_1	efficient robot navigation	m	13
+G10.1_2562908749_1	cluttered indoor environments	e	13
+G10.1_2562908749_2	local obstacle densities	e	13
+G10.1_2562908749_2	traversal costs	d	13
+G10.1_2562908749_2	robot's sensors	e	13
+G10.1_2562908749_3	path planning	m	13
+G10.1_2562908749_3	robot	e	13
+G10.1_2562908749_3	foresighted manner	d	13
+G10.1_2562908749_3	cluttered regions	e	13
+G10.1_2562908749_4	experimental results	e	13
+G10.1_2562908749_4	robot	e	13
+G10.1_2562908749_4	completion times	d	13
+G10.1_2562908749_4	standard approach	e	13
+G13.1_2570453702_1	digital marketing capabilities	e	13
+G13.1_2570453702_1	SMEs	d	13
+G13.1_2570453702_2	ICT-based tools	d	13
+G13.1_2570453702_2	organisational capabilities	e	13
+G13.1_2570453702_3	marketing	e	13
+G13.1_2570453702_3	set-of-skills approach	m	13
+G13.1_2570453702_3	tourism literature	d	13
+G13.1_2570453702_3	e-marketing	e	13
+G13.1_2570453702_4	digital marketing capabilities	e	13
+G13.1_2570453702_4	ICT-based uptake	d	13
+G13.1_2570453702_6	capabilities	e	13
+G13.1_2570453702_6	ICT-based tools	d	13
+G13.1_2570453702_6	digital marketing capabilities	e	13
+G13.1_2570453702_6	tourism SMEs	d	13
+G13.1_2570453702_6	web-marketing stream	m	13
+G05.2_2796443924_1	CRISPR-Cpf1 system	d	13
+G05.2_2796443924_1	genome editing	m	13
+G05.2_2796443924_2	target efficiency	m	13
+G05.2_2796443924_2	gRNA	d	13
+G05.2_2796443924_2	gRNA sequences	d	13
+G05.2_2796443924_3	machine learning technology	m	13
+G05.2_2796443924_3	SVM model	d	13
+G05.2_2796443924_3	web service application	e	13
+G05.2_2796443924_4	CRISPR-DT	d	13
+G05.2_2796443924_4	CRISPR DNA Targeting	d	13
+G05.2_2796443924_4	specificity	m	13
+G01.1_1494033132_1	soft keyboard	m	14
+G01.1_1494033132_1	hand-held computing devices	m	14
+G01.1_1494033132_1	QWERTY	e	14
+G01.1_1494033132_1	T9	e	14
+G01.1_1494033132_2	computer screen	e	14
+G01.1_1494033132_2	personal digital assistant	d	14
+G01.1_1494033132_2	PDA	d	14
+G01.1_1494033132_2	stylus	e	14
+G01.1_1494033132_2	keyboard	e	14
+G01.1_1494033132_3	transcription rate	m	14
+G01.1_1494033132_6	layout	e	14
+G01.1_1528342628_1	personal machine	e	14
+G01.1_1528342628_1	private machine	e	14
+G01.1_1528342628_1	Personal Digital Assistant	d	14
+G01.1_1528342628_1	PDA	d	14
+G01.1_1528342628_2	traditional machine	e	14
+G01.1_1528342628_2	network failure	d	14
+G01.1_1528342628_3	power failure	e	14
+G01.1_1528342628_3	electronic money	d	14
+G01.1_1528342628_4	key for authentication	e	14
+G01.1_1528342628_4	ownership	e	14
+G01.1_1528342628_4	media	e	14
+G01.1_1528342628_5	design strategy	e	14
+G01.1_1528342628_5	user	e	14
+G01.1_1528342628_6	personal data	e	14
+G01.1_1528342628_6	information	e	14
+G01.1_1529793248_2	personal digital assitant	d	14
+G01.1_1529793248_2	PDA	d	14
+G01.1_1529793248_2	decision support system	d	14
+G01.1_1529793248_2	DSS	d	14
+G01.1_1529793248_2	personal digital assistant-based decision support system	d	14
+G01.1_1529793248_6	usage	e	14
+G01.1_1529793248_3	PDA usability issue	m	14
+G01.1_2463945949_1	DIANE	d	14
+G01.1_2463945949_1	digital assistant system	m	14
+G01.1_2463945949_1	human resource data	m	14
+G01.1_2463945949_1	access	e	14
+G01.1_2463945949_1	face recognition	e	14
+G01.1_2463945949_1	live streaming	e	14
+G07.2_2899514909_1	online discussion	e	14
+G07.2_2899514909_3	scalable method	d	14
+G07.2_2899514909_3	online community	e	14
+G07.2_2899514909_4	user	e	14
+G07.2_2899514909_4	online	e	14
+G07.2_2899514909_9	alternative media	d	14
+G07.2_2899514909_9	social media	e	14
+G01.1_111823101_1	electrophysiological wireless	d	15
+G01.1_111823101_1	Wireless ECG signal transmitter	d	15
+G01.1_111823101_1	GPS device	e	15
+G01.1_111823101_1	mobile phone	e	15
+G01.1_111823101_1	physiological signals	e	15
+G01.1_111823101_1	local server	m	15
+G01.1_111823101_1	Bluetooth wireless technology	e	15
+G01.1_111823101_2	monitor units	d	15
+G01.1_111823101_2	wireless communication	e	15
+G01.1_111823101_2	mobile devices 	e	15
+G01.1_111823101_2	personal digital assistant	m	15
+G01.1_111823101_2	PDA	d	15
+G01.1_111823101_2	Web page	e	15
+G01.1_111823101_3	monitor units	d	15
+G01.1_111823101_4	application	e	15
+G01.1_111823101_4	medical personnel	e	15
+G01.1_111823101_4	health care	e	15
+G01.1_111823101_4	lifestyle	e	15
+M1_12_1	counter-balanced	m	15
+M1_12_1	cross-over design	d	15
+M1_12_1	alcohol-carbohydrate	e	15
+M1_12_1	ALC-CHO	d	15
+M1_12_1	alcohol-protein	e	15
+M1_12_1	ALC-PRO	d	15
+M1_12_1	protein only beverages	e	15
+M1_12_1	PRO	d	15
+G01.1_1508161316_1	system	e	15
+G01.1_1508161316_1	tele-assistance service	m	15
+G01.1_1508161316_1	functionalities	e	15
+G01.1_1508161316_1	assistance	e	15
+G01.1_1508161316_2	vital signs	e	15
+G01.1_1508161316_2	local detection	e	15
+G01.1_1508161316_2	device	e	15
+G01.1_1508161316_3	universal assistance	m	15
+G01.1_1508161316_3	remote monitoring	e	15
+G01.1_1508161316_4	PDAs	d	15
+G01.1_1508161316_4	Personal Digital Assistant	e	15
+G01.1_1508161316_4	Semantic Web	m	15
+G01.1_1508161316_4	Web services	e	15
+G01.1_1508161316_4	agent technologies	d	15
+G01.1_1514623391_1	Digital Video Broadcasting Handheld	d	15
+G01.1_1514623391_1	DVB-H	d	15
+G01.1_1514623391_1	Digital Video Broadcasting Terrestrial	d	15
+G01.1_1514623391_1	DVB-T	d	15
+G01.1_1514623391_2	mobile handheld devices	e	15
+G01.1_1514623391_3	data link layer	d	15
+G01.1_1514623391_3	physical layer	d	15
+G08.1_2898599358_1	P2P networks	d	15
+G08.1_2898599358_1	nodes	d	15
+G08.1_2898599358_1	flooding	d	15
+G08.1_2898599358_1	denial-of-service attacks	d	15
+G08.1_2898599358_1	spam	e	15
+G08.1_2898599358_2	cryptocurrency space	m	15
+G08.1_2898599358_3	crypto assets	d	15
+G08.1_3004077497_1	smart phone	e	15
+G08.1_3004077497_1	smart watch	e	15
+G08.1_3004077497_1	mobile payment	e	15
+G08.1_3004077497_2	blockchain-based cryptocurrency	d	15
+G08.1_3004077497_2	total value	m	15
+G08.1_3004077497_2	USD	e	15
+G08.1_3004077497_3	cryptocurrency payment	e	15
+G08.1_3004077497_4	financial service	e	15
+G08.1_3004077497_5	payment processing latency	e	15
+G08.1_3004077497_6	centralized bank	e	15
+G08.1_3004077497_7	KYC	d	15
+G08.1_3004077497_7	know your customer	d	15
+G08.1_3004077497_7	AML	d	15
+G08.1_3004077497_7	anti-money laundering	e	15
+G13.1_3004169763_1	Internet	e	15
+G13.1_3004169763_2	digital world	e	15
+G13.1_3004169763_3	marketing	e	15
+G13.1_3004169763_3	advertising	e	15
+G13.1_3004169763_4	Key Opinion Leaders	m	15
+G13.1_3004169763_4	KOLs	d	15
+G13.1_3004169763_4	countless business entities	m	15
+G13.1_3004169763_4	digital marketing tools	m	15
+G13.1_3004169763_6	fuzzy-AHP method	d	15
+G13.1_3004169763_6	industry practitioners	e	15
+G13.1_3004169763_7	marketing objectives	e	15
+M16_48_1	inter-set rest	e	15
+M16_48_1	muscle hypertrophy	m	15
+M16_48_1	Implications	e	15
+M16_48_2	Training	e	15
+M16_48_3	Participants	e	15
+M16_48_3	Advantage	e	15
+M16_48_3	Long rest intervals	e	15
+M16_48_3	Hypertrophic effects	m	15
+M16_48_4	Designs	e	15
+M16_48_4	Research	e	15
+M16_48_4	Approaches	e	15
+M1_23_1	novel finding	m	16
+M1_23_1	mTOR signalling	d	16
+M1_23_1	myofibrillar protein synthesis	d	16
+M1_23_1	MPS	d	16
+M1_23_1	metabolic profile	d	16
+M1_23_1	team sports	e	16
+M1_23_1	recovery phase	m	16
+M1_23_1	ingestion	e	16
+M4_36_1	Physically active person	e	16
+M4_36_2	Physical training	e	16
+M4_36_2	Physical performance	e	16
+M4_36_3	Athletes	e	16
+M4_36_3	Military personnel	e	16
+M4_36_4	Endurance performance	m	16
+M4_36_4	Training frequency	e	16
+M4_36_4	Exercise volume	m	16
+M4_36_4	Exercise intensity	e	16
+M4_36_5	Exercise intensity	e	16
+M4_36_5	Relative load	m	16
+M4_36_6	Exercise intensity	e	16
+M4_36_6	Physical performance	e	16
+M4_36_6	Exercise frequency	e	16
+M4_36_6	Exercise volume	m	16
+M7_39_1	Training frequency	e	16
+M7_39_1	Hypertrophic response	d	16
+M7_39_1	Regimented resistance exercise	d	16
+M7_39_2	Systematic review	m	16
+M7_39_2	Meta-analysis	m	16
+M7_39_2	Training frequency	e	16
+M7_39_2	Hypertrophic adaptations	d	16
+M7_39_3	Volume-equated basis	m	16
+M7_39_4	Meta-regression analysis	d	16
+M7_39_4	Non-volume-equated studies	m	16
+M7_39_5	Resistance training frequency	m	16
+M7_39_5	Muscle hypertrophy	d	16
+M7_39_6	Training volume	m	16
+M7_39_6	Muscle groups	e	16
+M1_4_1	ingestion	e	16
+M1_4_1	anabolic response	d	16
+M1_4_1	skeletal muscle	d	16
+M18_50_1	Fat loss	e	16
+M18_50_1	Weight maintenance	e	16
+M18_50_2	Observational studies	d	16
+M18_50_2	Inverse relationship	e	16
+M18_50_2	Adiposity	m	16
+M18_50_3	Narrative review	m	16
+M18_50_3	Meta analysis	m	16
+M18_50_3	Meal frequency	e	16
+M18_50_3	Fat mass	e	16
+M18_50_3	Lean mass	m	16
+M18_50_4	Feeding frequency	m	16
+M18_50_4	Fat mass	e	16
+M18_50_4	Body fat percentage	d	16
+M18_50_4	Fat-free mass	e	16
+M18_50_5	Sensitivity analysis	m	16
+M18_50_6	Meta analysis	m	16
+M18_50_6	Feeding frequency	m	16
+M18_50_6	Body composition	d	16
+G09.1_567125047_1	Machine time	d	16
+G09.1_567125047_1	Computer forensics	m	16
+G09.1_567125047_4	Cloud computing	d	16
+G09.1_567125047_4	Host machine time	d	16
+G09.1_567125047_4	Guest machine time	d	16
+G09.1_567125047_5	Guest virtual machine	m	16
+G09.1_567125047_6	Timeline integrity	m	16
+G09.1_567125047_6	Cloud	e	16
+G09.1_567125047_7	Host machine time integrity	d	16
+G09.1_567125047_7	Guest machine time integrity	d	16
+G09.1_567125047_7	Cloud	e	16
+G09.1_567125047_8	Novel architecture	d	16
+G09.1_567125047_8	Host time altercation detection and correction	d	16
+G09.1_567125047_8	Guest time altercation detection and correction	d	16
+G09.1_567125047_8	Host time altercation resilience	d	16
+G09.1_567125047_8	Guest time altercation resilience	d	16
+G09.1_567125047_9	Simulator	e	16
+G09.1_567125047_10	Performance figure	m	16
+G09.1_567125047_1	machinetime	d	17
+G09.1_567125047_1	computer forensics	m	17
+G09.1_567125047_3	attacker	e	17
+G09.1_567125047_4	host machine time	d	17
+G09.1_567125047_4	guest machine time	d	17
+G09.1_567125047_4	cloud computing	m	17
+G09.1_567125047_5	virtual machine	e	17
+G09.1_567125047_6	cloud	e	17
+G09.1_567125047_7	host machine time	d	17
+G09.1_567125047_7	guest machine time	d	17
+G09.1_567125047_7	cloud	e	17
+G09.1_567125047_8	host time alteration	m	17
+G09.1_567125047_8	guest time alteration	m	17
+M1_6_1	cultural environment	m	17
+M1_6_1	sport	e	17
+M1_6_1	alcohol	e	17
+M1_6_1	training	e	17
+M1_6_1	competition	e	17
+M1_6_1	athlete	e	17
+M1_6_1	binge drinking	d	17
+G06.2_602340265_3	automation	m	17
+G06.2_602340265_4	coercion	m	17
+G06.2_602340265_4	nudging	d	17
+G06.2_602340265_5	communication systems	m	17
+G06.2_602340265_5	ICT	m	17
+M1_7_1	binge drinking	d	17
+M1_7_1	exercise	e	17
+M1_7_1	physiological process	m	17
+M1_7_1	recovery	m	17
+M1_7_1	intoxication	m	17
+M1_7_1	alcohol	e	17
+M1_7_1	athlete	e	17
+M1_8_1	carbohydrate	m	17
+M1_8_1	glycogen resynthesis	d	17
+M1_8_1	alcohol consumption	e	17
+M1_8_1	muscle	e	17
+M1_8_1	protein synthesis	d	17
+G06.2_835365303_1	financial market	m	17
+G06.2_835365303_1	trading system	m	17
+G06.2_835365303_1	banking	e	17
+G06.2_835365303_2	computing	m	17
+G06.2_835365303_2	trading transaction	m	17
+G06.2_835365303_2	system technology	d	17
+G06.2_835365303_3	trading system	m	17
+G06.2_835365303_3	bank	e	17
+G06.2_855132903_1	MOD	d	17
+G06.2_855132903_1	urban environment	e	17
+G06.2_855132903_1	network	e	17
+G06.2_855132903_1	autonomous mobility	m	17
+G06.2_855132903_1	MOD system	m	17
+G06.2_855132903_2	MOD	d	17
+G06.2_855132903_2	MOD system	m	17
+G06.2_855132903_2	passenger	e	17
+G06.2_855132903_3	algorithm	m	17
+G06.2_855132903_3	case study	e	17
+G06.2_855132903_3	robot	e	17
+G06.2_855132903_3	testbed	m	17
+G06.2_855132903_4	case study	e	17
+G06.2_855132903_4	robotic vehicles	e	17
+G06.2_855132903_5	congestion	e	17
+G06.2_855132903_5	autonomous vehicles	e	17
+G06.2_855132903_6	autonomous vehicles	e	17
+G06.2_855132903_6	transportation network	e	17
+G06.2_89451762_1	teleoperation	NA	17
+G06.2_89451762_3	joint position	NA	17
+G06.2_89451762_3	joint velocity	NA	17
+M1_9_1	alcohol intake	e	17
+M1_9_1	anabolic cell	d	17
+M1_9_1	myofibrillar protein synthesis	d	17
+M1_9_1	(MPS)	d	17
+M1_9_1	exercise	e	17
+M1_9_1	athlete	e	17
+M1_9_1	training	e	17
+M1_9_1	performance	e	17
+M1_9_1	court sport	m	17
+M1_9_1	recovery	m	17
+G01.1_1491527877_1	knowledge transfer	m	18
+G01.1_1491527877_1	specialists	e	18
+G01.1_1491527877_1	generalists	m	18
+G01.1_1491527877_1	experts	e	18
+G01.1_1491527877_1	novices	e	18
+G01.1_1491527877_1	interdisciplinary communication	m	18
+G01.1_1491527877_2	interdisciplinary research team	m	18
+G01.1_1491527877_2	decision support tool	d	18
+G01.1_1491527877_2	DST	d	18
+G01.1_1491527877_2	personal digital assistant	e	18
+G01.1_1491527877_2	PDA	d	18
+G01.1_1491527877_2	cardiac tele-triage	d	18
+G01.1_1491527877_2	cardiac tele-consultation	d	18
+G01.1_1491527877_2	chest pain	e	18
+G01.1_1491527877_3	cognitive work analysis	e	18
+G01.1_1491527877_3	requirements-gathering phase	e	18
+G01.1_1491527877_3	ecological interface design	d	18
+G01.1_1491527877_4	clinical trial	e	18
+G01.1_1491527877_4	quaternary cardiac care hospital	d	18
+G01.1_1491527877_5	nursing coordinators	e	18
+G01.1_1491527877_6	cardiac care nurses	d	18
+G01.1_1491527877_6	nurses	e	18
+G01.1_1491527877_6	cardiac care	e	18
+G01.1_1491527877_6	interdisciplinary team environment.	m	18
+G01.1_1497796471_1	mobile devices	e	18
+G01.1_1497796471_1	smart phones	e	18
+G01.1_1497796471_1	Personal Digital Assistant	e	18
+G01.1_1497796471_1	PDA	d	18
+G01.1_1497796471_1	mobile E-commerce systems	m	18
+G01.1_1497796471_1	Mobile-commerce systems	m	18
+G01.1_1497796471_1	M-commerce system	m	18
+G01.1_1497796471_2	Mcommerce systems	m	18
+G01.1_1497796471_2	components	e	18
+G01.1_1497796471_2	E-commerce applications	m	18
+G01.1_1497796471_2	web servers	d	18
+G01.1_1497796471_2	database servers	d	18
+G01.1_1497796471_3	applications	e	18
+G01.1_1497796471_4	mobile devices	e	18
+G01.1_1497796471_4	small screen size	e	18
+G01.1_1497796471_4	CPU performance	e	18
+G01.1_1497796471_4	software development	d	18
+G01.1_1497796471_4	desktop applications	e	18
+G01.1_1497796471_5	software development	d	18
+G01.1_1497796471_6	software	e	18
+G01.1_1497796471_6	mobile phones	e	18
+G01.1_1534162055_1	mobile systems	e	18
+G01.1_1534162055_1	software development	d	18
+G01.1_1534162055_2	taxonomy of risks	m	18
+G01.1_1534162055_2	negotiation support system	m	18
+G01.1_1534162055_2	Personal Digital Assistant	e	18
+G01.1_1534162055_2	PDA	d	18
+G01.1_1534162055_3	risk management strategies	d	18
+G01.1_1534162055_3	Agile Methods	d	18
+G01.1_1534162055_3	AM	d	18
+M1_28_1	alcohol	e	18
+M1_28_1	binge drinking	m	18
+G09.1_2885025643_1	image editing	e	18
+G09.1_2885025643_1	image	e	18
+G09.1_2885025643_1	image forensics	d	18
+G09.1_2885025643_2	processing history	m	18
+G09.1_2885025643_2	forgeries	e	18
+G09.1_2885025643_3	framework	m	18
+G09.1_2885025643_4	training phase	e	18
+G09.1_2885025643_5	editing operations	e	18
+G09.1_2885025643_6	deep learning-based method	m	18
+G09.1_2885025643_7	image patches	m	18
+G09.1_2885025643_7	siamese neural network	d	18
+G09.1_2885025643_8	network	e	18
+G09.1_2885025643_8	feature	e	18
+G09.1_2885025643_9	experimental results	e	18
+G09.1_2885025643_9	efficacy	e	18
+G08.1_2889740224_1	blockchains	e	18
+G08.1_2889740224_1	smart contracts	e	18
+G08.1_2889740224_2	bytecode	d	18
+G08.1_2889740224_3	Turing-complete	d	18
+G08.1_2889740224_3	virtual machine	m	18
+G08.1_2889740224_4	programs	e	18
+G08.1_2889740224_4	programming languages	e	18
+G08.1_2889740224_4	toolchains	d	18
+G08.1_2889740224_4	buggy compilers	d	18
+G08.1_2889740224_5	cryptocurrency	m	18
+G08.1_2889740224_6	developers	e	18
+G08.1_2889740224_6	auditors	e	18
+G08.1_2889740224_7	Vandal	d	18
+G08.1_2889740224_7	Ethereum	d	18
+G08.1_2889740224_8	analysis pipeline	d	18
+G08.1_2889740224_8	Ethereum Virtual Machine	d	18
+G08.1_2889740224_8	EVM	d	18
+G08.1_2889740224_9	souffle language	d	18
+G01.1_1524829466_1	mobile application	e	19
+G01.1_1524829466_1	commercial environment	e	19
+G01.1_1524829466_2	sociology of technology	m	19
+G01.1_1524829466_2	mobile technology	e	19
+G01.1_1524829466_3	personal digital assistant	d	19
+G01.1_1524829466_3	PDA	d	19
+G01.1_1524829466_4	technological community	e	19
+G01.1_1527980854_1	two-way location aware system	d	19
+G01.1_1527980854_1	PDA	d	19
+G01.1_1527980854_1	Personal Digital Assistant	d	19
+G01.1_1527980854_1	wireless	e	19
+G01.1_1527980854_1	LAN	d	19
+G01.1_1527980854_1	Global Positioning System	e	19
+G01.1_1527980854_1	GPS	e	19
+G01.1_1527980854_2	chat	e	19
+G01.1_1527980854_6	guidance system	m	19
+G01.1_1532553277_1	8-bit microcontroller	d	19
+G01.1_1532553277_1	voltage harmonic monitor device	d	19
+G01.1_1532553277_1	long-range monitor	d	19
+G01.1_1532553277_2	harmonic analysis algorithm	d	19
+G01.1_1532553277_2	Fast Fourier Transform	d	19
+G01.1_1532553277_2	FFT	d	19
+G01.1_1532553277_3	native	e	19
+G01.1_1532553277_3	remote	e	19
+G01.1_1532553277_4	telephone line	e	19
+G01.1_1532553277_4	serial port	d	19
+G01.1_1532553277_4	IC card	d	19
+G01.1_1532553277_4	PDA	d	19
+G01.1_1532553277_4	Personal Digital Assistant	d	19
+G01.1_1534162055_1	mobile system	e	19
+G01.1_1534162055_1	software development	e	19
+G01.1_1534162055_2	negotiation support system	m	19
+G01.1_1534162055_2	Personal Digital Assistant	d	19
+G01.1_1534162055_2	PDA	d	19
+G01.1_1534162055_3	Agile Method	d	19
+G01.1_1534162055_3	AM	d	19
+G01.1_1535824984_1	mobile service	e	19
+G01.1_1535824984_1	private data	e	19
+G01.1_1535824984_1	level of protection	e	19
+G01.1_1535824984_2	speaker recognition	e	19
+G01.1_1535824984_2	biometric technology	e	19
+G01.1_1535824984_3	multi-channel voices	d	19
+G01.1_1535824984_4	multi-channel corpus	d	19
+G01.1_1535824984_4	mobile phone	e	19
+G01.1_1535824984_4	personal digital assistant	d	19
+G01.1_1535824984_4	PDA	d	19
+G01.1_1535824984_4	system performance	e	19
+G01.1_1549686097_1	mobile information society	e	19
+G01.1_1549686097_1	location-based service	e	19
+G01.1_1549686097_2	user	e	19
+G01.1_1549686097_2	mobile end device	d	19
+G01.1_1549686097_3	computing power	d	19
+G01.1_1549686097_3	storage capacity	e	19
+G01.1_1549686097_3	personal computer	e	19
+G01.1_1549686097_3	laptop	e	19
+G01.1_1549686097_5	route computation	d	19
+G01.1_1549686097_5	personal digital assistant	d	19
+G01.1_1549686097_6	computation expenditure	d	19
+G10.1_1593729956_1	kinematic model	d	19
+G10.1_1593729956_1	humanoid	e	19
+G10.1_1593729956_1	monocular camera	e	19
+G10.1_1593729956_3	configuration	e	19
+G10.1_1593729956_4	randomly chosen viable configuration	d	19
+M1_24_1	MPS	d	19
+M1_24_1	post-exercise protein	m	19
+M1_24_1	intoxication	e	19
+M1_24_1	recovery practice	m	19
+M1_1_1	Physiological process	m	20
+M1_1_1	Homeostasis	d	20
+M1_1_1	Exercise-induced disturbances	m	20
+M1_1_1	Physiological function	m	20
+M1_10_1	Co-ingestion	e	20
+M1_10_1	Translation	d	20
+M1_10_1	MPS	d	20
+G01.1_1534162055_1	Mobile system	d	20
+G01.1_1534162055_1	Software development	d	20
+G01.1_1534162055_2	Taxonomy	d	20
+G01.1_1534162055_2	Risk questionnaire	e	20
+G01.1_1534162055_2	Negotiation support system	d	20
+G01.1_1534162055_2	Personal Digital Assistant	d	20
+G01.1_1534162055_2	PDA	d	20
+G01.1_1534162055_3	Risk management strategy	e	20
+G01.1_1534162055_3	Agile Method	d	20
+G01.1_1534162055_3	AM	d	20
+G11.1_2892036907_1	Automation	m	20
+G11.1_2892036907_1	Robotics	m	20
+G11.1_2892036907_1	Autonomous vehicle	m	20
+G11.1_2892036907_2	Unmanned aerial vehicle	d	20
+G11.1_2892036907_2	Autonomy	e	20
+G11.1_2892036907_3	Civil drone	d	20
+G11.1_2892036907_3	Road-tracking based navigation	d	20
+G11.1_2892036907_4	Imitation learning based solution	d	20
+G11.1_2892036907_4	Data-driven solution	d	20
+G11.1_2892036907_4	UAV autonomy	d	20
+G11.1_2892036907_4	Pilot	e	20
+G11.1_2892036907_5	Algorithm	e	20
+G11.1_2892036907_5	Inception model	d	20
+G11.1_2892036907_5	Tomographic reconstruction	d	20
+G11.1_2892036907_5	Input frame	d	20
+G11.1_2892036907_6	Inception-v3 architecture	d	20
+G11.1_2892036907_6	Imitation learning	d	20
+G11.1_2892036907_7	Drone	m	20
+G11.1_2892036907_8	Minimal risk	m	20
+G11.1_2892036907_8	Data collection process	m	20
+G11.1_2892036907_9	Drone data	m	20
+G11.1_2892036907_10	Computational efficiency	d	20
+G11.1_2892036907_10	MAVNet	d	20
+G11.1_2892036907_10	Drone	m	20
+G11.1_2892036907_11	State-of-the-art method	d	20
+G11.1_2892036907_11	Vision based navigation	d	20
+G11.1_2892036907_11	Learning based navigation	d	20
+G03.1_2949291273_1	Smart speaker	m	20
+G03.1_2949291273_1	Human voice	e	20
+G03.1_2949291273_1	Machine voice	e	20
+G03.1_2949291273_2	Voice command	m	20
+G03.1_2949291273_2	Smart speaker	m	20
+G03.1_2949291273_3	Machine-voice based attack	d	20
+G03.1_2949291273_3	Smart speaker	m	20
+G03.1_2949291273_3	Speaker	e	20
+G03.1_2949291273_3	Microphone	e	20
+G03.1_2949291273_3	Smart speaker	m	20
+M9_41_1	Lean body mass	d	20
+M9_41_1	Weight	e	20
+M9_41_2	Muscle growth	e	20
+M9_41_3	Bodybuilder	e	20
+M9_41_3	Load	e	20
+M9_41_3	Interval	e	20
+M9_41_3	Metabolic stress	d	20
+M9_41_4	Powerlifter	d	20
+M9_41_4	High-intensity load	m	20
+M9_41_5	Muscularity	e	20
+M9_41_5	Hypertrophic gain	d	20
+M9_41_6	Hypertrophic process	d	20
+M9_41_6	Mechanical tension	d	20
+M9_41_6	Muscle damage	e	20
+M9_41_6	Metabolic stress	d	20
+M9_41_6	Muscle growth	e	20
+M9_41_7	Muscle hypertrophy	d	20
+M9_41_7	Protocol	e	20
+M9_41_7	Muscle growth	e	20
+M13_45_1	Stretch training	d	20
+M13_45_1	Fitness-related capacity	m	20
+M13_45_1	Motion	e	20
+M13_45_1	Contracture	m	20
+M13_45_1	Injury	e	20
+M13_45_2	Stretch training	d	20
+M13_45_2	Muscle hypertrophy	d	20
+M13_45_2	In vitro model	d	20
+M13_45_3	Stretch training	d	20
+M13_45_3	Muscle hypertrophy	d	20
+M13_45_4	Stretch training	d	20
+M13_45_4	Muscle structure	e	20
+M13_45_5	Stretching	d	20
+M13_45_5	Apparatus	m	20
+M13_45_6	Stretching	d	20
+M13_45_6	Resistance training	d	20
+M13_45_6	Muscle growth	e	20
+M13_45_7	Stretch	d	20
+M13_45_7	Stretching	d	20
+M13_45_7	Tensile strain	d	20
+M13_45_7	Muscle contraction	d	20
+M13_45_7	Muscle hypertrophy	d	20
+M14_46_1	Cycle training	m	20
+M14_46_1	Aerobic capacity	d	20
+M14_46_1	Cardiovascular health	m	20
+M14_46_2	Cycle training	m	20
+M14_46_3	Cycle training	m	20
+M14_46_4	Hypertrophy rate	d	20
+M14_46_5	Cycle training	m	20
+M14_46_5	Muscle hypertrophy	d	20
+M14_46_6	Higher-intensity intermittent cycling	d	20
+M14_46_7	Muscle hypertrophy	d	20
+M14_46_7	Cycle training	m	20
+M14_46_7	Muscle protein net balance	d	20
+G07.1_2111507945_1	hotbed	m	21
+G07.1_2111507945_1	misinformation	e	21
+G07.1_2111507945_2	social media	e	21
+G07.1_2111507945_3	framework	e	21
+G07.1_2111507945_4	microblog contents	d	21
+G07.1_2111507945_5	assessments	e	21
+G07.1_2111507945_6	identification	e	21
+G07.1_2111507945_7	tag-based method	d	21
+G07.1_2111507945_7	social tags	d	21
+G07.1_2111507945_8	dataset	d	21
+G07.1_2111507945_8	effectiveness	e	21
+G09.1_2202800066_1	mobile devices	m	21
+G09.1_2202800066_2	desktop	e	21
+G09.1_2202800066_2	laptop	e	21
+G09.1_2202800066_3	applications	e	21
+G09.1_2202800066_4	illegal activities	m	21
+G09.1_2202800066_5	cyber crimes	d	21
+G09.1_2202800066_5	hike	e	21
+G09.1_2202800066_6	cyber forensic tools	d	21
+G09.1_2202800066_7	digital evidence	d	21
+G09.1_2202800066_8	WinCE PDAs	d	21
+G05.1_2584932255_1	gene editing	d	21
+G05.1_2584932255_1	health care allocation	m	21
+G05.1_2584932255_2	public good	e	21
+G05.1_2584932255_3	In Vitro Fertilization	d	21
+G05.1_2584932255_3	Pre-implantation Genetic Diagnosis	d	21
+G05.1_2584932255_4	scenario	e	21
+G05.1_2584932255_5	moral obbligations	e	21
+G05.1_2584932255_6	artificial womb	d	21
+G05.1_2584932255_7	issues	e	21
+G05.1_2584932255_8	human genome modification	d	21
+G07.1_2803622358_1	advent	e	21
+G07.1_2803622358_2	like-minded people	d	21
+G07.1_2803622358_3	debunking	d	21
+G07.1_2803622358_4	polarization	d	21
+G07.1_2803622358_5	path	e	21
+G07.1_2803622358_6	page posting behaviour	e	21
+G07.1_2803622358_7	selective exposure	d	21
+G07.1_2803622367_1	polarized country	d	21
+G07.1_2803622367_2	Bounded Confidence Model	d	21
+G07.1_2803622367_3	pivotal role	e	21
+M1_30_1	educational message	e	21
+M1_30_1	alcohol consumption	e	21
